@@ -191,24 +191,27 @@
 
 /* ─── STATUS TIMELINE ─── */
 .timeline {
+  display: flex;
   margin: 12px 0;
-  overflow-x: auto;
   padding: 4px 0;
 }
 
-.timeline__track {
-  display: flex;
-  align-items: center;
-}
-
-.timeline__step {
-  display: flex;
-  align-items: center;
+.timeline__segment {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
 }
 
-.timeline__step:last-child {
-  flex: 0;
+.timeline__segment--last {
+  flex: 0 0 auto;
+}
+
+.timeline__node {
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 
 .timeline__dot {
@@ -241,29 +244,19 @@
   flex: 1;
   height: 2px;
   background: var(--sand);
-  min-width: 12px;
+  min-width: 8px;
 }
 
 .timeline__line--completed {
   background: var(--forest);
 }
 
-.timeline__labels {
-  display: flex;
-  margin-top: 4px;
-}
-
 .timeline__label {
-  flex: 1;
   font-size: 0.6rem;
   color: var(--forest-mid);
   text-align: center;
   line-height: 1.2;
-}
-
-.timeline__label:last-child {
-  flex: 0;
-  min-width: 50px;
+  margin-top: 4px;
 }
 
 .timeline__label--vote {
@@ -493,9 +486,7 @@
   .bill-card__header { flex-direction: column; gap: 6px; }
   .bill-card__footer { flex-direction: column; align-items: flex-start; }
 
-  .timeline__label {
-    font-size: 0.55rem;
-  }
+  .timeline__label { font-size: 0.55rem; }
 
   .sponsor-popover {
     position: fixed;
