@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-19T13:00:55.224Z",
+  "generated": "2026-02-19T13:45:30.693Z",
   "sessionYear": "2025",
   "totalBills": 20,
   "issues": {
@@ -9,8 +9,8 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb1014",
         "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell phone-free policy.",
         "nickname": "Phone-Free Schools Act",
-        "description": "Requires all PA public schools to adopt bell-to-bell phone-free policies, storing devices in lockers or pouches during school hours.",
-        "note": "Passed Senate 46-1",
+        "description": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
+        "note": null,
         "issues": [
           "Phone-Free Schools",
           "Childhood Independence"
@@ -127,7 +127,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1814",
         "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for possession and use of cell phones.",
         "nickname": "Cell Phones in Schools",
-        "description": "Prohibits students from using cell phones during instructional time in public schools.",
+        "description": "Prohibits student possession and use of cell phones during the school day in public schools. Unlike SB1014, which passed the Senate, this House bill takes a similar approach but was introduced separately by Rep. Steele. Includes exceptions for medical conditions and IEPs.",
         "note": null,
         "issues": [
           "Phone-Free Schools"
@@ -243,7 +243,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb229",
         "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school safety and security, establishing the Cell Phone Lockable Bag Pilot Program.",
         "nickname": "Cell Phone Lockable Bag Pilot Program",
-        "description": "Creates a pilot program for schools to provide lockable phone storage pouches (like Yondr).",
+        "description": "Creates a voluntary two-year pilot program providing grants for schools to purchase lockable phone pouches (like Yondr). Participating schools must track and report changes in student mental health, bullying, violence, and academics. Aims for geographic diversity across the state. Expires December 2026.",
         "note": null,
         "issues": [
           "Phone-Free Schools"
@@ -361,7 +361,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb2215",
         "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, providing for guidelines for user age verification and responsible dialogue; providing for the offense of proh ibited promotion of sexually explicit conduct and for the offense of prohibited promotion of violence; and imposing penalties.",
         "nickname": "Age Verification & Online Safety",
-        "description": "Requires age verification for websites hosting content harmful to minors and creates online safety standards.",
+        "description": "Requires age verification on AI chatbots and platforms hosting harmful content. Covered platforms must freeze existing minor accounts and verify age for new ones. Also creates the offenses of prohibited promotion of sexually explicit conduct and violence to minors, with criminal penalties.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -477,7 +477,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb78",
         "title": "An Act providing for consumer data privacy, for duties of controllers and for duties of processors; and imposing penalties.",
         "nickname": "Consumer Data Privacy Act (House companion)",
-        "description": "House companion to SB112. Consumer data privacy protections including children's data provisions.",
+        "description": "House companion to SB112. Passed the House unanimously. Same framework: comprehensive consumer data privacy protections with specific provisions for children's data, duties for data controllers and processors, and enforcement penalties.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -593,7 +593,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1729",
         "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in miscellaneous offenses, providing for children's online safety.",
         "nickname": "Children's Online Safety",
-        "description": "Establishes comprehensive online safety protections for children including platform duty of care.",
+        "description": "Establishes children's online safety protections under PA criminal code. Creates a duty-of-care framework requiring platforms to protect minors from harmful content and exploitative design features.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -709,7 +709,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1513",
         "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in computer offenses, providing for liability for Internet publishers and distributors of material harmful to minors.",
         "nickname": "Liability for Material Harmful to Minors",
-        "description": "Creates liability for platforms that knowingly distribute material harmful to minors.",
+        "description": "Creates civil liability for internet publishers and distributors of material harmful to minors. Websites with more than 33% harmful content must verify user ages. Failure to comply can result in treble damages. ISPs, search engines, and cloud providers are exempt.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -825,7 +825,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1430",
         "title": "An Act amending Title 50 (Mental Health) of the Pennsylvania Consolidated Statutes, providing for protection of minors on social media; and imposing penalties.",
         "nickname": "Protection of Minors on Social Media (House companion)",
-        "description": "House companion to SB22. Requires parental consent for minors on social media and bans targeted ads to kids.",
+        "description": "House companion to SB22. Requires parental consent for minors under 16 on social media, bans targeted advertising to kids, and prohibits data collection on minors. Same core framework as SB22 but introduced in the House.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -942,7 +942,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb631",
         "title": "An Act providing for parental consent for virtual mental health services provided by a school entity.",
         "nickname": "Parental Consent for School Virtual Mental Health",
-        "description": "Requires schools to obtain parental consent before providing virtual/telehealth mental health services to students.",
+        "description": "Requires schools to get written parental consent before providing any virtual mental health services to students under 18 — including online peer support, non-professional counseling, and AI-based behavioral health tools. Schools must use a standardized consent form renewed annually.",
         "note": null,
         "issues": [
           "Social Media Age/Access",
@@ -1059,7 +1059,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb603",
         "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in computer offenses, providing for Internet protections for minors.",
         "nickname": "Internet Protections for Minors",
-        "description": "Requires internet platforms to verify age and restrict minors' access to harmful content.",
+        "description": "Requires websites where more than one-third of content is harmful to minors to implement age verification (government ID, digital ID, or bank info). Platforms cannot retain identifying data after verification. Exceptions for news organizations and ISPs. Takes effect 90 days after passage.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -1157,7 +1157,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb112",
         "title": "An Act providing for consumer data privacy, for duties of controllers and for duties of processors; and imposing penalties.",
         "nickname": "Consumer Data Privacy Act",
-        "description": "Comprehensive consumer data privacy law with requirements for how companies handle personal data, including children's data.",
+        "description": "Pennsylvania's comprehensive Consumer Data Privacy Act. Establishes rules for how companies collect, process, and sell personal data, with heightened protections for children's data. Creates duties for data controllers and processors, with penalties for violations. Companion to HB78.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -1273,7 +1273,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb939",
         "title": "An Act amending the the act of October 24, 2012 (P.L.1209, No.151), known as the Child Labor Act, further providing for definitions and for employment of minors in a performance; and providing for emp loyment of minors as content creators.",
         "nickname": "Child Content Creator Protections",
-        "description": "Extends child labor protections to minors working as social media content creators, including earnings protections.",
+        "description": "Extends child labor protections to minors who are social media content creators. Requires parents or guardians to set aside a portion of the child's earnings in a trust account, inaccessible until the child turns 18. Part of a multi-state trend following Illinois and California kidfluencer laws.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -1390,7 +1390,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb22",
         "title": "An Act amending Title 50 (Mental Health) of the Pennsylvania Consolidated Statutes, providing for protection of minors on social media; and imposing penalties.",
         "nickname": "Protection of Minors on Social Media",
-        "description": "Prohibits social media platforms from allowing minors under 16 to create accounts without parental consent. Bans targeted advertising to minors.",
+        "description": "Prohibits social media accounts for children under 16 without parental consent. Parents can revoke consent and demand account closure. Bans platforms from mining or selling minors' data and from showing content that could harm their mental health. Enforced by the Attorney General with civil penalties; parents can also sue.",
         "note": null,
         "issues": [
           "Social Media Age/Access"
@@ -1509,7 +1509,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb293",
         "title": "An Act providing for a report on artificial intelligence in the workforce; and imposing duties on the Department of Labor and Industry and Department of Community and Economic Development.",
         "nickname": "AI in the Workforce",
-        "description": "Requires a study on the impact of artificial intelligence on PA's workforce and schools.",
+        "description": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning.",
         "note": null,
         "issues": [
           "EdTech & AI in Schools"
@@ -1625,7 +1625,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb378",
         "title": "An Act amending Title 24 (Education) of the Pennsylvania Consolidated Statutes, in preliminary provisions, providing for student data privacy and protection; conferring powers and imposing duties on t he Department of Education; and imposing penalties.",
         "nickname": "Student Data Privacy and Protection",
-        "description": "Establishes student data privacy protections — limits how ed-tech companies can collect, use, and share student data.",
+        "description": "Comprehensive student data privacy law. Requires the Dept. of Education to appoint a chief data privacy officer. Schools must adopt security measures, designate a data manager, and file annual reports. Defines student data broadly (including biometrics) and limits how ed-tech companies can collect, use, and share it. Includes penalties for noncompliance.",
         "note": null,
         "issues": [
           "EdTech & AI in Schools"
@@ -1743,7 +1743,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb811",
         "title": "An Act providing for civil liability for fraudulent misrepresentation of candidates; and imposing penalties.",
         "nickname": "Deepfake Liability",
-        "description": "Creates civil liability for using AI-generated deepfakes to misrepresent someone, including protections for minors.",
+        "description": "Creates civil liability for AI-generated deepfakes that misrepresent someone. Builds on PA's 2024 deepfake law (Act 125) and 2025 Act 35, which criminalized deepfakes with fraudulent intent. Includes specific protections for minors against AI-generated CSAM and non-consensual intimate images.",
         "note": null,
         "issues": [
           "Online Safety"
@@ -1859,7 +1859,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1098",
         "title": "An Act amending the act of November 22, 1978 (P.L.1166, No.274), referred to as the Pennsylvania Commission on Crime and Delinquency Law, providing for Investigation and Prosecution of Internet Crimes Against Children Program.",
         "nickname": "Alicia's Law (Internet Crimes Against Children)",
-        "description": "Funds a dedicated unit to investigate and prosecute internet crimes against children (ICAC).",
+        "description": "Named for Alicia Kozakiewicz, who was abducted by an internet predator at age 13. Establishes an ICAC (Internet Crimes Against Children) program within PCCD, funded by grants for state and local task forces to investigate and prosecute technology-facilitated child exploitation. Supplements existing federal ICAC funding.",
         "note": null,
         "issues": [
           "Online Safety"
@@ -1977,7 +1977,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb2217",
         "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for recess and lunch periods.",
         "nickname": "Recess and Lunch Periods",
-        "description": "Requires public schools to provide minimum daily recess and adequate lunch periods for all students.",
+        "description": "Requires all PA public schools — K through 12 — to provide at least 30 minutes of recess and 30 minutes for lunch every school day. Notably extends the recess requirement to middle and high school students, not just elementary.",
         "note": null,
         "issues": [
           "Childhood Independence"
@@ -2093,7 +2093,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1873",
         "title": "An Act amending Titles 18 (Crimes and Offenses), 23 (Domestic Relations) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in offenses against the family, further pr oviding for the offense of endangering welfare of children; in child protective services, further providing for definitions and for exclusions from child abuse; and, in juvenile matters, further providing for definitions.",
         "nickname": "Childhood Independence",
-        "description": "Reforms child endangerment laws so parents aren't penalized for allowing age-appropriate independence (free-range parenting).",
+        "description": "Amends child abuse and neglect definitions so that parents aren't penalized for allowing age-appropriate independence — such as walking to school, playing outside unsupervised, or babysitting. Requires prosecutors to show willful or reckless disregard for obvious danger, not just a child being unsupervised. Aims to curb CPS overreach that disproportionately impacts non-white and working families.",
         "note": null,
         "issues": [
           "Childhood Independence"
@@ -2209,7 +2209,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1669",
         "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for free-play recess.",
         "nickname": "Free-Play Recess",
-        "description": "Mandates daily unstructured free-play recess for elementary students in public schools.",
+        "description": "Mandates at least 30 minutes of daily unstructured free-play recess for elementary students. Focuses specifically on child-directed play rather than organized activities, citing benefits for physical health, concentration, and social-emotional development.",
         "note": null,
         "issues": [
           "Childhood Independence"
