@@ -1,7 +1,7 @@
 {
-  "generated": "2026-02-19T13:57:27.081Z",
+  "generated": "2026-02-19T20:45:56.750Z",
   "sessionYear": "2025",
-  "totalBills": 20,
+  "totalBills": 22,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -119,7 +119,124 @@
         ],
         "matchedKeywords": [
           "phone-free",
-          "bell-to-bell"
+          "bell-to-bell",
+          "mobile device AND school"
+        ]
+      },
+      {
+        "id": "HB2176",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2176",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for social media literacy education.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Laid on the table, Feb. 4, 2026",
+        "status": "In House Education Committee — Laid on the table Feb. 4, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jim Prokopiak",
+          "party": "D",
+          "district": "140",
+          "memberId": "2017",
+          "bioPath": "/house/members/bio/2017/representative-jim-prokopiak",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/2017.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-1292",
+          "offices": []
+        },
+        "coSponsorCount": 14,
+        "coSponsors": [
+          {
+            "name": "Rep. Robert Freeman",
+            "party": "D",
+            "district": "136",
+            "memberId": "136",
+            "bioPath": "/house/members/bio/136/rep-robert-freeman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/136.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tim Brennan",
+            "party": "D",
+            "district": "29",
+            "memberId": "1943",
+            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Liz Hanbidge",
+            "party": "D",
+            "district": "61",
+            "memberId": "1834",
+            "bioPath": "/house/members/bio/1834/rep-liz-hanbidge",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "mobile device AND school"
         ]
       },
       {
@@ -236,6 +353,122 @@
         ],
         "matchedKeywords": [
           "cell phone AND school"
+        ]
+      },
+      {
+        "id": "HB1238",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1238",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for restricting possession and use by students of mobile devices .",
+        "nickname": "Mobile Device Restrictions During Instruction",
+        "description": "Restricts student possession and use of mobile devices during instructional time in K-12 public schools. Sponsored by Rep. Barbara Gleim. Narrower in scope than SB1014 and HB1814, which cover the entire school day bell-to-bell — this bill focuses specifically on instruction time only.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Referred to Education, April 17, 2025",
+        "status": "In House Education Committee — Referred April 17, 2025",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 04/17/2025 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Barbara Gleim",
+          "party": "R",
+          "district": "199",
+          "memberId": "1864",
+          "bioPath": "/house/members/bio/1864/representative-barbara-gleim",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1864.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 249-1990",
+          "offices": []
+        },
+        "coSponsorCount": 14,
+        "coSponsors": [
+          {
+            "name": "Rep. Valerie Gaydos",
+            "party": "R",
+            "district": "44",
+            "memberId": "1831",
+            "bioPath": "/house/members/bio/1831/rep-valerie-gaydos",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1831.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jeff Olsommer",
+            "party": "R",
+            "district": "139",
+            "memberId": "2018",
+            "bioPath": "/house/members/bio/2018/rep-jeff-olsommer",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2018.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tina Pickett",
+            "party": "R",
+            "district": "110",
+            "memberId": "97",
+            "bioPath": "/house/members/bio/97/rep-tina-pickett",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/97.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Milou Mackenzie",
+            "party": "R",
+            "district": "131",
+            "memberId": "1909",
+            "bioPath": "/house/members/bio/1909/rep-milou-mackenzie",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1909.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Craig Staats",
+            "party": "R",
+            "district": "145",
+            "memberId": "1707",
+            "bioPath": "/house/members/bio/1707/rep-craig-staats",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1707.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "mobile device AND school"
         ]
       },
       {

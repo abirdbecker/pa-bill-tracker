@@ -2,6 +2,7 @@
   "nicknames": {
     "SB1014": "Phone-Free Schools Act",
     "HB1814": "Cell Phones in Schools",
+    "HB1238": "Mobile Device Restrictions During Instruction",
     "SB229": "Cell Phone Lockable Bag Pilot Program",
     "SB22": "Protection of Minors on Social Media",
     "HB1430": "Protection of Minors on Social Media (House companion)",
@@ -32,6 +33,7 @@
   "descriptions": {
     "SB1014": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
     "HB1814": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
+    "HB1238": "Restricts student possession and use of mobile devices during instructional time in K-12 public schools. Sponsored by Rep. Barbara Gleim. Narrower in scope than SB1014 and HB1814, which cover the entire school day bell-to-bell — this bill focuses specifically on instruction time only.",
     "SB229": "Creates a voluntary two-year pilot program providing grants for schools to purchase lockable phone pouches (like Yondr). Participating schools must track and report changes in student mental health, bullying, violence, and academics. Aims for geographic diversity across the state. Expires December 2026.",
     "SB22": "Prohibits social media accounts for children under 16 without parental consent. Parents can revoke consent and demand account closure. Bans platforms from mining or selling minors' data and from showing content that could harm their mental health. Enforced by the Attorney General with civil penalties; parents can also sue.",
     "HB1430": "House companion to SB22. Requires parental consent for minors under 16 on social media, bans targeted advertising to kids, and prohibits data collection on minors. Same core framework as SB22 but introduced in the House.",
