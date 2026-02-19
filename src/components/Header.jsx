@@ -16,7 +16,7 @@ export default function Header({ generated }) {
       </div>
       <div className="header__methodology">
         <p>
-          This tool automatically scans the Pennsylvania General Assembly website daily for bills related to phone-free schools, social media safety, student data privacy, online safety, and childhood independence. Bills are found by keyword search and verified by our team. Click any bill to read the full text on palegis.us, or click a sponsor for contact info.
+          This tool automatically scans the Pennsylvania General Assembly website daily for bills related to phone-free schools, social media safety, student data privacy, online safety, and childhood independence. Bills are found by keyword search, and unrelated results are filtered out so only relevant legislation appears here. Click any bill to read the full text on palegis.us, or click a sponsor for contact info.
         </p>
       </div>
     </header>
