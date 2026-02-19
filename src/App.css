@@ -191,12 +191,14 @@
 
 /* ─── STATUS TIMELINE ─── */
 .timeline {
-  display: flex;
-  align-items: flex-start;
-  gap: 0;
   margin: 12px 0;
   overflow-x: auto;
   padding: 4px 0;
+}
+
+.timeline__track {
+  display: flex;
+  align-items: center;
 }
 
 .timeline__step {
@@ -240,31 +242,33 @@
   height: 2px;
   background: var(--sand);
   min-width: 12px;
-  margin-top: 7px;
 }
 
 .timeline__line--completed {
   background: var(--forest);
 }
 
+.timeline__labels {
+  display: flex;
+  margin-top: 4px;
+}
+
 .timeline__label {
+  flex: 1;
   font-size: 0.6rem;
   color: var(--forest-mid);
-  max-width: 70px;
   text-align: center;
   line-height: 1.2;
-  margin-top: 4px;
+}
+
+.timeline__label:last-child {
+  flex: 0;
+  min-width: 50px;
 }
 
 .timeline__label--vote {
   font-weight: 600;
   color: var(--forest);
-}
-
-.timeline__step-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 /* ─── SPONSOR CHIP ─── */
@@ -489,33 +493,8 @@
   .bill-card__header { flex-direction: column; gap: 6px; }
   .bill-card__footer { flex-direction: column; align-items: flex-start; }
 
-  .timeline {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0;
-  }
-
-  .timeline__step {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .timeline__step-wrapper {
-    flex-direction: row;
-    gap: 8px;
-  }
-
-  .timeline__line {
-    width: 2px;
-    height: 16px;
-    margin-left: 6px;
-    margin-top: 0;
-  }
-
   .timeline__label {
-    text-align: left;
-    max-width: none;
-    margin-top: 0;
+    font-size: 0.55rem;
   }
 
   .sponsor-popover {

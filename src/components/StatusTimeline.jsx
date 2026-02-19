@@ -36,13 +36,13 @@ export default function StatusTimeline({ steps, billId }) {
 
   return (
     <div className="timeline">
-      {stages.map((stage, i) => {
-        const isLast = i === stages.length - 1;
-        const isCurrent = stage.completed && (isLast || !stages[i + 1]?.completed);
+      <div className="timeline__track">
+        {stages.map((stage, i) => {
+          const isLast = i === stages.length - 1;
+          const isCurrent = stage.completed && (isLast || !stages[i + 1]?.completed);
 
-        return (
-          <div className="timeline__step" key={i}>
-            <div className="timeline__step-wrapper">
+          return (
+            <div className="timeline__step" key={i}>
               <div
                 className={`timeline__dot ${
                   isCurrent ? 'timeline__dot--current' :
@@ -50,16 +50,20 @@ export default function StatusTimeline({ steps, billId }) {
                 } ${stage.vote ? 'timeline__dot--vote' : ''}`}
                 title={stage.detail || stage.label}
               />
-              <span className={`timeline__label ${stage.vote ? 'timeline__label--vote' : ''}`}>
-                {stage.label}
-              </span>
+              {!isLast && (
+                <div className={`timeline__line ${stage.completed ? 'timeline__line--completed' : ''}`} />
+              )}
             </div>
-            {!isLast && (
-              <div className={`timeline__line ${stage.completed ? 'timeline__line--completed' : ''}`} />
-            )}
-          </div>
-        );
-      })}
+          );
+        })}
+      </div>
+      <div className="timeline__labels">
+        {stages.map((stage, i) => (
+          <span key={i} className={`timeline__label ${stage.vote ? 'timeline__label--vote' : ''}`}>
+            {stage.label}
+          </span>
+        ))}
+      </div>
     </div>
   );
 }
