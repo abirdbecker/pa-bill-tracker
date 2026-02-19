@@ -1,0 +1,4 @@
+node_modules
+dist
+.member-cache.json
+.vercel

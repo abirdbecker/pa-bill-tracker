@@ -1,0 +1,33 @@
+{
+  "session_year": "2025",
+  "issues": [
+    {
+      "name": "Phone-Free Schools",
+      "keywords": ["cell phone AND school", "phone-free", "bell-to-bell", "device policy AND school", "device storage AND school"]
+    },
+    {
+      "name": "Social Media Age/Access",
+      "keywords": ["social media AND minor", "social media AND age", "age verification", "parental consent AND online"]
+    },
+    {
+      "name": "EdTech & AI in Schools",
+      "keywords": ["education technology", "artificial intelligence AND school", "screen time AND school", "student data privacy"]
+    },
+    {
+      "name": "Online Safety",
+      "keywords": ["deepfake", "CSAM", "child exploitation", "platform liability AND minor"]
+    },
+    {
+      "name": "Childhood Independence",
+      "keywords": ["free-range", "recess", "outdoor play", "unsupervised AND child"]
+    },
+    {
+      "name": "Device Restrictions",
+      "keywords": ["smartphone AND minor", "smartphone AND age", "device sale AND minor"]
+    },
+    {
+      "name": "Youth Mental Health & Tech",
+      "keywords": ["youth mental health", "digital wellness", "internet addiction", "screen time AND child"]
+    }
+  ]
+}
