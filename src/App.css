@@ -11,13 +11,6 @@
   padding: 40px 0 32px;
 }
 
-.header__logo {
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  margin-bottom: 12px;
-}
-
 .header__title {
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 800;
@@ -30,13 +23,28 @@
 .header__subtitle {
   font-size: 0.95rem;
   color: var(--forest-mid);
-  margin-top: 4px;
+  margin-top: 6px;
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header__methodology {
+  max-width: 620px;
+  margin: 16px auto 0;
+  text-align: left;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--forest-mid);
+  background: var(--forest-pale);
+  border-radius: var(--radius-sm);
+  padding: 14px 18px;
 }
 
 .header__meta {
   font-size: 0.8rem;
   color: var(--sand);
-  margin-top: 8px;
+  margin-top: 12px;
 }
 
 /* ─── ISSUE GROUP ─── */
