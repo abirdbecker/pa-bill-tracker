@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer">
       <p>
         Built by{' '}
-        <a href="https://paunplugged.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://paunplugged.org" target="_blank" rel="noopener noreferrer">
           PA Unplugged
         </a>
       </p>
