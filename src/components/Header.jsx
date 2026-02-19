@@ -9,7 +9,7 @@ export default function Header({ generated }) {
         <div>
           <h1 className="header__title">PA Unplugged Legislation Tracker</h1>
           <p className="header__subtitle">
-            Tracking bills in the Pennsylvania legislature that affect kids, families, and digital wellbeing.
+            Legislation affecting kids and technology in Pennsylvania — from phone-free schools to online safety.
           </p>
         </div>
         {date && <p className="header__meta">Updated {date}</p>}

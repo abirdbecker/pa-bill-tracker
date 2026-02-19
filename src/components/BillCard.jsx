@@ -23,9 +23,6 @@ export default function BillCard({ bill }) {
       </div>
 
       <StatusTimeline steps={bill.timeline} />
-
-      {bill.note && <div className="bill-card__note">{bill.note}</div>}
-
       {bill.status && (
         <div className="bill-card__status">{bill.status}</div>
       )}
