@@ -1,11 +1,44 @@
-export default function StatusTimeline({ steps }) {
+/**
+ * Simplified 5-stage timeline:
+ *   Introduced → 1st Chamber Committee → 1st Chamber Vote → 2nd Chamber Committee → 2nd Chamber Vote → Governor
+ *
+ * Maps from the 9 raw palegis.us steps into these stages.
+ */
+
+const STAGES = [
+  { key: 'introduced', label: 'Introduced' },
+  { key: 'committee1', label: '' },       // filled dynamically: "Senate Committee" or "House Committee"
+  { key: 'vote1', label: '', vote: true }, // "Senate Vote" or "House Vote"
+  { key: 'committee2', label: '' },        // opposite chamber
+  { key: 'vote2', label: '', vote: true },
+  { key: 'governor', label: 'Governor' },
+];
+
+export default function StatusTimeline({ steps, billId }) {
   if (!steps || steps.length === 0) return null;
+
+  // Detect origin chamber from the first step
+  const introLabel = steps[0]?.label || '';
+  const isSenateOrigin = /senate/i.test(introLabel);
+  const c1 = isSenateOrigin ? 'Senate' : 'House';
+  const c2 = isSenateOrigin ? 'House' : 'Senate';
+
+  // Map raw 9 steps → 6 simplified stages
+  // Raw: 0=Introduced, 1=Committee, 2=Reported, 3=Vote, 4=CrossChamber, 5=Committee2, 6=Reported2, 7=Vote2, 8=Governor
+  const stages = [
+    { label: 'Introduced', completed: steps[0]?.completed || false, vote: false },
+    { label: `${c1} Committee`, completed: steps[2]?.completed || false, vote: false },
+    { label: `${c1} Vote`, completed: steps[3]?.completed || false, vote: true, detail: getVoteDetail(steps[3]) },
+    { label: `${c2} Committee`, completed: steps[6]?.completed || false, vote: false },
+    { label: `${c2} Vote`, completed: steps[7]?.completed || false, vote: true, detail: getVoteDetail(steps[7]) },
+    { label: 'Governor', completed: steps[8]?.completed || false, vote: false },
+  ];
 
   return (
     <div className="timeline">
-      {steps.map((step, i) => {
-        const isLast = i === steps.length - 1;
-        const isCurrent = step.completed && (isLast || !steps[i + 1]?.completed);
+      {stages.map((stage, i) => {
+        const isLast = i === stages.length - 1;
+        const isCurrent = stage.completed && (isLast || !stages[i + 1]?.completed);
 
         return (
           <div className="timeline__step" key={i}>
@@ -13,14 +46,16 @@ export default function StatusTimeline({ steps }) {
               <div
                 className={`timeline__dot ${
                   isCurrent ? 'timeline__dot--current' :
-                  step.completed ? 'timeline__dot--completed' : ''
-                }`}
-                title={step.label}
+                  stage.completed ? 'timeline__dot--completed' : ''
+                } ${stage.vote ? 'timeline__dot--vote' : ''}`}
+                title={stage.detail || stage.label}
               />
-              <span className="timeline__label">{simplifyLabel(step.label)}</span>
+              <span className={`timeline__label ${stage.vote ? 'timeline__label--vote' : ''}`}>
+                {stage.label}
+              </span>
             </div>
             {!isLast && (
-              <div className={`timeline__line ${step.completed ? 'timeline__line--completed' : ''}`} />
+              <div className={`timeline__line ${stage.completed ? 'timeline__line--completed' : ''}`} />
             )}
           </div>
         );
@@ -29,11 +64,9 @@ export default function StatusTimeline({ steps }) {
   );
 }
 
-function simplifyLabel(label) {
-  if (!label) return '';
-  // Extract the first meaningful phrase
-  const parts = label.split(' — ');
-  const first = parts[0].trim();
-  // Truncate long labels
-  return first.length > 30 ? first.slice(0, 28) + '...' : first;
+function getVoteDetail(step) {
+  if (!step?.label) return null;
+  // Extract vote count if present, e.g. "final passage (46-1)"
+  const voteMatch = step.label.match(/\((\d+-\d+)\)/);
+  return voteMatch ? `Passed ${voteMatch[1]}` : null;
 }

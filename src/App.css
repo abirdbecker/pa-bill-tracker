@@ -192,7 +192,7 @@
 /* ─── STATUS TIMELINE ─── */
 .timeline {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0;
   margin: 12px 0;
   overflow-x: auto;
@@ -212,7 +212,12 @@
   background: var(--sand);
   border: 2px solid var(--sand);
   flex-shrink: 0;
-  position: relative;
+}
+
+.timeline__dot--vote {
+  border-radius: 3px;
+  width: 16px;
+  height: 16px;
 }
 
 .timeline__dot--completed {
@@ -227,10 +232,11 @@
 }
 
 .timeline__line {
-  width: 24px;
+  width: 20px;
   height: 2px;
   background: var(--sand);
   flex-shrink: 0;
+  margin-top: 7px;
 }
 
 .timeline__line--completed {
@@ -238,12 +244,17 @@
 }
 
 .timeline__label {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
   color: var(--forest-mid);
-  max-width: 80px;
+  max-width: 70px;
   text-align: center;
   line-height: 1.2;
   margin-top: 4px;
+}
+
+.timeline__label--vote {
+  font-weight: 600;
+  color: var(--forest);
 }
 
 .timeline__step-wrapper {
@@ -494,6 +505,7 @@
     width: 2px;
     height: 16px;
     margin-left: 6px;
+    margin-top: 0;
   }
 
   .timeline__label {

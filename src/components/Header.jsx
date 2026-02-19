@@ -7,7 +7,7 @@ export default function Header({ generated }) {
     <header className="header">
       <div className="header__top">
         <div>
-          <h1 className="header__title">PA Unplugged Legislation Tracker</h1>
+          <h1 className="header__title">PA Legislation Tracker</h1>
           <p className="header__subtitle">
             Legislation affecting kids and technology in Pennsylvania — from phone-free schools to online safety.
           </p>
