@@ -59,7 +59,14 @@ function parseBillPage(html) {
 
   const shortMatch = html.match(/id="shortTitle-wrapper">\s*([\s\S]*?)\s*<\/div>/);
   if (shortMatch) {
-    result.shortTitle = shortMatch[1].trim();
+    // Expand hidden text, strip all HTML tags and buttons
+    let short = shortMatch[1]
+      .replace(/class="d-none"/g, '')  // unhide truncated text
+      .replace(/<[^>]+>/g, '')         // strip HTML tags
+      .replace(/\. \. \./g, '')        // remove ellipsis markers
+      .replace(/\s+/g, ' ')
+      .trim();
+    result.shortTitle = short;
   }
 
   const lastActionMatch = html.match(/<strong>Last Action:\s*<\/strong>([\s\S]*?)(?=\n\s*<span)/);

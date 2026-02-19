@@ -12,9 +12,13 @@ export default function BillCard({ bill }) {
           {bill.nickname && (
             <div className="bill-card__nickname">{bill.nickname}</div>
           )}
-          <div className={bill.nickname ? 'bill-card__title' : 'bill-card__nickname'}>
-            {bill.title}
-          </div>
+          {bill.description ? (
+            <div className="bill-card__description">{bill.description}</div>
+          ) : (
+            <div className={bill.nickname ? 'bill-card__title' : 'bill-card__nickname'}>
+              {bill.title}
+            </div>
+          )}
         </div>
       </div>
 

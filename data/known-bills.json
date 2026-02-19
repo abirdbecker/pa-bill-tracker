@@ -13,9 +13,44 @@
     "HB811": "Deepfake Liability",
     "HB2217": "Recess and Lunch Periods",
     "HB1669": "Free-Play Recess",
-    "HB1873": "Childhood Independence"
+    "HB1873": "Childhood Independence",
+    "HB1098": "Alicia's Law (Internet Crimes Against Children)",
+    "HB939": "Child Content Creator Protections",
+    "SB112": "Consumer Data Privacy Act",
+    "HB78": "Consumer Data Privacy Act (House companion)",
+    "SB631": "Parental Consent for School Virtual Mental Health",
+    "SB293": "AI in the Workforce"
   },
-  "hide": [],
+  "hide": [
+    "HB849", "SB361",
+    "HB1200", "SB756", "HB165", "HB1217", "HB434", "HB107",
+    "SB1079", "SB626", "HB2213", "HB1479",
+    "HB416", "HB1188", "HB2153",
+    "SB424", "HB660", "SB194", "SB113", "HB1611",
+    "HB1396"
+  ],
+  "descriptions": {
+    "SB1014": "Requires all PA public schools to adopt bell-to-bell phone-free policies, storing devices in lockers or pouches during school hours.",
+    "HB1814": "Prohibits students from using cell phones during instructional time in public schools.",
+    "SB229": "Creates a pilot program for schools to provide lockable phone storage pouches (like Yondr).",
+    "SB22": "Prohibits social media platforms from allowing minors under 16 to create accounts without parental consent. Bans targeted advertising to minors.",
+    "HB1430": "House companion to SB22. Requires parental consent for minors on social media and bans targeted ads to kids.",
+    "HB2215": "Requires age verification for websites hosting content harmful to minors and creates online safety standards.",
+    "HB1729": "Establishes comprehensive online safety protections for children including platform duty of care.",
+    "SB603": "Requires internet platforms to verify age and restrict minors' access to harmful content.",
+    "HB1513": "Creates liability for platforms that knowingly distribute material harmful to minors.",
+    "SB378": "Establishes student data privacy protections — limits how ed-tech companies can collect, use, and share student data.",
+    "HB811": "Creates civil liability for using AI-generated deepfakes to misrepresent someone, including protections for minors.",
+    "HB1098": "Funds a dedicated unit to investigate and prosecute internet crimes against children (ICAC).",
+    "HB2217": "Requires public schools to provide minimum daily recess and adequate lunch periods for all students.",
+    "HB1669": "Mandates daily unstructured free-play recess for elementary students in public schools.",
+    "HB1873": "Reforms child endangerment laws so parents aren't penalized for allowing age-appropriate independence (free-range parenting).",
+    "HB939": "Extends child labor protections to minors working as social media content creators, including earnings protections.",
+    "SB112": "Comprehensive consumer data privacy law with requirements for how companies handle personal data, including children's data.",
+    "HB78": "House companion to SB112. Consumer data privacy protections including children's data provisions.",
+    "SB631": "Requires schools to obtain parental consent before providing virtual/telehealth mental health services to students.",
+    "SB293": "Requires a study on the impact of artificial intelligence on PA's workforce and schools."
+  },
   "notes": {
     "SB1014": "Passed Senate 46-1"
   }

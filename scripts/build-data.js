@@ -49,6 +49,19 @@ async function getMemberContact(bioPath) {
 
 const delay = (ms) => new Promise(r => setTimeout(r, ms));
 
+/**
+ * Parse a date from lastAction string like "Referred to Education, Feb. 4, 2026"
+ * Returns a Date for sorting (epoch 0 if unparseable)
+ */
+function parseActionDate(lastAction) {
+  if (!lastAction) return new Date(0);
+  // Match patterns like "Feb. 4, 2026" or "Aug. 20, 2025" or "November 18, 2025"
+  const dateMatch = lastAction.match(/(\w+\.?\s+\d{1,2},\s*\d{4})/);
+  if (!dateMatch) return new Date(0);
+  const parsed = new Date(dateMatch[1].replace(/\./g, ''));
+  return isNaN(parsed) ? new Date(0) : parsed;
+}
+
 async function scanIssue(issue) {
   const allBills = new Map();
 
@@ -121,6 +134,7 @@ async function main() {
         url: stub.url,
         title: detail.shortTitle || detail.title || stub.shortTitle,
         nickname: knownBills.nicknames[billId] || null,
+        description: knownBills.descriptions?.[billId] || null,
         note: knownBills.notes[billId] || null,
         issues: issueNames,
         lastAction: detail.lastAction || stub.lastAction,
@@ -147,6 +161,7 @@ async function main() {
         url: stub.url,
         title: stub.shortTitle,
         nickname: knownBills.nicknames[billId] || null,
+        description: knownBills.descriptions?.[billId] || null,
         note: knownBills.notes[billId] || null,
         issues: issueNames,
         lastAction: stub.lastAction,
@@ -173,6 +188,15 @@ async function main() {
     if (grouped[primaryIssue]) {
       grouped[primaryIssue].push(bill);
     }
+  }
+
+  // Sort bills within each issue by most recent activity
+  for (const bills of Object.values(grouped)) {
+    bills.sort((a, b) => {
+      const dateA = parseActionDate(a.lastAction);
+      const dateB = parseActionDate(b.lastAction);
+      return dateB - dateA; // most recent first
+    });
   }
 
   // Remove empty issues

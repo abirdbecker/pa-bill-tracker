@@ -122,6 +122,13 @@
   line-height: 1.4;
 }
 
+.bill-card__description {
+  font-size: 0.88rem;
+  color: var(--forest-mid);
+  margin-top: 4px;
+  line-height: 1.5;
+}
+
 .bill-card__note {
   font-size: 0.8rem;
   font-weight: 600;
