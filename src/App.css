@@ -198,9 +198,6 @@
 
 .timeline__segment {
   flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   min-width: 0;
 }
 
@@ -211,7 +208,6 @@
 .timeline__node {
   display: flex;
   align-items: center;
-  width: 100%;
 }
 
 .timeline__dot {
@@ -252,11 +248,16 @@
 }
 
 .timeline__label {
+  display: block;
+  width: 14px;
   font-size: 0.6rem;
   color: var(--forest-mid);
   text-align: center;
   line-height: 1.2;
   margin-top: 4px;
+  overflow: visible;
+  white-space: nowrap;
+  transform: translateX(calc(-50% + 7px));
 }
 
 .timeline__label--vote {
