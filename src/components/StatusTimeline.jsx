@@ -24,12 +24,12 @@ export default function StatusTimeline({ steps, billId }) {
   const c2 = isSenateOrigin ? 'House' : 'Senate';
 
   // Map raw 9 steps → 6 simplified stages
-  // Raw: 0=Introduced, 1=Committee, 2=Reported, 3=Vote, 4=CrossChamber, 5=Committee2, 6=Reported2, 7=Vote2, 8=Governor
+  // Raw: 0=Introduced, 1=Referred, 2=Reported from committee, 3=Vote, 4=Crosses to 2nd chamber, 5=Referred 2nd, 6=Reported 2nd, 7=Vote 2nd, 8=Governor
   const stages = [
     { label: 'Introduced', completed: steps[0]?.completed || false, vote: false },
-    { label: `${c1} Committee`, completed: steps[2]?.completed || false, vote: false },
+    { label: `${c1} Committee`, completed: steps[1]?.completed || false, vote: false },
     { label: `${c1} Vote`, completed: steps[3]?.completed || false, vote: true, detail: getVoteDetail(steps[3]) },
-    { label: `${c2} Committee`, completed: steps[6]?.completed || false, vote: false },
+    { label: `${c2} Committee`, completed: steps[5]?.completed || false, vote: false },
     { label: `${c2} Vote`, completed: steps[7]?.completed || false, vote: true, detail: getVoteDetail(steps[7]) },
     { label: 'Governor', completed: steps[8]?.completed || false, vote: false },
   ];
