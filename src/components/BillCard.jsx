@@ -26,8 +26,8 @@ export default function BillCard({ bill }) {
 
       {bill.note && <div className="bill-card__note">{bill.note}</div>}
 
-      {bill.lastAction && (
-        <div className="bill-card__last-action">Last action: {bill.lastAction}</div>
+      {bill.status && (
+        <div className="bill-card__status">{bill.status}</div>
       )}
 
       <div className="bill-card__footer">

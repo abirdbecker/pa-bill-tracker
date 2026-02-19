@@ -148,10 +148,15 @@
   display: inline-block;
 }
 
-.bill-card__last-action {
-  font-size: 0.8rem;
-  color: var(--forest-mid);
+.bill-card__status {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--forest);
+  background: var(--forest-pale);
+  padding: 6px 12px;
+  border-radius: 6px;
   margin-top: 8px;
+  display: inline-block;
 }
 
 .bill-card__footer {

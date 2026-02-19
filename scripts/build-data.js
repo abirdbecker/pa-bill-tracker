@@ -50,6 +50,54 @@ async function getMemberContact(bioPath) {
 const delay = (ms) => new Promise(r => setTimeout(r, ms));
 
 /**
+ * Build a clear status string from bill detail + lastAction.
+ * e.g. "In House Education Committee — Referred Feb. 4, 2026"
+ */
+function buildStatus(detail, lastAction) {
+  const parts = [];
+
+  // Where the bill currently sits
+  if (detail.chamber && detail.committee) {
+    parts.push(`In ${detail.chamber} ${detail.committee} Committee`);
+  } else if (detail.chamber) {
+    parts.push(`In the ${detail.chamber}`);
+  }
+
+  // What happened — extract the action and date from lastAction
+  if (lastAction) {
+    // Parse out action type and date
+    // e.g. "Referred to Education, Feb. 4, 2026" → "Referred Feb. 4, 2026"
+    // e.g. "Laid on the table, Nov. 18, 2025" → "Laid on the table Nov. 18, 2025"
+    // e.g. "Third consideration and final passage (46-1), Feb. 3, 2026"
+    const dateMatch = lastAction.match(/,\s*(\w+\.?\s+\d{1,2},\s*\d{4})/);
+    const date = dateMatch ? dateMatch[1] : '';
+
+    // Get the action verb/phrase, stripping redundant committee name
+    let action = lastAction
+      .replace(/,\s*\w+\.?\s+\d{1,2},\s*\d{4}/, '') // remove date
+      .trim()
+      .replace(/,\s*$/, '');                           // trailing comma
+
+    // Remove redundant committee references since we show it in the location
+    if (detail.committee) {
+      action = action
+        .replace(new RegExp(`\\s+to\\s+${detail.committee}.*$`, 'i'), '')
+        .replace(new RegExp(`\\s+from\\s+${detail.committee}.*$`, 'i'), '')
+        .replace(/\s+to\s+[\w\s&]+\[(?:Senate|House)\]$/i, '')
+        .trim();
+    }
+
+    if (action && date) {
+      parts.push(`${action} ${date}`);
+    } else if (lastAction) {
+      parts.push(lastAction);
+    }
+  }
+
+  return parts.join(' — ') || lastAction || '';
+}
+
+/**
  * Parse a date from lastAction string like "Referred to Education, Feb. 4, 2026"
  * Returns a Date for sorting (epoch 0 if unparseable)
  */
@@ -129,6 +177,9 @@ async function main() {
         primeContact = await getMemberContact(detail.primeSponsor.bioPath);
       }
 
+      const lastAction = detail.lastAction || stub.lastAction;
+      const status = buildStatus(detail, lastAction);
+
       const bill = {
         id: billId,
         url: stub.url,
@@ -137,7 +188,8 @@ async function main() {
         description: knownBills.descriptions?.[billId] || null,
         note: knownBills.notes[billId] || null,
         issues: issueNames,
-        lastAction: detail.lastAction || stub.lastAction,
+        lastAction,
+        status,
         chamber: detail.chamber,
         committee: detail.committee,
         timeline: detail.timeline,

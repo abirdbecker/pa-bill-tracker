@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-19T12:49:48.654Z",
+  "generated": "2026-02-19T13:00:55.224Z",
   "sessionYear": "2025",
   "totalBills": 20,
   "issues": {
@@ -16,6 +16,7 @@
           "Childhood Independence"
         ],
         "lastAction": "Referred to Education, Feb. 4, 2026",
+        "status": "In House Education Committee — Referred Feb. 4, 2026",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -132,6 +133,7 @@
           "Phone-Free Schools"
         ],
         "lastAction": "Referred to Education, Aug. 20, 2025",
+        "status": "In House Education Committee — Referred Aug. 20, 2025",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -247,6 +249,7 @@
           "Phone-Free Schools"
         ],
         "lastAction": "Referred to Education, Feb. 3, 2025",
+        "status": "In Senate Education Committee — Referred Feb. 3, 2025",
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -364,6 +367,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Communications & Technology, Feb. 11, 2026",
+        "status": "In House Communications & Technology Committee — Referred Feb. 11, 2026",
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -479,6 +483,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Re-referred to Communications & Technology, Feb. 4, 2026",
+        "status": "In Senate Communications & Technology Committee — Re-referred Feb. 4, 2026",
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -594,6 +599,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Communications & Technology, July 14, 2025",
+        "status": "In House Communications & Technology Committee — Referred July 14, 2025",
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -709,6 +715,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Communications & Technology, May 29, 2025",
+        "status": "In House Communications & Technology Committee — Referred May 29, 2025",
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -824,6 +831,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Communications & Technology, May 8, 2025",
+        "status": "In House Communications & Technology Committee — Referred May 8, 2025",
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -941,6 +949,7 @@
           "EdTech & AI in Schools"
         ],
         "lastAction": "Referred to Education, April 11, 2025",
+        "status": "In Senate Education Committee — Referred April 11, 2025",
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -1056,6 +1065,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Judiciary, April 9, 2025",
+        "status": "In Senate Judiciary Committee — Referred April 9, 2025",
         "chamber": "Senate",
         "committee": "Judiciary",
         "timeline": [
@@ -1153,6 +1163,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Communications & Technology, March 21, 2025",
+        "status": "In Senate Communications & Technology Committee — Referred March 21, 2025",
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1268,6 +1279,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Labor & Industry, March 17, 2025",
+        "status": "In House Labor & Industry Committee — Referred March 17, 2025",
         "chamber": "House",
         "committee": "Labor & Industry",
         "timeline": [
@@ -1384,6 +1396,7 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Referred to Communications & Technology, Jan. 24, 2025",
+        "status": "In Senate Communications & Technology Committee — Referred Jan. 24, 2025",
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1502,6 +1515,7 @@
           "EdTech & AI in Schools"
         ],
         "lastAction": "Laid on the table (Pursuant to Senate Rule 9), Feb. 2, 2026",
+        "status": "In Senate Labor & Industry Committee — Laid on the table (Pursuant to Senate Rule 9) Feb. 2, 2026",
         "chamber": "Senate",
         "committee": "Labor & Industry",
         "timeline": [
@@ -1617,6 +1631,7 @@
           "EdTech & AI in Schools"
         ],
         "lastAction": "Referred to Education, Feb. 26, 2025",
+        "status": "In Senate Education Committee — Referred Feb. 26, 2025",
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -1734,6 +1749,7 @@
           "Online Safety"
         ],
         "lastAction": "Referred to Communications & Technology, June 24, 2025",
+        "status": "In Senate Communications & Technology Committee — Referred June 24, 2025",
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1849,6 +1865,7 @@
           "Online Safety"
         ],
         "lastAction": "Laid on the table, May 5, 2025",
+        "status": "In House Judiciary Committee — Laid on the table May 5, 2025",
         "chamber": "House",
         "committee": "Judiciary",
         "timeline": [
@@ -1966,6 +1983,7 @@
           "Childhood Independence"
         ],
         "lastAction": "Referred to Education, Feb. 12, 2026",
+        "status": "In House Education Committee — Referred Feb. 12, 2026",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -2081,6 +2099,7 @@
           "Childhood Independence"
         ],
         "lastAction": "Laid on the table, Nov. 18, 2025",
+        "status": "In House Children & Youth Committee — Laid on the table Nov. 18, 2025",
         "chamber": "House",
         "committee": "Children & Youth",
         "timeline": [
@@ -2196,6 +2215,7 @@
           "Childhood Independence"
         ],
         "lastAction": "Referred to Education, June 25, 2025",
+        "status": "In House Education Committee — Referred June 25, 2025",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
