@@ -193,7 +193,7 @@
 .timeline {
   display: flex;
   margin: 12px 0;
-  padding: 4px 24px 20px 0;
+  padding: 4px 24px 20px 24px;
 }
 
 .timeline__segment {
