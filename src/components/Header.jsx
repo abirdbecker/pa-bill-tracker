@@ -7,7 +7,7 @@ export default function Header({ totalBills, generated }) {
     <header className="header">
       <h1 className="header__title">PA Unplugged Legislative Tracker</h1>
       <p className="header__subtitle">
-        Tracking {totalBills || 0} bills in the Pennsylvania legislature that affect kids, families, and digital wellbeing.
+        Tracking bills in the Pennsylvania legislature that affect kids, families, and digital wellbeing.
       </p>
       <div className="header__methodology">
         <p>
