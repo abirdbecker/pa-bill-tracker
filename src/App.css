@@ -202,7 +202,11 @@
 .timeline__step {
   display: flex;
   align-items: center;
-  flex-shrink: 0;
+  flex: 1;
+}
+
+.timeline__step:last-child {
+  flex: 0;
 }
 
 .timeline__dot {
@@ -232,10 +236,10 @@
 }
 
 .timeline__line {
-  width: 20px;
+  flex: 1;
   height: 2px;
   background: var(--sand);
-  flex-shrink: 0;
+  min-width: 12px;
   margin-top: 7px;
 }
 
