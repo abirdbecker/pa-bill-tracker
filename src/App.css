@@ -193,12 +193,13 @@
 .timeline {
   display: flex;
   margin: 12px 0;
-  padding: 4px 24px 4px 0;
+  padding: 4px 24px 20px 0;
 }
 
 .timeline__segment {
   flex: 1;
   min-width: 0;
+  position: relative;
 }
 
 .timeline__segment--last {
@@ -248,16 +249,16 @@
 }
 
 .timeline__label {
-  display: block;
-  width: 14px;
+  position: absolute;
+  top: 100%;
+  left: 7px;
+  transform: translateX(-50%);
   font-size: 0.6rem;
   color: var(--forest-mid);
   text-align: center;
   line-height: 1.2;
   margin-top: 4px;
-  overflow: visible;
   white-space: nowrap;
-  transform: translateX(calc(-50% + 7px));
 }
 
 .timeline__label--vote {
