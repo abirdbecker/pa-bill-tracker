@@ -487,6 +487,8 @@
 @media (max-width: 640px) {
   .header__top { flex-direction: column; }
   .header__title { font-size: 1.6rem; }
+  .header__title-org,
+  .header__title-name { display: block; }
   .issue-group__heading { font-size: 1.2rem; }
   .bill-card { padding: 16px; }
   .bill-card__header { flex-direction: column; gap: 6px; }
