@@ -30,7 +30,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header totalBills={data.totalBills} generated={data.generated} />
+      <Header generated={data.generated} />
       {Object.entries(data.issues).map(([issueName, bills]) => (
         <IssueGroup key={issueName} name={issueName} bills={bills} />
       ))}
