@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-19T13:45:30.693Z",
+  "generated": "2026-02-19T13:49:20.641Z",
   "sessionYear": "2025",
   "totalBills": 20,
   "issues": {
@@ -127,7 +127,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/hb1814",
         "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for possession and use of cell phones.",
         "nickname": "Cell Phones in Schools",
-        "description": "Prohibits student possession and use of cell phones during the school day in public schools. Unlike SB1014, which passed the Senate, this House bill takes a similar approach but was introduced separately by Rep. Steele. Includes exceptions for medical conditions and IEPs.",
+        "description": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
         "note": null,
         "issues": [
           "Phone-Free Schools"
