@@ -266,6 +266,10 @@
   color: var(--forest);
 }
 
+.timeline__label-short {
+  display: none;
+}
+
 /* ─── SPONSOR CHIP ─── */
 .sponsor-section {
   display: flex;
@@ -489,6 +493,8 @@
   .bill-card__footer { flex-direction: column; align-items: flex-start; }
 
   .timeline__label { font-size: 0.55rem; }
+  .timeline__label-full { display: none; }
+  .timeline__label-short { display: inline; }
 
   .sponsor-popover {
     position: fixed;

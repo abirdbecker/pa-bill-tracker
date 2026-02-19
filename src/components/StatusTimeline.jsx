@@ -10,15 +10,17 @@ export default function StatusTimeline({ steps }) {
   const isSenateOrigin = /senate/i.test(introLabel);
   const c1 = isSenateOrigin ? 'Senate' : 'House';
   const c2 = isSenateOrigin ? 'House' : 'Senate';
+  const c1s = isSenateOrigin ? 'Sen.' : 'House';
+  const c2s = isSenateOrigin ? 'House' : 'Sen.';
 
   // Raw: 0=Introduced, 1=Referred, 2=Reported, 3=Vote, 4=Crosses, 5=Referred2, 6=Reported2, 7=Vote2, 8=Governor
   const stages = [
-    { label: 'Introduced', completed: steps[0]?.completed || false, vote: false },
-    { label: `${c1} Committee`, completed: steps[1]?.completed || false, vote: false },
-    { label: `${c1} Vote`, completed: steps[3]?.completed || false, vote: true, detail: getVoteDetail(steps[3]) },
-    { label: `${c2} Committee`, completed: steps[5]?.completed || false, vote: false },
-    { label: `${c2} Vote`, completed: steps[7]?.completed || false, vote: true, detail: getVoteDetail(steps[7]) },
-    { label: 'Governor', completed: steps[8]?.completed || false, vote: false },
+    { label: 'Introduced', short: 'Intro', completed: steps[0]?.completed || false, vote: false },
+    { label: `${c1} Committee`, short: `${c1s} Cmte`, completed: steps[1]?.completed || false, vote: false },
+    { label: `${c1} Vote`, short: `${c1s} Vote`, completed: steps[3]?.completed || false, vote: true, detail: getVoteDetail(steps[3]) },
+    { label: `${c2} Committee`, short: `${c2s} Cmte`, completed: steps[5]?.completed || false, vote: false },
+    { label: `${c2} Vote`, short: `${c2s} Vote`, completed: steps[7]?.completed || false, vote: true, detail: getVoteDetail(steps[7]) },
+    { label: 'Governor', short: 'Gov.', completed: steps[8]?.completed || false, vote: false },
   ];
 
   return (
@@ -42,7 +44,8 @@ export default function StatusTimeline({ steps }) {
               )}
             </div>
             <span className={`timeline__label ${stage.vote ? 'timeline__label--vote' : ''}`}>
-              {stage.label}
+              <span className="timeline__label-full">{stage.label}</span>
+              <span className="timeline__label-short">{stage.short}</span>
             </span>
           </div>
         );
