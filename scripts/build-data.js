@@ -236,7 +236,7 @@ async function main() {
   }
 
   for (const bill of fullBills) {
-    const primaryIssue = bill.issues[0];
+    const primaryIssue = knownBills.categoryOverride?.[bill.id] || bill.issues[0];
     if (grouped[primaryIssue]) {
       grouped[primaryIssue].push(bill);
     }

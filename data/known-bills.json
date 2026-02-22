@@ -1,4 +1,7 @@
 {
+  "categoryOverride": {
+    "HB2176": "EdTech & AI in Schools"
+  },
   "nicknames": {
     "SB1014": "Phone-Free Schools Act",
     "HB1814": "Cell Phones in Schools",
@@ -20,7 +23,8 @@
     "SB112": "Consumer Data Privacy Act",
     "HB78": "Consumer Data Privacy Act (House companion)",
     "SB631": "Parental Consent for School Virtual Mental Health",
-    "SB293": "AI in the Workforce"
+    "SB293": "AI in the Workforce",
+    "HB2176": "Social Media Literacy Education"
   },
   "hide": [
     "HB849", "SB361",
@@ -51,7 +55,8 @@
     "SB112": "Pennsylvania's comprehensive Consumer Data Privacy Act. Establishes rules for how companies collect, process, and sell personal data, with heightened protections for children's data. Creates duties for data controllers and processors, with penalties for violations. Companion to HB78.",
     "HB78": "House companion to SB112. Passed the House unanimously. Same framework: comprehensive consumer data privacy protections with specific provisions for children's data, duties for data controllers and processors, and enforcement penalties.",
     "SB631": "Requires schools to get written parental consent before providing any virtual mental health services to students under 18 — including online peer support, non-professional counseling, and AI-based behavioral health tools. Schools must use a standardized consent form renewed annually.",
-    "SB293": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning."
+    "SB293": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning.",
+    "HB2176": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors."
   },
   "notes": {}
 }
