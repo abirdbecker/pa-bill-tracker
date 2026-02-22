@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-22T01:38:02.303Z",
+  "generated": "2026-02-22T01:40:20.808Z",
   "sessionYear": "2025",
   "totalBills": 22,
   "issues": {
@@ -587,6 +587,122 @@
         ],
         "matchedKeywords": [
           "age verification"
+        ]
+      },
+      {
+        "id": "HB2176",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2176",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for social media literacy education.",
+        "nickname": "Social Media Literacy Education",
+        "description": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Laid on the table, Feb. 4, 2026",
+        "status": "In House Education Committee — Laid on the table Feb. 4, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jim Prokopiak",
+          "party": "D",
+          "district": "140",
+          "memberId": "2017",
+          "bioPath": "/house/members/bio/2017/representative-jim-prokopiak",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/2017.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-1292",
+          "offices": []
+        },
+        "coSponsorCount": 14,
+        "coSponsors": [
+          {
+            "name": "Rep. Robert Freeman",
+            "party": "D",
+            "district": "136",
+            "memberId": "136",
+            "bioPath": "/house/members/bio/136/rep-robert-freeman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/136.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tim Brennan",
+            "party": "D",
+            "district": "29",
+            "memberId": "1943",
+            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Liz Hanbidge",
+            "party": "D",
+            "district": "61",
+            "memberId": "1834",
+            "bioPath": "/house/members/bio/1834/rep-liz-hanbidge",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "mobile device AND school"
         ]
       },
       {
@@ -1621,122 +1737,6 @@
       }
     ],
     "EdTech & AI in Schools": [
-      {
-        "id": "HB2176",
-        "url": "https://www.palegis.us/legislation/bills/2025/hb2176",
-        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for social media literacy education.",
-        "nickname": "Social Media Literacy Education",
-        "description": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors.",
-        "note": null,
-        "issues": [
-          "Phone-Free Schools"
-        ],
-        "lastAction": "Laid on the table, Feb. 4, 2026",
-        "status": "In House Education Committee — Laid on the table Feb. 4, 2026",
-        "chamber": "House",
-        "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
-        "primeSponsor": {
-          "name": "Representative Jim Prokopiak",
-          "party": "D",
-          "district": "140",
-          "memberId": "2017",
-          "bioPath": "/house/members/bio/2017/representative-jim-prokopiak",
-          "photoUrl": "https://www.palegis.us/resources/images/members/300/2017.jpg",
-          "chamber": "House",
-          "email": null,
-          "phone": "(717) 787-1292",
-          "offices": []
-        },
-        "coSponsorCount": 14,
-        "coSponsors": [
-          {
-            "name": "Rep. Robert Freeman",
-            "party": "D",
-            "district": "136",
-            "memberId": "136",
-            "bioPath": "/house/members/bio/136/rep-robert-freeman",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/136.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Carol Hill-Evans",
-            "party": "D",
-            "district": "95",
-            "memberId": "1749",
-            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Tim Brennan",
-            "party": "D",
-            "district": "29",
-            "memberId": "1943",
-            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Liz Hanbidge",
-            "party": "D",
-            "district": "61",
-            "memberId": "1834",
-            "bioPath": "/house/members/bio/1834/rep-liz-hanbidge",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Jose Giral",
-            "party": "D",
-            "district": "180",
-            "memberId": "1980",
-            "bioPath": "/house/members/bio/1980/rep-jose-giral",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
-            "chamber": "House"
-          }
-        ],
-        "matchedKeywords": [
-          "mobile device AND school"
-        ]
-      },
       {
         "id": "SB293",
         "url": "https://www.palegis.us/legislation/bills/2025/sb293",
