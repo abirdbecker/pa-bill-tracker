@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-23T14:38:28.396Z",
+  "generated": "2026-02-23T22:09:40.286Z",
   "sessionYear": "2025",
   "totalBills": 22,
   "issues": {
@@ -69,7 +69,7 @@
           "phone": "(412) 785-3070",
           "offices": []
         },
-        "coSponsorCount": 20,
+        "coSponsorCount": 21,
         "coSponsors": [
           {
             "name": "Sen. Vincent Hughes",
