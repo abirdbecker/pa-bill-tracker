@@ -1,6 +1,2628 @@
 {
-  "generated": "2026-02-24T21:57:48.869Z",
+  "generated": "2026-02-25T14:44:10.435Z",
   "sessionYear": "2025",
-  "totalBills": 0,
-  "issues": {}
+  "totalBills": 23,
+  "issues": {
+    "Phone-Free Schools": [
+      {
+        "id": "SB1014",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb1014",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell phone-free policy.",
+        "nickname": "Phone-Free Schools Act",
+        "description": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools",
+          "Childhood Independence"
+        ],
+        "lastAction": "Referred to Education, Feb. 4, 2026",
+        "status": "In House Education Committee — Referred Feb. 4, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 10/10/2025 Referred to EDUCATION [Senate] 02/02/2026 Re-referred to APPROPRIATIONS [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 12/09/2025 Reported as amended from EDUCATION [Senate] 02/03/2026 Re-reported as committed from APPROPRIATIONS [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — 02/03/2026 Third consideration and final passage (46-1)",
+            "completed": true
+          },
+          {
+            "label": "In the House —",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/04/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Devlin Robinson",
+          "party": "R",
+          "district": "37",
+          "memberId": "1924",
+          "bioPath": "/senate/members/bio/1924/senator-devlin-robinson",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1924.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(412) 785-3070",
+          "offices": []
+        },
+        "coSponsorCount": 21,
+        "coSponsors": [
+          {
+            "name": "Sen. Vincent Hughes",
+            "party": "D",
+            "district": "7",
+            "memberId": "152",
+            "bioPath": "/senate/members/bio/152/sen-vincent-hughes",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/152.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Steven Santarsiero",
+            "party": "D",
+            "district": "10",
+            "memberId": "1179",
+            "bioPath": "/senate/members/bio/1179/sen-steven-santarsiero",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1179.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Tracy Pennycuick",
+            "party": "R",
+            "district": "24",
+            "memberId": "1912",
+            "bioPath": "/senate/members/bio/1912/sen-tracy-pennycuick",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1912.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Art Haywood",
+            "party": "D",
+            "district": "4",
+            "memberId": "1689",
+            "bioPath": "/senate/members/bio/1689/sen-art-haywood",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1689.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Maria Collett",
+            "party": "D",
+            "district": "12",
+            "memberId": "1799",
+            "bioPath": "/senate/members/bio/1799/sen-maria-collett",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1799.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "phone-free",
+          "bell-to-bell",
+          "mobile device AND school"
+        ]
+      },
+      {
+        "id": "HB1814",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1814",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for possession and use of cell phones.",
+        "nickname": "Cell Phones in Schools",
+        "description": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Referred to Education, Aug. 20, 2025",
+        "status": "In House Education Committee — Referred Aug. 20, 2025",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 08/20/2025 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Mandy Steele",
+          "party": "D",
+          "district": "33",
+          "memberId": "1945",
+          "bioPath": "/house/members/bio/1945/representative-mandy-steele",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1945.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 705-7141",
+          "offices": []
+        },
+        "coSponsorCount": 16,
+        "coSponsors": [
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Craig Staats",
+            "party": "R",
+            "district": "145",
+            "memberId": "1707",
+            "bioPath": "/house/members/bio/1707/rep-craig-staats",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1707.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tim Brennan",
+            "party": "D",
+            "district": "29",
+            "memberId": "1943",
+            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jill Cooper",
+            "party": "R",
+            "district": "55",
+            "memberId": "1951",
+            "bioPath": "/house/members/bio/1951/rep-jill-cooper",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1951.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "cell phone AND school"
+        ]
+      },
+      {
+        "id": "HB1238",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1238",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for restricting possession and use by students of mobile devices .",
+        "nickname": "Mobile Device Restrictions During Instruction",
+        "description": "Restricts student possession and use of mobile devices during instructional time in K-12 public schools. Sponsored by Rep. Barbara Gleim. Narrower in scope than SB1014 and HB1814, which cover the entire school day bell-to-bell — this bill focuses specifically on instruction time only.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Referred to Education, April 17, 2025",
+        "status": "In House Education Committee — Referred April 17, 2025",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 04/17/2025 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Barbara Gleim",
+          "party": "R",
+          "district": "199",
+          "memberId": "1864",
+          "bioPath": "/house/members/bio/1864/representative-barbara-gleim",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1864.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 249-1990",
+          "offices": []
+        },
+        "coSponsorCount": 14,
+        "coSponsors": [
+          {
+            "name": "Rep. Valerie Gaydos",
+            "party": "R",
+            "district": "44",
+            "memberId": "1831",
+            "bioPath": "/house/members/bio/1831/rep-valerie-gaydos",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1831.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jeff Olsommer",
+            "party": "R",
+            "district": "139",
+            "memberId": "2018",
+            "bioPath": "/house/members/bio/2018/rep-jeff-olsommer",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2018.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tina Pickett",
+            "party": "R",
+            "district": "110",
+            "memberId": "97",
+            "bioPath": "/house/members/bio/97/rep-tina-pickett",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/97.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Milou Mackenzie",
+            "party": "R",
+            "district": "131",
+            "memberId": "1909",
+            "bioPath": "/house/members/bio/1909/rep-milou-mackenzie",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1909.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Craig Staats",
+            "party": "R",
+            "district": "145",
+            "memberId": "1707",
+            "bioPath": "/house/members/bio/1707/rep-craig-staats",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1707.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "mobile device AND school"
+        ]
+      },
+      {
+        "id": "SB229",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb229",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school safety and security, establishing the Cell Phone Lockable Bag Pilot Program.",
+        "nickname": "Cell Phone Lockable Bag Pilot Program",
+        "description": "Creates a voluntary two-year pilot program providing grants for schools to purchase lockable phone pouches (like Yondr). Participating schools must track and report changes in student mental health, bullying, violence, and academics. Aims for geographic diversity across the state. Expires December 2026.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Referred to Education, Feb. 3, 2025",
+        "status": "In Senate Education Committee — Referred Feb. 3, 2025",
+        "chamber": "Senate",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/03/2025 Referred to EDUCATION [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Doug Mastriano",
+          "party": "R",
+          "district": "33",
+          "memberId": "1869",
+          "bioPath": "/senate/members/bio/1869/senator-doug-mastriano",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1869.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(717) 264-6100",
+          "offices": []
+        },
+        "coSponsorCount": 5,
+        "coSponsors": [
+          {
+            "name": "Sen. Wayne Fontana",
+            "party": "D",
+            "district": "42",
+            "memberId": "1041",
+            "bioPath": "/senate/members/bio/1041/sen-wayne-fontana",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Rosemary Brown",
+            "party": "R",
+            "district": "40",
+            "memberId": "1200",
+            "bioPath": "/senate/members/bio/1200/sen-rosemary-brown",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1200.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Scott Hutchinson",
+            "party": "R",
+            "district": "21",
+            "memberId": "1629",
+            "bioPath": "/senate/members/bio/1629/sen-scott-hutchinson",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1629.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Chris Gebhard",
+            "party": "R",
+            "district": "48",
+            "memberId": "1928",
+            "bioPath": "/senate/members/bio/1928/sen-chris-gebhard",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1928.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Elder Vogel",
+            "party": "R",
+            "district": "47",
+            "memberId": "1189",
+            "bioPath": "/senate/members/bio/1189/sen-elder-vogel",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1189.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "cell phone AND school"
+        ]
+      }
+    ],
+    "Social Media Age/Access": [
+      {
+        "id": "HB2215",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2215",
+        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, providing for guidelines for user age verification and responsible dialogue; providing for the offense of proh ibited promotion of sexually explicit conduct and for the offense of prohibited promotion of violence; and imposing penalties.",
+        "nickname": "Age Verification & Online Safety",
+        "description": "Requires age verification on AI chatbots and platforms hosting harmful content. Covered platforms must freeze existing minor accounts and verify age for new ones. Also creates the offenses of prohibited promotion of sexually explicit conduct and violence to minors, with criminal penalties.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Communications & Technology, Feb. 11, 2026",
+        "status": "In House Communications & Technology Committee — Referred Feb. 11, 2026",
+        "chamber": "House",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/11/2026 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jeanne McNeill",
+          "party": "D",
+          "district": "133",
+          "memberId": "1793",
+          "bioPath": "/house/members/bio/1793/representative-jeanne-mcneill",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1793.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 772-9902",
+          "offices": []
+        },
+        "coSponsorCount": 16,
+        "coSponsors": [
+          {
+            "name": "Rep. Chris Pielli",
+            "party": "D",
+            "district": "156",
+            "memberId": "1975",
+            "bioPath": "/house/members/bio/1975/rep-chris-pielli",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1975.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Greg Scott",
+            "party": "D",
+            "district": "54",
+            "memberId": "1950",
+            "bioPath": "/house/members/bio/1950/rep-greg-scott",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1950.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Patrick Harkins",
+            "party": "D",
+            "district": "1",
+            "memberId": "1081",
+            "bioPath": "/house/members/bio/1081/rep-patrick-harkins",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1081.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Melissa Shusterman",
+            "party": "D",
+            "district": "157",
+            "memberId": "1851",
+            "bioPath": "/house/members/bio/1851/rep-melissa-shusterman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1851.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "age verification"
+        ]
+      },
+      {
+        "id": "HB2176",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2176",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for social media literacy education.",
+        "nickname": "Social Media Literacy Education",
+        "description": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools"
+        ],
+        "lastAction": "Laid on the table, Feb. 4, 2026",
+        "status": "In House Education Committee — Laid on the table Feb. 4, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jim Prokopiak",
+          "party": "D",
+          "district": "140",
+          "memberId": "2017",
+          "bioPath": "/house/members/bio/2017/representative-jim-prokopiak",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/2017.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-1292",
+          "offices": []
+        },
+        "coSponsorCount": 14,
+        "coSponsors": [
+          {
+            "name": "Rep. Robert Freeman",
+            "party": "D",
+            "district": "136",
+            "memberId": "136",
+            "bioPath": "/house/members/bio/136/rep-robert-freeman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/136.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tim Brennan",
+            "party": "D",
+            "district": "29",
+            "memberId": "1943",
+            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Liz Hanbidge",
+            "party": "D",
+            "district": "61",
+            "memberId": "1834",
+            "bioPath": "/house/members/bio/1834/rep-liz-hanbidge",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "mobile device AND school"
+        ]
+      },
+      {
+        "id": "HB78",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb78",
+        "title": "An Act providing for consumer data privacy, for duties of controllers and for duties of processors; and imposing penalties.",
+        "nickname": "Consumer Data Privacy Act (House companion)",
+        "description": "House companion to SB112. Passed the House unanimously. Same framework: comprehensive consumer data privacy protections with specific provisions for children's data, duties for data controllers and processors, and enforcement penalties.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Re-referred to Communications & Technology, Feb. 4, 2026",
+        "status": "In Senate Communications & Technology Committee — Re-referred Feb. 4, 2026",
+        "chamber": "Senate",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/14/2025 Referred to COMMERCE [House] 04/23/2025 Re-committed to APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 03/18/2025 Reported as amended from COMMERCE [House] 10/01/2025 Re-reported as committed from APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — 10/01/2025 Third consideration and final passage (127-76)",
+            "completed": true
+          },
+          {
+            "label": "In the Senate —",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 10/03/2025 Referred to CONSUMER PROTECTION AND PROFESSIONAL LICENSURE [Senate] 02/04/2026 Re-referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 02/04/2026 Reported as committed from CONSUMER PROTECTION AND PROFESSIONAL LICENSURE [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Ed Neilson",
+          "party": "D",
+          "district": "174",
+          "memberId": "1615",
+          "bioPath": "/house/members/bio/1615/representative-ed-neilson",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1615.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 772-4032",
+          "offices": []
+        },
+        "coSponsorCount": 22,
+        "coSponsors": [
+          {
+            "name": "Rep. Stephenie Scialabba",
+            "party": "R",
+            "district": "12",
+            "memberId": "1939",
+            "bioPath": "/house/members/bio/1939/rep-stephenie-scialabba",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1939.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Kristine Howard",
+            "party": "D",
+            "district": "167",
+            "memberId": "1856",
+            "bioPath": "/house/members/bio/1856/rep-kristine-howard",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1856.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Steven Mentzer",
+            "party": "R",
+            "district": "97",
+            "memberId": "1642",
+            "bioPath": "/house/members/bio/1642/rep-steven-mentzer",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1642.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Robert Leadbeter",
+            "party": "R",
+            "district": "109",
+            "memberId": "1962",
+            "bioPath": "/house/members/bio/1962/rep-robert-leadbeter",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1962.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "parental consent AND online"
+        ]
+      },
+      {
+        "id": "HB1729",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1729",
+        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in miscellaneous offenses, providing for children's online safety.",
+        "nickname": "Children's Online Safety",
+        "description": "Establishes children's online safety protections under PA criminal code. Creates a duty-of-care framework requiring platforms to protect minors from harmful content and exploitative design features.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Communications & Technology, July 14, 2025",
+        "status": "In House Communications & Technology Committee — Referred July 14, 2025",
+        "chamber": "House",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 07/14/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Manuel Guzman",
+          "party": "D",
+          "district": "127",
+          "memberId": "1908",
+          "bioPath": "/house/members/bio/1908/representative-manuel-guzman",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1908.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-3525",
+          "offices": []
+        },
+        "coSponsorCount": 10,
+        "coSponsors": [
+          {
+            "name": "Rep. Joe Webster",
+            "party": "D",
+            "district": "150",
+            "memberId": "1848",
+            "bioPath": "/house/members/bio/1848/rep-joe-webster",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1848.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Kazeem",
+            "party": "D",
+            "district": "159",
+            "memberId": "1976",
+            "bioPath": "/house/members/bio/1976/rep-carol-kazeem",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1976.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Nikki Rivera",
+            "party": "D",
+            "district": "96",
+            "memberId": "2030",
+            "bioPath": "/house/members/bio/2030/rep-nikki-rivera",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2030.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jim Haddock",
+            "party": "D",
+            "district": "118",
+            "memberId": "1966",
+            "bioPath": "/house/members/bio/1966/rep-jim-haddock",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1966.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "age verification"
+        ]
+      },
+      {
+        "id": "HB1513",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1513",
+        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in computer offenses, providing for liability for Internet publishers and distributors of material harmful to minors.",
+        "nickname": "Liability for Material Harmful to Minors",
+        "description": "Creates civil liability for internet publishers and distributors of material harmful to minors. Websites with more than 33% harmful content must verify user ages. Failure to comply can result in treble damages. ISPs, search engines, and cloud providers are exempt.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Communications & Technology, May 29, 2025",
+        "status": "In House Communications & Technology Committee — Referred May 29, 2025",
+        "chamber": "House",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 05/29/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jill Cooper",
+          "party": "R",
+          "district": "55",
+          "memberId": "1951",
+          "bioPath": "/house/members/bio/1951/representative-jill-cooper",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1951.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-8939",
+          "offices": []
+        },
+        "coSponsorCount": 20,
+        "coSponsors": [
+          {
+            "name": "Rep. Johanny Cepeda-Freytiz",
+            "party": "D",
+            "district": "129",
+            "memberId": "1969",
+            "bioPath": "/house/members/bio/1969/rep-johanny-cepeda-freytiz",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1969.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jamie Flick",
+            "party": "R",
+            "district": "83",
+            "memberId": "1954",
+            "bioPath": "/house/members/bio/1954/rep-jamie-flick",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1954.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Rob Kauffman",
+            "party": "R",
+            "district": "89",
+            "memberId": "1022",
+            "bioPath": "/house/members/bio/1022/rep-rob-kauffman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1022.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Robert Leadbeter",
+            "party": "R",
+            "district": "109",
+            "memberId": "1962",
+            "bioPath": "/house/members/bio/1962/rep-robert-leadbeter",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1962.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Andrew Kuzma",
+            "party": "R",
+            "district": "39",
+            "memberId": "1946",
+            "bioPath": "/house/members/bio/1946/rep-andrew-kuzma",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1946.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "age verification"
+        ]
+      },
+      {
+        "id": "HB1430",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1430",
+        "title": "An Act amending Title 50 (Mental Health) of the Pennsylvania Consolidated Statutes, providing for protection of minors on social media; and imposing penalties.",
+        "nickname": "Protection of Minors on Social Media (House companion)",
+        "description": "House companion to SB22. Requires parental consent for minors under 16 on social media, bans targeted advertising to kids, and prohibits data collection on minors. Same core framework as SB22 but introduced in the House.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Communications & Technology, May 8, 2025",
+        "status": "In House Communications & Technology Committee — Referred May 8, 2025",
+        "chamber": "House",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 05/08/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Brian Munroe",
+          "party": "D",
+          "district": "144",
+          "memberId": "1972",
+          "bioPath": "/house/members/bio/1972/representative-brian-munroe",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1972.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 772-1983",
+          "offices": []
+        },
+        "coSponsorCount": 11,
+        "coSponsors": [
+          {
+            "name": "Rep. Melissa Cerrato",
+            "party": "D",
+            "district": "151",
+            "memberId": "1974",
+            "bioPath": "/house/members/bio/1974/rep-melissa-cerrato",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1974.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Christopher Rabb",
+            "party": "D",
+            "district": "200",
+            "memberId": "1760",
+            "bioPath": "/house/members/bio/1760/rep-christopher-rabb",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1760.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "social media AND minor",
+          "social media AND age"
+        ]
+      },
+      {
+        "id": "SB631",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb631",
+        "title": "An Act providing for parental consent for virtual mental health services provided by a school entity.",
+        "nickname": "Parental Consent for School Virtual Mental Health",
+        "description": "Requires schools to get written parental consent before providing any virtual mental health services to students under 18 — including online peer support, non-professional counseling, and AI-based behavioral health tools. Schools must use a standardized consent form renewed annually.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access",
+          "EdTech & AI in Schools"
+        ],
+        "lastAction": "Referred to Education, April 11, 2025",
+        "status": "In Senate Education Committee — Referred April 11, 2025",
+        "chamber": "Senate",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 04/11/2025 Referred to EDUCATION [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Wayne Langerholc",
+          "party": "R",
+          "district": "35",
+          "memberId": "1764",
+          "bioPath": "/senate/members/bio/1764/senator-wayne-langerholc",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1764.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(814) 266-2277",
+          "offices": []
+        },
+        "coSponsorCount": 12,
+        "coSponsors": [
+          {
+            "name": "Sen. Kristin Phillips-Hill",
+            "party": "R",
+            "district": "28",
+            "memberId": "1801",
+            "bioPath": "/senate/members/bio/1801/sen-kristin-phillips-hill",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1801.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. David Argall",
+            "party": "R",
+            "district": "29",
+            "memberId": "69",
+            "bioPath": "/senate/members/bio/69/sen-david-argall",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/69.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Tracy Pennycuick",
+            "party": "R",
+            "district": "24",
+            "memberId": "1912",
+            "bioPath": "/senate/members/bio/1912/sen-tracy-pennycuick",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1912.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Scott Hutchinson",
+            "party": "R",
+            "district": "21",
+            "memberId": "1629",
+            "bioPath": "/senate/members/bio/1629/sen-scott-hutchinson",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1629.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Lisa Baker",
+            "party": "R",
+            "district": "20",
+            "memberId": "1077",
+            "bioPath": "/senate/members/bio/1077/sen-lisa-baker",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1077.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "parental consent AND online"
+        ]
+      },
+      {
+        "id": "SB603",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb603",
+        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in computer offenses, providing for Internet protections for minors.",
+        "nickname": "Internet Protections for Minors",
+        "description": "Requires websites where more than one-third of content is harmful to minors to implement age verification (government ID, digital ID, or bank info). Platforms cannot retain identifying data after verification. Exceptions for news organizations and ISPs. Takes effect 90 days after passage.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Judiciary, April 9, 2025",
+        "status": "In Senate Judiciary Committee — Referred April 9, 2025",
+        "chamber": "Senate",
+        "committee": "Judiciary",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 04/09/2025 Referred to JUDICIARY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Cris Dush",
+          "party": "R",
+          "district": "25",
+          "memberId": "1687",
+          "bioPath": "/senate/members/bio/1687/senator-cris-dush",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1687.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(814) 646-7272",
+          "offices": []
+        },
+        "coSponsorCount": 3,
+        "coSponsors": [
+          {
+            "name": "Sen. Judy Ward",
+            "party": "R",
+            "district": "30",
+            "memberId": "1683",
+            "bioPath": "/senate/members/bio/1683/sen-judy-ward",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1683.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Wayne Fontana",
+            "party": "D",
+            "district": "42",
+            "memberId": "1041",
+            "bioPath": "/senate/members/bio/1041/sen-wayne-fontana",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Patrick Stefano",
+            "party": "R",
+            "district": "32",
+            "memberId": "1697",
+            "bioPath": "/senate/members/bio/1697/sen-patrick-stefano",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1697.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "age verification"
+        ]
+      },
+      {
+        "id": "SB112",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb112",
+        "title": "An Act providing for consumer data privacy, for duties of controllers and for duties of processors; and imposing penalties.",
+        "nickname": "Consumer Data Privacy Act",
+        "description": "Pennsylvania's comprehensive Consumer Data Privacy Act. Establishes rules for how companies collect, process, and sell personal data, with heightened protections for children's data. Creates duties for data controllers and processors, with penalties for violations. Companion to HB78.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Communications & Technology, March 21, 2025",
+        "status": "In Senate Communications & Technology Committee — Referred March 21, 2025",
+        "chamber": "Senate",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 03/21/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Maria Collett",
+          "party": "D",
+          "district": "12",
+          "memberId": "1799",
+          "bioPath": "/senate/members/bio/1799/senator-maria-collett",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1799.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(215) 368-1429",
+          "offices": []
+        },
+        "coSponsorCount": 12,
+        "coSponsors": [
+          {
+            "name": "Sen. Lisa Boscola",
+            "party": "D",
+            "district": "18",
+            "memberId": "179",
+            "bioPath": "/senate/members/bio/179/sen-lisa-boscola",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/179.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Sharif Street",
+            "party": "D",
+            "district": "3",
+            "memberId": "1767",
+            "bioPath": "/senate/members/bio/1767/sen-sharif-street",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1767.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Carolyn Comitta",
+            "party": "D",
+            "district": "19",
+            "memberId": "1790",
+            "bioPath": "/senate/members/bio/1790/sen-carolyn-comitta",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1790.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Art Haywood",
+            "party": "D",
+            "district": "4",
+            "memberId": "1689",
+            "bioPath": "/senate/members/bio/1689/sen-art-haywood",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1689.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Wayne Fontana",
+            "party": "D",
+            "district": "42",
+            "memberId": "1041",
+            "bioPath": "/senate/members/bio/1041/sen-wayne-fontana",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "parental consent AND online"
+        ]
+      },
+      {
+        "id": "HB939",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb939",
+        "title": "An Act amending the the act of October 24, 2012 (P.L.1209, No.151), known as the Child Labor Act, further providing for definitions and for employment of minors in a performance; and providing for emp loyment of minors as content creators.",
+        "nickname": "Child Content Creator Protections",
+        "description": "Extends child labor protections to minors who are social media content creators. Requires parents or guardians to set aside a portion of the child's earnings in a trust account, inaccessible until the child turns 18. Part of a multi-state trend following Illinois and California kidfluencer laws.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Labor & Industry, March 17, 2025",
+        "status": "In House Labor & Industry Committee — Referred March 17, 2025",
+        "chamber": "House",
+        "committee": "Labor & Industry",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 03/17/2025 Referred to LABOR AND INDUSTRY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Liz Hanbidge",
+          "party": "D",
+          "district": "61",
+          "memberId": "1834",
+          "bioPath": "/house/members/bio/1834/representative-liz-hanbidge",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 783-4102",
+          "offices": []
+        },
+        "coSponsorCount": 10,
+        "coSponsors": [
+          {
+            "name": "Rep. Jeanne McNeill",
+            "party": "D",
+            "district": "133",
+            "memberId": "1793",
+            "bioPath": "/house/members/bio/1793/rep-jeanne-mcneill",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1793.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Kristine Howard",
+            "party": "D",
+            "district": "167",
+            "memberId": "1856",
+            "bioPath": "/house/members/bio/1856/rep-kristine-howard",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1856.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Michael Schlossberg",
+            "party": "D",
+            "district": "132",
+            "memberId": "1649",
+            "bioPath": "/house/members/bio/1649/rep-michael-schlossberg",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1649.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Nancy Guenst",
+            "party": "D",
+            "district": "152",
+            "memberId": "1913",
+            "bioPath": "/house/members/bio/1913/rep-nancy-guenst",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1913.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "social media AND minor",
+          "social media AND age"
+        ]
+      },
+      {
+        "id": "SB22",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb22",
+        "title": "An Act amending Title 50 (Mental Health) of the Pennsylvania Consolidated Statutes, providing for protection of minors on social media; and imposing penalties.",
+        "nickname": "Protection of Minors on Social Media",
+        "description": "Prohibits social media accounts for children under 16 without parental consent. Parents can revoke consent and demand account closure. Bans platforms from mining or selling minors' data and from showing content that could harm their mental health. Enforced by the Attorney General with civil penalties; parents can also sue.",
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Communications & Technology, Jan. 24, 2025",
+        "status": "In Senate Communications & Technology Committee — Referred Jan. 24, 2025",
+        "chamber": "Senate",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/24/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Vincent Hughes",
+          "party": "D",
+          "district": "7",
+          "memberId": "152",
+          "bioPath": "/senate/members/bio/152/senator-vincent-hughes",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/152.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(215) 879-7777",
+          "offices": []
+        },
+        "coSponsorCount": 16,
+        "coSponsors": [
+          {
+            "name": "Sen. Kristin Phillips-Hill",
+            "party": "R",
+            "district": "28",
+            "memberId": "1801",
+            "bioPath": "/senate/members/bio/1801/sen-kristin-phillips-hill",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1801.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Tracy Pennycuick",
+            "party": "R",
+            "district": "24",
+            "memberId": "1912",
+            "bioPath": "/senate/members/bio/1912/sen-tracy-pennycuick",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1912.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Greg Rothman",
+            "party": "R",
+            "district": "34",
+            "memberId": "1733",
+            "bioPath": "/senate/members/bio/1733/sen-greg-rothman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1733.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Wayne Fontana",
+            "party": "D",
+            "district": "42",
+            "memberId": "1041",
+            "bioPath": "/senate/members/bio/1041/sen-wayne-fontana",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Rosemary Brown",
+            "party": "R",
+            "district": "40",
+            "memberId": "1200",
+            "bioPath": "/senate/members/bio/1200/sen-rosemary-brown",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1200.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "social media AND minor",
+          "social media AND age"
+        ]
+      }
+    ],
+    "EdTech & AI in Schools": [
+      {
+        "id": "SB1174",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb1174",
+        "title": "An Act providing for the capital budget for fiscal year 2026-2027; itemizing public improvement projects, furniture and equipment projects, transportation assistance, flood control projects, Pennsylva nia Fish and Boat Commission projects and Manufacturing Fund projects leased or assisted by the Department of General Services and other State agencies, together with their estimated financial costs; authorizing the incurring of debt without the approval of the electors for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies; authorizing the use of current revenue for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies stating the estimated useful life of the projects; and making appropriations.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "EdTech & AI in Schools"
+        ],
+        "lastAction": "Referred to Appropriations, Feb. 24, 2026",
+        "status": "In Senate Appropriations Committee — Referred Feb. 24, 2026",
+        "chamber": "Senate",
+        "committee": "Appropriations",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/24/2026 Referred to APPROPRIATIONS [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Vincent Hughes",
+          "party": "D",
+          "district": "7",
+          "memberId": "152",
+          "bioPath": "/senate/members/bio/152/senator-vincent-hughes",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/152.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(215) 879-7777",
+          "offices": []
+        },
+        "coSponsorCount": 0,
+        "coSponsors": [],
+        "matchedKeywords": [
+          "artificial intelligence AND school"
+        ]
+      },
+      {
+        "id": "SB293",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb293",
+        "title": "An Act providing for a report on artificial intelligence in the workforce; and imposing duties on the Department of Labor and Industry and Department of Community and Economic Development.",
+        "nickname": "AI in the Workforce",
+        "description": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning.",
+        "note": null,
+        "issues": [
+          "EdTech & AI in Schools"
+        ],
+        "lastAction": "Laid on the table (Pursuant to Senate Rule 9), Feb. 2, 2026",
+        "status": "In Senate Labor & Industry Committee — Laid on the table (Pursuant to Senate Rule 9) Feb. 2, 2026",
+        "chamber": "Senate",
+        "committee": "Labor & Industry",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 05/12/2025 Referred to LABOR AND INDUSTRY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 10/22/2025 Reported as amended from LABOR AND INDUSTRY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Vincent Hughes",
+          "party": "D",
+          "district": "7",
+          "memberId": "152",
+          "bioPath": "/senate/members/bio/152/senator-vincent-hughes",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/152.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(215) 879-7777",
+          "offices": []
+        },
+        "coSponsorCount": 10,
+        "coSponsors": [
+          {
+            "name": "Sen. Kristin Phillips-Hill",
+            "party": "R",
+            "district": "28",
+            "memberId": "1801",
+            "bioPath": "/senate/members/bio/1801/sen-kristin-phillips-hill",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1801.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Steven Santarsiero",
+            "party": "D",
+            "district": "10",
+            "memberId": "1179",
+            "bioPath": "/senate/members/bio/1179/sen-steven-santarsiero",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1179.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Christine Tartaglione",
+            "party": "D",
+            "district": "2",
+            "memberId": "277",
+            "bioPath": "/senate/members/bio/277/sen-christine-tartaglione",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/277.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Art Haywood",
+            "party": "D",
+            "district": "4",
+            "memberId": "1689",
+            "bioPath": "/senate/members/bio/1689/sen-art-haywood",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1689.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. John Kane",
+            "party": "D",
+            "district": "9",
+            "memberId": "1925",
+            "bioPath": "/senate/members/bio/1925/sen-john-kane",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1925.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "artificial intelligence AND school"
+        ]
+      },
+      {
+        "id": "SB378",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb378",
+        "title": "An Act amending Title 24 (Education) of the Pennsylvania Consolidated Statutes, in preliminary provisions, providing for student data privacy and protection; conferring powers and imposing duties on t he Department of Education; and imposing penalties.",
+        "nickname": "Student Data Privacy and Protection",
+        "description": "Comprehensive student data privacy law. Requires the Dept. of Education to appoint a chief data privacy officer. Schools must adopt security measures, designate a data manager, and file annual reports. Defines student data broadly (including biometrics) and limits how ed-tech companies can collect, use, and share it. Includes penalties for noncompliance.",
+        "note": null,
+        "issues": [
+          "EdTech & AI in Schools"
+        ],
+        "lastAction": "Referred to Education, Feb. 26, 2025",
+        "status": "In Senate Education Committee — Referred Feb. 26, 2025",
+        "chamber": "Senate",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/26/2025 Referred to EDUCATION [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Kristin Phillips-Hill",
+          "party": "R",
+          "district": "28",
+          "memberId": "1801",
+          "bioPath": "/senate/members/bio/1801/senator-kristin-phillips-hill",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1801.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(717) 741-4648",
+          "offices": []
+        },
+        "coSponsorCount": 7,
+        "coSponsors": [
+          {
+            "name": "Sen. Michele Brooks",
+            "party": "R",
+            "district": "50",
+            "memberId": "1087",
+            "bioPath": "/senate/members/bio/1087/sen-michele-brooks",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1087.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Wayne Fontana",
+            "party": "D",
+            "district": "42",
+            "memberId": "1041",
+            "bioPath": "/senate/members/bio/1041/sen-wayne-fontana",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Daniel Laughlin",
+            "party": "R",
+            "district": "49",
+            "memberId": "1766",
+            "bioPath": "/senate/members/bio/1766/sen-daniel-laughlin",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1766.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Judy Ward",
+            "party": "R",
+            "district": "30",
+            "memberId": "1683",
+            "bioPath": "/senate/members/bio/1683/sen-judy-ward",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1683.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Patrick Stefano",
+            "party": "R",
+            "district": "32",
+            "memberId": "1697",
+            "bioPath": "/senate/members/bio/1697/sen-patrick-stefano",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1697.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "student data privacy"
+        ]
+      }
+    ],
+    "Online Safety": [
+      {
+        "id": "HB811",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb811",
+        "title": "An Act providing for civil liability for fraudulent misrepresentation of candidates; and imposing penalties.",
+        "nickname": "Deepfake Liability",
+        "description": "Creates civil liability for AI-generated deepfakes that misrepresent someone. Builds on PA's 2024 deepfake law (Act 125) and 2025 Act 35, which criminalized deepfakes with fraudulent intent. Includes specific protections for minors against AI-generated CSAM and non-consensual intimate images.",
+        "note": null,
+        "issues": [
+          "Online Safety"
+        ],
+        "lastAction": "Referred to Communications & Technology, June 24, 2025",
+        "status": "In Senate Communications & Technology Committee — Referred June 24, 2025",
+        "chamber": "Senate",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 03/05/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House] 06/03/2025 Re-committed to RULES [House] 06/17/2025 Re-committed to APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 06/03/2025 Reported as amended from COMMUNICATIONS AND TECHNOLOGY [House] 06/17/2025 Re-reported as committed from RULES [House] 06/23/2025 Re-reported as committed from APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — 06/23/2025 Third consideration and final passage (203-0)",
+            "completed": true
+          },
+          {
+            "label": "In the Senate —",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 06/24/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Tarik Khan",
+          "party": "D",
+          "district": "194",
+          "memberId": "1983",
+          "bioPath": "/house/members/bio/1983/representative-tarik-khan",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1983.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 783-4945",
+          "offices": []
+        },
+        "coSponsorCount": 33,
+        "coSponsors": [
+          {
+            "name": "Rep. Jeremy Shaffer",
+            "party": "R",
+            "district": "28",
+            "memberId": "2023",
+            "bioPath": "/house/members/bio/2023/rep-jeremy-shaffer",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2023.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. G. Roni Green",
+            "party": "D",
+            "district": "190",
+            "memberId": "1874",
+            "bioPath": "/house/members/bio/1874/rep-g-roni-green",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1874.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Robert Merski",
+            "party": "D",
+            "district": "2",
+            "memberId": "1822",
+            "bioPath": "/house/members/bio/1822/rep-robert-merski",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1822.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Chris Pielli",
+            "party": "D",
+            "district": "156",
+            "memberId": "1975",
+            "bioPath": "/house/members/bio/1975/rep-chris-pielli",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1975.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "deepfake"
+        ]
+      },
+      {
+        "id": "HB1098",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1098",
+        "title": "An Act amending the act of November 22, 1978 (P.L.1166, No.274), referred to as the Pennsylvania Commission on Crime and Delinquency Law, providing for Investigation and Prosecution of Internet Crimes Against Children Program.",
+        "nickname": "Alicia's Law (Internet Crimes Against Children)",
+        "description": "Named for Alicia Kozakiewicz, who was abducted by an internet predator at age 13. Establishes an ICAC (Internet Crimes Against Children) program within PCCD, funded by grants for state and local task forces to investigate and prosecute technology-facilitated child exploitation. Supplements existing federal ICAC funding.",
+        "note": null,
+        "issues": [
+          "Online Safety"
+        ],
+        "lastAction": "Laid on the table, May 5, 2025",
+        "status": "In House Judiciary Committee — Laid on the table May 5, 2025",
+        "chamber": "House",
+        "committee": "Judiciary",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 04/01/2025 Referred to JUDICIARY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 05/05/2025 Reported as amended from JUDICIARY [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jason Ortitay",
+          "party": "R",
+          "district": "46",
+          "memberId": "1701",
+          "bioPath": "/house/members/bio/1701/representative-jason-ortitay",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1701.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-1281",
+          "offices": []
+        },
+        "coSponsorCount": 7,
+        "coSponsors": [
+          {
+            "name": "Rep. Jessica Benham",
+            "party": "D",
+            "district": "36",
+            "memberId": "1899",
+            "bioPath": "/house/members/bio/1899/rep-jessica-benham",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1899.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Bud Cook",
+            "party": "R",
+            "district": "50",
+            "memberId": "1745",
+            "bioPath": "/house/members/bio/1745/rep-bud-cook",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1745.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Maureen Madden",
+            "party": "D",
+            "district": "115",
+            "memberId": "1753",
+            "bioPath": "/house/members/bio/1753/rep-maureen-madden",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1753.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Valerie Gaydos",
+            "party": "R",
+            "district": "44",
+            "memberId": "1831",
+            "bioPath": "/house/members/bio/1831/rep-valerie-gaydos",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1831.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "child exploitation"
+        ]
+      }
+    ],
+    "Childhood Independence": [
+      {
+        "id": "HB2217",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2217",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for recess and lunch periods.",
+        "nickname": "Recess and Lunch Periods",
+        "description": "Requires all PA public schools — K through 12 — to provide at least 30 minutes of recess and 30 minutes for lunch every school day. Notably extends the recess requirement to middle and high school students, not just elementary.",
+        "note": null,
+        "issues": [
+          "Childhood Independence"
+        ],
+        "lastAction": "Referred to Education, Feb. 12, 2026",
+        "status": "In House Education Committee — Referred Feb. 12, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/12/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Danielle Friel Otten",
+          "party": "D",
+          "district": "155",
+          "memberId": "1850",
+          "bioPath": "/house/members/bio/1850/representative-danielle-friel-otten",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1850.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 783-5009",
+          "offices": []
+        },
+        "coSponsorCount": 20,
+        "coSponsors": [
+          {
+            "name": "Rep. Patrick Harkins",
+            "party": "D",
+            "district": "1",
+            "memberId": "1081",
+            "bioPath": "/house/members/bio/1081/rep-patrick-harkins",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1081.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Melissa Shusterman",
+            "party": "D",
+            "district": "157",
+            "memberId": "1851",
+            "bioPath": "/house/members/bio/1851/rep-melissa-shusterman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1851.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Christina Sappey",
+            "party": "D",
+            "district": "158",
+            "memberId": "1852",
+            "bioPath": "/house/members/bio/1852/rep-christina-sappey",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1852.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Liz Hanbidge",
+            "party": "D",
+            "district": "61",
+            "memberId": "1834",
+            "bioPath": "/house/members/bio/1834/rep-liz-hanbidge",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Malcolm Kenyatta",
+            "party": "D",
+            "district": "181",
+            "memberId": "1860",
+            "bioPath": "/house/members/bio/1860/rep-malcolm-kenyatta",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1860.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "recess"
+        ]
+      },
+      {
+        "id": "HB1873",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1873",
+        "title": "An Act amending Titles 18 (Crimes and Offenses), 23 (Domestic Relations) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in offenses against the family, further pr oviding for the offense of endangering welfare of children; in child protective services, further providing for definitions and for exclusions from child abuse; and, in juvenile matters, further providing for definitions.",
+        "nickname": "Childhood Independence",
+        "description": "Amends child abuse and neglect definitions so that parents aren't penalized for allowing age-appropriate independence — such as walking to school, playing outside unsupervised, or babysitting. Requires prosecutors to show willful or reckless disregard for obvious danger, not just a child being unsupervised. Aims to curb CPS overreach that disproportionately impacts non-white and working families.",
+        "note": null,
+        "issues": [
+          "Childhood Independence"
+        ],
+        "lastAction": "Laid on the table, Nov. 18, 2025",
+        "status": "In House Children & Youth Committee — Laid on the table Nov. 18, 2025",
+        "chamber": "House",
+        "committee": "Children & Youth",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 09/22/2025 Referred to CHILDREN AND YOUTH [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 11/18/2025 Reported as amended from CHILDREN AND YOUTH [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Jeanne McNeill",
+          "party": "D",
+          "district": "133",
+          "memberId": "1793",
+          "bioPath": "/house/members/bio/1793/representative-jeanne-mcneill",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1793.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 772-9902",
+          "offices": []
+        },
+        "coSponsorCount": 11,
+        "coSponsors": [
+          {
+            "name": "Rep. Rick Krajewski",
+            "party": "D",
+            "district": "188",
+            "memberId": "1918",
+            "bioPath": "/house/members/bio/1918/rep-rick-krajewski",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1918.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. David Zimmerman",
+            "party": "R",
+            "district": "99",
+            "memberId": "1711",
+            "bioPath": "/house/members/bio/1711/rep-david-zimmerman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1711.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Ben Waxman",
+            "party": "D",
+            "district": "182",
+            "memberId": "1981",
+            "bioPath": "/house/members/bio/1981/rep-ben-waxman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1981.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Joe McAndrew",
+            "party": "D",
+            "district": "32",
+            "memberId": "2011",
+            "bioPath": "/house/members/bio/2011/rep-joe-mcandrew",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2011.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "outdoor play"
+        ]
+      },
+      {
+        "id": "HB1669",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1669",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for free-play recess.",
+        "nickname": "Free-Play Recess",
+        "description": "Mandates at least 30 minutes of daily unstructured free-play recess for elementary students. Focuses specifically on child-directed play rather than organized activities, citing benefits for physical health, concentration, and social-emotional development.",
+        "note": null,
+        "issues": [
+          "Childhood Independence"
+        ],
+        "lastAction": "Referred to Education, June 25, 2025",
+        "status": "In House Education Committee — Referred June 25, 2025",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 06/25/2025 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Tim Briggs",
+          "party": "D",
+          "district": "149",
+          "memberId": "1159",
+          "bioPath": "/house/members/bio/1159/representative-tim-briggs",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1159.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 705-7011",
+          "offices": []
+        },
+        "coSponsorCount": 26,
+        "coSponsors": [
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Johanny Cepeda-Freytiz",
+            "party": "D",
+            "district": "129",
+            "memberId": "1969",
+            "bioPath": "/house/members/bio/1969/rep-johanny-cepeda-freytiz",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1969.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tarik Khan",
+            "party": "D",
+            "district": "194",
+            "memberId": "1983",
+            "bioPath": "/house/members/bio/1983/rep-tarik-khan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1983.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Malcolm Kenyatta",
+            "party": "D",
+            "district": "181",
+            "memberId": "1860",
+            "bioPath": "/house/members/bio/1860/rep-malcolm-kenyatta",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1860.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "recess"
+        ]
+      }
+    ]
+  }
 }
