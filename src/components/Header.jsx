@@ -12,7 +12,12 @@ export default function Header({ generated }) {
             Legislation affecting kids and technology in Pennsylvania — from phone-free schools to online safety.
           </p>
         </div>
-        {date && <p className="header__meta">Updated {date}</p>}
+        <div className="header__right">
+          <a href="https://paunplugged.org" target="_blank" rel="noopener noreferrer" className="header__logo-link">
+            <img src="/logo.png" alt="PA Unplugged" className="header__logo" />
+          </a>
+          {date && <p className="header__meta">Updated {date}</p>}
+        </div>
       </div>
       <div className="header__methodology">
         <p>
