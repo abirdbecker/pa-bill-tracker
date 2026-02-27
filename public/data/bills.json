@@ -1,7 +1,7 @@
 {
-  "generated": "2026-02-26T14:40:40.202Z",
+  "generated": "2026-02-27T13:47:24.586Z",
   "sessionYear": "2025",
-  "totalBills": 23,
+  "totalBills": 26,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -187,7 +187,7 @@
           "phone": "(717) 705-7141",
           "offices": []
         },
-        "coSponsorCount": 16,
+        "coSponsorCount": 17,
         "coSponsors": [
           {
             "name": "Rep. Jose Giral",
@@ -247,7 +247,8 @@
         "description": "Restricts student possession and use of mobile devices during instructional time in K-12 public schools. Sponsored by Rep. Barbara Gleim. Narrower in scope than SB1014 and HB1814, which cover the entire school day bell-to-bell — this bill focuses specifically on instruction time only.",
         "note": null,
         "issues": [
-          "Phone-Free Schools"
+          "Phone-Free Schools",
+          "Childhood Independence"
         ],
         "lastAction": "Referred to Education, April 17, 2025",
         "status": "In House Education Committee — Referred April 17, 2025",
@@ -2388,7 +2389,7 @@
           }
         ],
         "matchedKeywords": [
-          "recess"
+          "recess AND school"
         ]
       },
       {
@@ -2620,7 +2621,355 @@
           }
         ],
         "matchedKeywords": [
-          "recess"
+          "recess AND school"
+        ]
+      },
+      {
+        "id": "HB41",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb41",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in interscholastic athletics accountability, providing for playoffs and championships.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Childhood Independence"
+        ],
+        "lastAction": "Laid on the table, May 12, 2025",
+        "status": "In House Intergovernmental Affairs & Operations Committee — Laid on the table May 12, 2025",
+        "chamber": "House",
+        "committee": "Intergovernmental Affairs & Operations",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/10/2025 Referred to INTERGOVERNMENTAL AFFAIRS AND OPERATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 05/12/2025 Reported as committed from INTERGOVERNMENTAL AFFAIRS AND OPERATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Scott Conklin",
+          "party": "D",
+          "district": "77",
+          "memberId": "1096",
+          "bioPath": "/house/members/bio/1096/representative-scott-conklin",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1096.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-9473",
+          "offices": []
+        },
+        "coSponsorCount": 12,
+        "coSponsors": [
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Ryan Warner",
+            "party": "R",
+            "district": "52",
+            "memberId": "1708",
+            "bioPath": "/house/members/bio/1708/rep-ryan-warner",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1708.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Patrick Harkins",
+            "party": "D",
+            "district": "1",
+            "memberId": "1081",
+            "bioPath": "/house/members/bio/1081/rep-patrick-harkins",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1081.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. G. Roni Green",
+            "party": "D",
+            "district": "190",
+            "memberId": "1874",
+            "bioPath": "/house/members/bio/1874/rep-g-roni-green",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1874.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "recess AND school"
+        ]
+      },
+      {
+        "id": "SB84",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb84",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in construction and renovation of buildings by school entities, further providing for definitions an d for building condition assessments.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Childhood Independence"
+        ],
+        "lastAction": "Referred to Institutional Sustainability & Innovation, Jan. 22, 2025",
+        "status": "In Senate Institutional Sustainability & Innovation Committee — Referred Jan. 22, 2025",
+        "chamber": "Senate",
+        "committee": "Institutional Sustainability & Innovation",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/22/2025 Referred to INSTITUTIONAL SUSTAINABILITY AND INNOVATION [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the House — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator David Argall",
+          "party": "R",
+          "district": "29",
+          "memberId": "69",
+          "bioPath": "/senate/members/bio/69/senator-david-argall",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/69.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(570) 773-0891",
+          "offices": []
+        },
+        "coSponsorCount": 5,
+        "coSponsors": [
+          {
+            "name": "Sen. Rosemary Brown",
+            "party": "R",
+            "district": "40",
+            "memberId": "1200",
+            "bioPath": "/senate/members/bio/1200/sen-rosemary-brown",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1200.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Jarrett Coleman",
+            "party": "R",
+            "district": "16",
+            "memberId": "2008",
+            "bioPath": "/senate/members/bio/2008/sen-jarrett-coleman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2008.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Cris Dush",
+            "party": "R",
+            "district": "25",
+            "memberId": "1687",
+            "bioPath": "/senate/members/bio/1687/sen-cris-dush",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1687.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Wayne Fontana",
+            "party": "D",
+            "district": "42",
+            "memberId": "1041",
+            "bioPath": "/senate/members/bio/1041/sen-wayne-fontana",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Nick Miller",
+            "party": "D",
+            "district": "14",
+            "memberId": "2009",
+            "bioPath": "/senate/members/bio/2009/sen-nick-miller",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2009.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "recess AND school"
+        ]
+      },
+      {
+        "id": "HB229",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb229",
+        "title": "An Act establishing the Keystone Solvency Operating Study Commission; and providing for its powers and duties and for a report.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Childhood Independence"
+        ],
+        "lastAction": "Referred to Appropriations, Jan. 22, 2025",
+        "status": "In House Appropriations Committee — Referred Jan. 22, 2025",
+        "chamber": "House",
+        "committee": "Appropriations",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 01/22/2025 Referred to APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Barbara Gleim",
+          "party": "R",
+          "district": "199",
+          "memberId": "1864",
+          "bioPath": "/house/members/bio/1864/representative-barbara-gleim",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1864.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 249-1990",
+          "offices": []
+        },
+        "coSponsorCount": 5,
+        "coSponsors": [
+          {
+            "name": "Rep. Joe Hamm",
+            "party": "R",
+            "district": "84",
+            "memberId": "1904",
+            "bioPath": "/house/members/bio/1904/rep-joe-hamm",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1904.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Robert Leadbeter",
+            "party": "R",
+            "district": "109",
+            "memberId": "1962",
+            "bioPath": "/house/members/bio/1962/rep-robert-leadbeter",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1962.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Rob Kauffman",
+            "party": "R",
+            "district": "89",
+            "memberId": "1022",
+            "bioPath": "/house/members/bio/1022/rep-rob-kauffman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1022.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Andrew Kuzma",
+            "party": "R",
+            "district": "39",
+            "memberId": "1946",
+            "bioPath": "/house/members/bio/1946/rep-andrew-kuzma",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1946.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. David Zimmerman",
+            "party": "R",
+            "district": "99",
+            "memberId": "1711",
+            "bioPath": "/house/members/bio/1711/rep-david-zimmerman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1711.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "recess AND school"
         ]
       }
     ]
