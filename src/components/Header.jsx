@@ -6,6 +6,9 @@ export default function Header({ generated }) {
   return (
     <header className="header">
       <div className="header__top">
+        <a href="https://paunplugged.org" className="home-link" title="PA Unplugged Home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 12L12 3l9 9"/><path d="M5 10v10a1 1 0 001 1h3v-6h6v6h3a1 1 0 001-1V10"/></svg>
+        </a>
         <div>
           <h1 className="header__title"><span className="header__title-org">PA Unplugged</span> <span className="header__title-name">Legislation Tracker</span></h1>
           <p className="header__subtitle">
