@@ -6,12 +6,12 @@
       "keywords": ["cell phone AND school", "phone-free", "bell-to-bell", "device policy AND school", "device storage AND school", "mobile device AND school"]
     },
     {
-      "name": "Social Media Age/Access",
-      "keywords": ["social media AND minor", "social media AND age", "age verification", "parental consent AND online"]
+      "name": "Education Technology",
+      "keywords": ["education technology", "screen time AND school", "student data privacy"]
     },
     {
-      "name": "EdTech & AI in Schools",
-      "keywords": ["education technology", "artificial intelligence AND school", "screen time AND school", "student data privacy"]
+      "name": "Artificial Intelligence",
+      "keywords": ["artificial intelligence AND minor", "artificial intelligence AND child", "chatbot AND minor", "AI AND child safety"]
     },
     {
       "name": "Online Safety",
@@ -28,6 +28,10 @@
     {
       "name": "Youth Mental Health & Tech",
       "keywords": ["youth mental health", "digital wellness", "internet addiction", "screen time AND child"]
+    },
+    {
+      "name": "Social Media Age/Access",
+      "keywords": ["social media AND minor", "social media AND age", "age verification", "parental consent AND online"]
     }
   ]
 }

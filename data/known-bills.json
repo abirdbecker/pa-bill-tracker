@@ -1,6 +1,7 @@
 {
   "categoryOverride": {
-    "HB2176": "Social Media Age/Access"
+    "HB2176": "Social Media Age/Access",
+    "SB1090": "Artificial Intelligence"
   },
   "nicknames": {
     "SB1014": "Phone-Free Schools Act",
@@ -14,6 +15,7 @@
     "SB603": "Internet Protections for Minors",
     "HB1513": "Liability for Material Harmful to Minors",
     "SB378": "Student Data Privacy and Protection",
+    "SB1090": "Protecting Children from Harmful AI Chat Interactions",
     "HB811": "Deepfake Liability",
     "HB2217": "Recess and Lunch Periods",
     "HB1669": "Free-Play Recess",
@@ -56,7 +58,8 @@
     "HB78": "House companion to SB112. Passed the House unanimously. Same framework: comprehensive consumer data privacy protections with specific provisions for children's data, duties for data controllers and processors, and enforcement penalties.",
     "SB631": "Requires schools to get written parental consent before providing any virtual mental health services to students under 18 — including online peer support, non-professional counseling, and AI-based behavioral health tools. Schools must use a standardized consent form renewed annually.",
     "SB293": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning.",
-    "HB2176": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors."
+    "HB2176": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors.",
+    "SB1090": "Requires AI chatbot providers to implement safeguards protecting minors from harmful interactions. Imposes duties on the Attorney General for enforcement. Passed the Senate 49-1. Sponsored by Sen. Tracy Pennycuick with bipartisan support."
   },
   "notes": {}
 }
