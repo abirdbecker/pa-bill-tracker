@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-23T20:35:58.734Z",
+  "generated": "2026-03-24T20:38:43.923Z",
   "sessionYear": "2025",
   "totalBills": 23,
   "issues": {
@@ -713,8 +713,8 @@
         "id": "HB2252",
         "url": "https://www.palegis.us/legislation/bills/2025/hb2252",
         "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of unlawful dissemination of intimate image.",
-        "nickname": "Nonconsensual Intimate Images",
-        "description": "Overhauls PA's nonconsensual intimate image law (§3131). Removes the 'intent to harass' requirement — making dissemination itself the offense. Broadens coverage from partners to any individual, including AI-generated deepfakes. Adds enhanced penalties for offenses involving minors, intent to harm, or profit motive. Builds on Act 125 of 2024.",
+        "nickname": null,
+        "description": null,
         "note": null,
         "issues": [
           "Artificial Intelligence"
