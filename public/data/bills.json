@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-15T13:05:42.322Z",
+  "generated": "2026-04-15T20:43:49.196Z",
   "sessionYear": "2025",
   "totalBills": 23,
   "issues": {
@@ -1656,17 +1656,17 @@
         "issues": [
           "Phone-Free Schools"
         ],
-        "lastAction": "Removed from table, April 14, 2026",
-        "status": "In House Education Committee — Removed from table April 14, 2026",
+        "lastAction": "Re-committed to Appropriations, April 15, 2026",
+        "status": "In House Appropriations Committee — Re-committed April 15, 2026",
         "chamber": "House",
-        "committee": "Education",
+        "committee": "Appropriations",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
             "completed": true
           },
           {
-            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House]",
+            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House] 04/15/2026 Re-committed to APPROPRIATIONS [House]",
             "completed": true
           },
           {
