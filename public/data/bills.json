@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T13:00:55.169Z",
+  "generated": "2026-04-17T20:41:11.008Z",
   "sessionYear": "2025",
   "totalBills": 23,
   "issues": {
@@ -1360,7 +1360,7 @@
           "phone": "(717) 783-5009",
           "offices": []
         },
-        "coSponsorCount": 22,
+        "coSponsorCount": 23,
         "coSponsors": [
           {
             "name": "Rep. Patrick Harkins",
