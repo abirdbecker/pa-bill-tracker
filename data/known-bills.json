@@ -26,7 +26,9 @@
     "HB78": "Consumer Data Privacy Act (House companion)",
     "SB631": "Parental Consent for School Virtual Mental Health",
     "SB293": "AI in the Workforce",
-    "HB2176": "Social Media Literacy Education"
+    "HB2176": "Social Media Literacy Education",
+    "HB2252": "Nonconsensual Intimate Image Distribution",
+    "HB2006": "AI Companionship App Safety"
   },
   "hide": [
     "HB849", "SB361",
@@ -48,6 +50,7 @@
     "SB603": "Requires websites where more than one-third of content is harmful to minors to implement age verification (government ID, digital ID, or bank info). Platforms cannot retain identifying data after verification. Exceptions for news organizations and ISPs. Takes effect 90 days after passage.",
     "HB1513": "Creates civil liability for internet publishers and distributors of material harmful to minors. Websites with more than 33% harmful content must verify user ages. Failure to comply can result in treble damages. ISPs, search engines, and cloud providers are exempt.",
     "SB378": "Comprehensive student data privacy law. Requires the Dept. of Education to appoint a chief data privacy officer. Schools must adopt security measures, designate a data manager, and file annual reports. Defines student data broadly (including biometrics) and limits how ed-tech companies can collect, use, and share it. Includes penalties for noncompliance.",
+    "SB1090": "Establishes safety requirements for AI chatbot interactions with minors. Requires platforms to implement safeguards against harmful content generation, emotional manipulation, and inappropriate relationships with children.",
     "HB811": "Creates civil liability for AI-generated deepfakes that misrepresent someone. Builds on PA's 2024 deepfake law (Act 125) and 2025 Act 35, which criminalized deepfakes with fraudulent intent. Includes specific protections for minors against AI-generated CSAM and non-consensual intimate images.",
     "HB1098": "Named for Alicia Kozakiewicz, who was abducted by an internet predator at age 13. Establishes an ICAC (Internet Crimes Against Children) program within PCCD, funded by grants for state and local task forces to investigate and prosecute technology-facilitated child exploitation. Supplements existing federal ICAC funding.",
     "HB2217": "Requires all PA public schools — K through 12 — to provide at least 30 minutes of recess and 30 minutes for lunch every school day. Notably extends the recess requirement to middle and high school students, not just elementary.",
@@ -59,7 +62,8 @@
     "SB631": "Requires schools to get written parental consent before providing any virtual mental health services to students under 18 — including online peer support, non-professional counseling, and AI-based behavioral health tools. Schools must use a standardized consent form renewed annually.",
     "SB293": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning.",
     "HB2176": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors.",
-    "SB1090": "Requires AI chatbot providers to implement safeguards protecting minors from harmful interactions. Imposes duties on the Attorney General for enforcement. Passed the Senate 49-1. Sponsored by Sen. Tracy Pennycuick with bipartisan support."
+    "HB2252": "Strengthens Pennsylvania's laws against nonconsensual distribution of intimate images by amending Title 18 (Crimes and Offenses). Builds on the state's existing deepfake laws (Act 125 of 2024 and Act 35 of 2025) to further protect victims of image-based sexual abuse. Sponsored by Rep. Emily Kinkead with co-sponsors including Reps. Lindsay Powell, MaryLouise Isaacson, and Carol Hill-Evans. Referred to Judiciary Committee.",
+    "HB2006": "Establishes safety requirements for AI companionship applications (like Character.ai and Replika) with penalties for noncompliance. Targets the risks these apps pose to minors, including emotional manipulation and inappropriate content. Sponsored by Rep. Melissa Shusterman."
   },
   "notes": {}
 }
