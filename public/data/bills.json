@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T13:11:00.918Z",
+  "generated": "2026-04-20T16:52:04.590Z",
   "sessionYear": "2025",
   "totalBills": 23,
   "issues": {
@@ -13,7 +13,7 @@
         "note": null,
         "issues": [
           "Phone-Free Schools",
-          "Childhood Independence"
+          "Play & Childhood Independence"
         ],
         "lastAction": "Referred to Education, Feb. 4, 2026",
         "status": "In House Education Committee — Referred Feb. 4, 2026",
@@ -248,7 +248,7 @@
         "note": null,
         "issues": [
           "Phone-Free Schools",
-          "Childhood Independence"
+          "Play & Childhood Independence"
         ],
         "lastAction": "Referred to Education, April 17, 2025",
         "status": "In House Education Committee — Referred April 17, 2025",
@@ -597,7 +597,7 @@
         "url": "https://www.palegis.us/legislation/bills/2025/sb1090",
         "title": "An Act providing for disclosures and safeguards relating to the use of artificial intelligence; and imposing duties on the Attorney General.",
         "nickname": "Protecting Children from Harmful AI Chat Interactions",
-        "description": "Requires AI chatbot providers to implement safeguards protecting minors from harmful interactions. Imposes duties on the Attorney General for enforcement. Passed the Senate 49-1. Sponsored by Sen. Tracy Pennycuick with bipartisan support.",
+        "description": "Establishes safety requirements for AI chatbot interactions with minors. Requires platforms to implement safeguards against harmful content generation, emotional manipulation, and inappropriate relationships with children.",
         "note": null,
         "issues": [
           "Artificial Intelligence"
@@ -713,8 +713,8 @@
         "id": "HB2252",
         "url": "https://www.palegis.us/legislation/bills/2025/hb2252",
         "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of unlawful dissemination of intimate image.",
-        "nickname": null,
-        "description": null,
+        "nickname": "Nonconsensual Intimate Image Distribution",
+        "description": "Strengthens Pennsylvania's laws against nonconsensual distribution of intimate images by amending Title 18 (Crimes and Offenses). Builds on the state's existing deepfake laws (Act 125 of 2024 and Act 35 of 2025) to further protect victims of image-based sexual abuse. Sponsored by Rep. Emily Kinkead with co-sponsors including Reps. Lindsay Powell, MaryLouise Isaacson, and Carol Hill-Evans. Referred to Judiciary Committee.",
         "note": null,
         "issues": [
           "Artificial Intelligence"
@@ -1295,7 +1295,7 @@
         ]
       }
     ],
-    "Childhood Independence": [
+    "Play & Childhood Independence": [
       {
         "id": "HB2217",
         "url": "https://www.palegis.us/legislation/bills/2025/hb2217",
@@ -1304,7 +1304,7 @@
         "description": "Requires all PA public schools — K through 12 — to provide at least 30 minutes of recess and 30 minutes for lunch every school day. Notably extends the recess requirement to middle and high school students, not just elementary.",
         "note": null,
         "issues": [
-          "Childhood Independence"
+          "Play & Childhood Independence"
         ],
         "lastAction": "Referred to Education, Feb. 12, 2026",
         "status": "In House Education Committee — Referred Feb. 12, 2026",
@@ -1420,7 +1420,7 @@
         "description": "Amends child abuse and neglect definitions so that parents aren't penalized for allowing age-appropriate independence — such as walking to school, playing outside unsupervised, or babysitting. Requires prosecutors to show willful or reckless disregard for obvious danger, not just a child being unsupervised. Aims to curb CPS overreach that disproportionately impacts non-white and working families.",
         "note": null,
         "issues": [
-          "Childhood Independence"
+          "Play & Childhood Independence"
         ],
         "lastAction": "Laid on the table, Nov. 18, 2025",
         "status": "In House Children & Youth Committee — Laid on the table Nov. 18, 2025",
@@ -1536,7 +1536,7 @@
         "description": "Mandates at least 30 minutes of daily unstructured free-play recess for elementary students. Focuses specifically on child-directed play rather than organized activities, citing benefits for physical health, concentration, and social-emotional development.",
         "note": null,
         "issues": [
-          "Childhood Independence"
+          "Play & Childhood Independence"
         ],
         "lastAction": "Referred to Education, June 25, 2025",
         "status": "In House Education Committee — Referred June 25, 2025",
