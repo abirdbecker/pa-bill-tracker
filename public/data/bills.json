@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-20T16:52:04.590Z",
+  "generated": "2026-04-20T17:01:33.365Z",
   "sessionYear": "2025",
-  "totalBills": 23,
+  "totalBills": 24,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -706,7 +706,8 @@
         ],
         "matchedKeywords": [
           "artificial intelligence AND minor",
-          "chatbot AND minor"
+          "chatbot AND minor",
+          "artificial intelligence AND companionship"
         ]
       },
       {
@@ -940,7 +941,124 @@
         ],
         "matchedKeywords": [
           "artificial intelligence AND minor",
-          "chatbot AND minor"
+          "chatbot AND minor",
+          "artificial intelligence AND companionship"
+        ]
+      },
+      {
+        "id": "HB2006",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2006",
+        "title": "An Act providing for safety regarding artificial intelligence in companionship applications; and imposing a penalty.",
+        "nickname": "AI Companionship App Safety",
+        "description": "Establishes safety requirements for AI companionship applications (like Character.ai and Replika) with penalties for noncompliance. Targets the risks these apps pose to minors, including emotional manipulation and inappropriate content. Sponsored by Rep. Melissa Shusterman.",
+        "note": null,
+        "issues": [
+          "Artificial Intelligence"
+        ],
+        "lastAction": "Referred to Communications & Technology, Nov. 6, 2025",
+        "status": "In House Communications & Technology Committee — Referred Nov. 6, 2025",
+        "chamber": "House",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 11/06/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Melissa Shusterman",
+          "party": "D",
+          "district": "157",
+          "memberId": "1851",
+          "bioPath": "/house/members/bio/1851/representative-melissa-shusterman",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1851.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-7524",
+          "offices": []
+        },
+        "coSponsorCount": 8,
+        "coSponsors": [
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Keith Harris",
+            "party": "D",
+            "district": "195",
+            "memberId": "2020",
+            "bioPath": "/house/members/bio/2020/rep-keith-harris",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2020.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Ismail Smith-Wade-El",
+            "party": "D",
+            "district": "49",
+            "memberId": "1948",
+            "bioPath": "/house/members/bio/1948/rep-ismail-smith-wade-el",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1948.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Ben Waxman",
+            "party": "D",
+            "district": "182",
+            "memberId": "1981",
+            "bioPath": "/house/members/bio/1981/rep-ben-waxman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1981.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tarah Probst",
+            "party": "D",
+            "district": "189",
+            "memberId": "1982",
+            "bioPath": "/house/members/bio/1982/rep-tarah-probst",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1982.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "artificial intelligence AND companionship"
         ]
       },
       {
