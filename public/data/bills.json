@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-27T13:21:38.857Z",
+  "generated": "2026-04-27T20:59:29.461Z",
   "sessionYear": "2025",
   "totalBills": 24,
   "issues": {
@@ -1774,10 +1774,10 @@
         "issues": [
           "Phone-Free Schools"
         ],
-        "lastAction": "Re-committed to Appropriations, April 15, 2026",
-        "status": "In House Appropriations Committee — Re-committed April 15, 2026",
+        "lastAction": "(Remarks see House Journal Page ), April 27, 2026",
+        "status": "In House Education Committee — (Remarks see House Journal Page ) April 27, 2026",
         "chamber": "House",
-        "committee": "Appropriations",
+        "committee": "Education",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -1788,12 +1788,12 @@
             "completed": true
           },
           {
-            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House]",
+            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House] 04/27/2026 Re-reported as committed from APPROPRIATIONS [House]",
             "completed": true
           },
           {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Bill Receives Third Consideration — 04/27/2026 Third consideration and final passage (115-85)",
+            "completed": true
           },
           {
             "label": "In the Senate — Bill has not yet reached this milestone",
@@ -1828,7 +1828,7 @@
           "phone": "(717) 787-1292",
           "offices": []
         },
-        "coSponsorCount": 15,
+        "coSponsorCount": 20,
         "coSponsors": [
           {
             "name": "Rep. Robert Freeman",
