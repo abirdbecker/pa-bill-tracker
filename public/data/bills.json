@@ -1,140 +1,21 @@
 {
-  "generated": "2026-04-28T13:46:53.592Z",
+  "generated": "2026-04-28T21:05:14.692Z",
   "sessionYear": "2025",
   "totalBills": 24,
   "issues": {
     "Phone-Free Schools": [
       {
-        "id": "SB1014",
-        "url": "https://www.palegis.us/legislation/bills/2025/sb1014",
-        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell phone-free policy.",
-        "nickname": "Phone-Free Schools Act",
-        "description": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
-        "note": null,
-        "issues": [
-          "Phone-Free Schools",
-          "Play & Childhood Independence"
-        ],
-        "lastAction": "Referred to Education, Feb. 4, 2026",
-        "status": "In House Education Committee — Referred Feb. 4, 2026",
-        "chamber": "House",
-        "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 10/10/2025 Referred to EDUCATION [Senate] 02/02/2026 Re-referred to APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 12/09/2025 Reported as amended from EDUCATION [Senate] 02/03/2026 Re-reported as committed from APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 02/03/2026 Third consideration and final passage (46-1)",
-            "completed": true
-          },
-          {
-            "label": "In the House —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/04/2026 Referred to EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
-        "primeSponsor": {
-          "name": "Senator Devlin Robinson",
-          "party": "R",
-          "district": "37",
-          "memberId": "1924",
-          "bioPath": "/senate/members/bio/1924/senator-devlin-robinson",
-          "photoUrl": "https://www.palegis.us/resources/images/members/300/1924.jpg",
-          "chamber": "Senate",
-          "email": null,
-          "phone": "(412) 785-3070",
-          "offices": []
-        },
-        "coSponsorCount": 21,
-        "coSponsors": [
-          {
-            "name": "Sen. Vincent Hughes",
-            "party": "D",
-            "district": "7",
-            "memberId": "152",
-            "bioPath": "/senate/members/bio/152/sen-vincent-hughes",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/152.jpg",
-            "chamber": "Senate"
-          },
-          {
-            "name": "Sen. Steven Santarsiero",
-            "party": "D",
-            "district": "10",
-            "memberId": "1179",
-            "bioPath": "/senate/members/bio/1179/sen-steven-santarsiero",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1179.jpg",
-            "chamber": "Senate"
-          },
-          {
-            "name": "Sen. Tracy Pennycuick",
-            "party": "R",
-            "district": "24",
-            "memberId": "1912",
-            "bioPath": "/senate/members/bio/1912/sen-tracy-pennycuick",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1912.jpg",
-            "chamber": "Senate"
-          },
-          {
-            "name": "Sen. Art Haywood",
-            "party": "D",
-            "district": "4",
-            "memberId": "1689",
-            "bioPath": "/senate/members/bio/1689/sen-art-haywood",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1689.jpg",
-            "chamber": "Senate"
-          },
-          {
-            "name": "Sen. Maria Collett",
-            "party": "D",
-            "district": "12",
-            "memberId": "1799",
-            "bioPath": "/senate/members/bio/1799/sen-maria-collett",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1799.jpg",
-            "chamber": "Senate"
-          }
-        ],
-        "matchedKeywords": [
-          "phone-free",
-          "bell-to-bell",
-          "mobile device AND school"
-        ]
-      },
-      {
         "id": "HB1814",
         "url": "https://www.palegis.us/legislation/bills/2025/hb1814",
-        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for possession and use of cell phones.",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell mobile device policy.",
         "nickname": "Cell Phones in Schools",
         "description": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
         "note": null,
         "issues": [
           "Phone-Free Schools"
         ],
-        "lastAction": "Referred to Education, Aug. 20, 2025",
-        "status": "In House Education Committee — Referred Aug. 20, 2025",
+        "lastAction": "Laid on the table, April 28, 2026",
+        "status": "In House Education Committee — Laid on the table April 28, 2026",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -147,8 +28,8 @@
             "completed": true
           },
           {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Reported from Committee — 04/28/2026 Reported as amended from EDUCATION [House]",
+            "completed": true
           },
           {
             "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
@@ -237,6 +118,125 @@
         ],
         "matchedKeywords": [
           "cell phone AND school"
+        ]
+      },
+      {
+        "id": "SB1014",
+        "url": "https://www.palegis.us/legislation/bills/2025/sb1014",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell mobile device policy.",
+        "nickname": "Phone-Free Schools Act",
+        "description": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools",
+          "Play & Childhood Independence"
+        ],
+        "lastAction": "Laid on the table, April 28, 2026",
+        "status": "In House Education Committee — Laid on the table April 28, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the Senate",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 10/10/2025 Referred to EDUCATION [Senate] 02/02/2026 Re-referred to APPROPRIATIONS [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 12/09/2025 Reported as amended from EDUCATION [Senate] 02/03/2026 Re-reported as committed from APPROPRIATIONS [Senate]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — 02/03/2026 Third consideration and final passage (46-1)",
+            "completed": true
+          },
+          {
+            "label": "In the House —",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/04/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 04/28/2026 Re-reported as amended from EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Senator Devlin Robinson",
+          "party": "R",
+          "district": "37",
+          "memberId": "1924",
+          "bioPath": "/senate/members/bio/1924/senator-devlin-robinson",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1924.jpg",
+          "chamber": "Senate",
+          "email": null,
+          "phone": "(412) 785-3070",
+          "offices": []
+        },
+        "coSponsorCount": 21,
+        "coSponsors": [
+          {
+            "name": "Sen. Vincent Hughes",
+            "party": "D",
+            "district": "7",
+            "memberId": "152",
+            "bioPath": "/senate/members/bio/152/sen-vincent-hughes",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/152.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Steven Santarsiero",
+            "party": "D",
+            "district": "10",
+            "memberId": "1179",
+            "bioPath": "/senate/members/bio/1179/sen-steven-santarsiero",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1179.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Tracy Pennycuick",
+            "party": "R",
+            "district": "24",
+            "memberId": "1912",
+            "bioPath": "/senate/members/bio/1912/sen-tracy-pennycuick",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1912.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Art Haywood",
+            "party": "D",
+            "district": "4",
+            "memberId": "1689",
+            "bioPath": "/senate/members/bio/1689/sen-art-haywood",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1689.jpg",
+            "chamber": "Senate"
+          },
+          {
+            "name": "Sen. Maria Collett",
+            "party": "D",
+            "district": "12",
+            "memberId": "1799",
+            "bioPath": "/senate/members/bio/1799/sen-maria-collett",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1799.jpg",
+            "chamber": "Senate"
+          }
+        ],
+        "matchedKeywords": [
+          "phone-free",
+          "bell-to-bell",
+          "mobile device AND school"
         ]
       },
       {
