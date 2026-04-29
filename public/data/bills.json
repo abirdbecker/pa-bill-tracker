@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-28T21:05:14.692Z",
+  "generated": "2026-04-29T13:27:32.001Z",
   "sessionYear": "2025",
   "totalBills": 24,
   "issues": {
@@ -12,7 +12,8 @@
         "description": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
         "note": null,
         "issues": [
-          "Phone-Free Schools"
+          "Phone-Free Schools",
+          "Play & Childhood Independence"
         ],
         "lastAction": "Laid on the table, April 28, 2026",
         "status": "In House Education Committee — Laid on the table April 28, 2026",
@@ -117,7 +118,10 @@
           }
         ],
         "matchedKeywords": [
-          "cell phone AND school"
+          "cell phone AND school",
+          "bell-to-bell",
+          "device policy AND school",
+          "mobile device AND school"
         ]
       },
       {
@@ -236,6 +240,7 @@
         "matchedKeywords": [
           "phone-free",
           "bell-to-bell",
+          "device policy AND school",
           "mobile device AND school"
         ]
       },
