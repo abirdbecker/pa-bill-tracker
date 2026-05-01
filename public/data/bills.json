@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-01T13:00:56.698Z",
+  "generated": "2026-05-01T20:49:39.793Z",
   "sessionYear": "2025",
   "totalBills": 24,
   "issues": {
@@ -1779,9 +1779,9 @@
         "issues": [
           "Phone-Free Schools"
         ],
-        "lastAction": "(Remarks see House Journal Page ), April 27, 2026",
-        "status": "In House Education Committee — (Remarks see House Journal Page ) April 27, 2026",
-        "chamber": "House",
+        "lastAction": "Referred to Education, May 1, 2026",
+        "status": "In Senate Education Committee — Referred May 1, 2026",
+        "chamber": "Senate",
         "committee": "Education",
         "timeline": [
           {
@@ -1801,12 +1801,12 @@
             "completed": true
           },
           {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "In the Senate —",
+            "completed": true
           },
           {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Referred to Committee — 05/01/2026 Referred to EDUCATION [Senate]",
+            "completed": true
           },
           {
             "label": "Reported from Committee — Bill has not yet reached this milestone",
