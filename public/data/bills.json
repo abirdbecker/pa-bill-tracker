@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-05T13:19:16.708Z",
+  "generated": "2026-05-05T21:00:16.296Z",
   "sessionYear": "2025",
   "totalBills": 24,
   "issues": {
@@ -15,8 +15,8 @@
           "Phone-Free Schools",
           "Play & Childhood Independence"
         ],
-        "lastAction": "Laid on the table, April 28, 2026",
-        "status": "In House Education Committee — Laid on the table April 28, 2026",
+        "lastAction": "Removed from table, May 5, 2026",
+        "status": "In House Education Committee — Removed from table May 5, 2026",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -135,8 +135,8 @@
           "Phone-Free Schools",
           "Play & Childhood Independence"
         ],
-        "lastAction": "Laid on the table, April 28, 2026",
-        "status": "In House Education Committee — Laid on the table April 28, 2026",
+        "lastAction": "Removed from table, May 5, 2026",
+        "status": "In House Education Committee — Removed from table May 5, 2026",
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -1195,17 +1195,17 @@
         "issues": [
           "Online Safety"
         ],
-        "lastAction": "Removed from table, May 4, 2026",
-        "status": "In House Judiciary Committee — Removed from table May 4, 2026",
+        "lastAction": "Re-committed to Appropriations, May 5, 2026",
+        "status": "In House Appropriations Committee — Re-committed May 5, 2026",
         "chamber": "House",
-        "committee": "Judiciary",
+        "committee": "Appropriations",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
             "completed": true
           },
           {
-            "label": "Referred to Committee — 04/01/2025 Referred to JUDICIARY [House]",
+            "label": "Referred to Committee — 04/01/2025 Referred to JUDICIARY [House] 05/05/2026 Re-committed to APPROPRIATIONS [House]",
             "completed": true
           },
           {
