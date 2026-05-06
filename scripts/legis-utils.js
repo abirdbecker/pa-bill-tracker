@@ -153,6 +153,21 @@ function parseBillPage(html) {
     result.committee = committeeMatch[1];
   }
 
+  // If the timeline shows the bill was reported from committee in the current
+  // chamber, it's on the floor — clear the committee so status reflects that.
+  if (result.chamber && result.committee && result.timeline.length > 0) {
+    const chamberTag = `[${result.chamber}]`;
+    let inCommittee = false;
+    for (const step of result.timeline) {
+      if (!step.completed) continue;
+      if (step.label.includes(chamberTag) || step.label.includes(`In the ${result.chamber}`)) {
+        if (/Referred to Committee/i.test(step.label)) inCommittee = true;
+        if (/Reported from Committee/i.test(step.label)) inCommittee = false;
+      }
+    }
+    if (!inCommittee) result.committee = '';
+  }
+
   return result;
 }
 

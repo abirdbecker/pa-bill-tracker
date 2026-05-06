@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-06T13:49:06.792Z",
+  "generated": "2026-05-06T16:45:01.692Z",
   "sessionYear": "2025",
-  "totalBills": 24,
+  "totalBills": 25,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -16,9 +16,9 @@
           "Play & Childhood Independence"
         ],
         "lastAction": "Removed from table, May 5, 2026",
-        "status": "In House Education Committee — Removed from table May 5, 2026",
+        "status": "In the House — Removed from table May 5, 2026",
         "chamber": "House",
-        "committee": "Education",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -136,9 +136,9 @@
           "Play & Childhood Independence"
         ],
         "lastAction": "Removed from table, May 5, 2026",
-        "status": "In House Education Committee — Removed from table May 5, 2026",
+        "status": "In the House — Removed from table May 5, 2026",
         "chamber": "House",
-        "committee": "Education",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the Senate",
@@ -490,9 +490,9 @@
           "Education Technology"
         ],
         "lastAction": "First consideration, March 23, 2026",
-        "status": "In Senate Education Committee — First consideration March 23, 2026",
+        "status": "In the Senate — First consideration March 23, 2026",
         "chamber": "Senate",
-        "committee": "Education",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the Senate",
@@ -608,9 +608,9 @@
           "Artificial Intelligence"
         ],
         "lastAction": "Laid on the table, May 4, 2026",
-        "status": "In House Judiciary Committee — Laid on the table May 4, 2026",
+        "status": "In the House — Laid on the table May 4, 2026",
         "chamber": "House",
-        "committee": "Judiciary",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -1196,9 +1196,9 @@
           "Online Safety"
         ],
         "lastAction": "Re-committed to Appropriations, May 5, 2026",
-        "status": "In House Appropriations Committee — Re-committed May 5, 2026",
+        "status": "In the House — Re-committed to Appropriations May 5, 2026",
         "chamber": "House",
-        "committee": "Appropriations",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -1249,7 +1249,7 @@
           "phone": "(717) 787-1281",
           "offices": []
         },
-        "coSponsorCount": 7,
+        "coSponsorCount": 8,
         "coSponsors": [
           {
             "name": "Rep. Jessica Benham",
@@ -1483,7 +1483,7 @@
           "phone": "(717) 783-5009",
           "offices": []
         },
-        "coSponsorCount": 23,
+        "coSponsorCount": 24,
         "coSponsors": [
           {
             "name": "Rep. Patrick Harkins",
@@ -1546,9 +1546,9 @@
           "Play & Childhood Independence"
         ],
         "lastAction": "Laid on the table, Nov. 18, 2025",
-        "status": "In House Children & Youth Committee — Laid on the table Nov. 18, 2025",
+        "status": "In the House — Laid on the table Nov. 18, 2025",
         "chamber": "House",
-        "committee": "Children & Youth",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -1768,6 +1768,124 @@
         ]
       }
     ],
+    "Youth Mental Health & Tech": [
+      {
+        "id": "HB2486",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2486",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for student mental health supports.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Youth Mental Health & Tech"
+        ],
+        "lastAction": "Referred to Education, May 6, 2026",
+        "status": "In House Education Committee — Referred May 6, 2026",
+        "chamber": "House",
+        "committee": "Education",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 05/06/2026 Referred to EDUCATION [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Napoleon J. Nelson",
+          "party": "D",
+          "district": "154",
+          "memberId": "1914",
+          "bioPath": "/house/members/bio/1914/representative-napoleon-j-nelson",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1914.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 783-1079",
+          "offices": []
+        },
+        "coSponsorCount": 9,
+        "coSponsors": [
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Manuel Guzman",
+            "party": "D",
+            "district": "127",
+            "memberId": "1908",
+            "bioPath": "/house/members/bio/1908/rep-manuel-guzman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1908.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Nikki Rivera",
+            "party": "D",
+            "district": "96",
+            "memberId": "2030",
+            "bioPath": "/house/members/bio/2030/rep-nikki-rivera",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2030.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Keith Harris",
+            "party": "D",
+            "district": "195",
+            "memberId": "2020",
+            "bioPath": "/house/members/bio/2020/rep-keith-harris",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2020.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Nancy Guenst",
+            "party": "D",
+            "district": "152",
+            "memberId": "1913",
+            "bioPath": "/house/members/bio/1913/rep-nancy-guenst",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1913.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "youth mental health"
+        ]
+      }
+    ],
     "Social Media Age/Access": [
       {
         "id": "HB2176",
@@ -1896,9 +2014,9 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Re-referred to Communications & Technology, Feb. 4, 2026",
-        "status": "In Senate Communications & Technology Committee — Re-referred Feb. 4, 2026",
+        "status": "In the Senate — Re-referred to Communications & Technology Feb. 4, 2026",
         "chamber": "Senate",
-        "committee": "Communications & Technology",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
