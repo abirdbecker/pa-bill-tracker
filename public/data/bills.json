@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-06T16:45:01.692Z",
+  "generated": "2026-05-06T21:08:51.165Z",
   "sessionYear": "2025",
   "totalBills": 25,
   "issues": {
@@ -15,8 +15,8 @@
           "Phone-Free Schools",
           "Play & Childhood Independence"
         ],
-        "lastAction": "Removed from table, May 5, 2026",
-        "status": "In the House — Removed from table May 5, 2026",
+        "lastAction": "(Remarks see House Journal Page ), May 6, 2026",
+        "status": "In the House — (Remarks see House Journal Page ) May 6, 2026",
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -25,7 +25,7 @@
             "completed": true
           },
           {
-            "label": "Referred to Committee — 08/20/2025 Referred to EDUCATION [House]",
+            "label": "Referred to Committee — 08/20/2025 Referred to EDUCATION [House] 05/06/2026 Re-committed to APPROPRIATIONS [House]",
             "completed": true
           },
           {
@@ -135,8 +135,8 @@
           "Phone-Free Schools",
           "Play & Childhood Independence"
         ],
-        "lastAction": "Removed from table, May 5, 2026",
-        "status": "In the House — Removed from table May 5, 2026",
+        "lastAction": "(Remarks see House Journal Page ....), May 6, 2026",
+        "status": "In the House — (Remarks see House Journal Page ....) May 6, 2026",
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -161,7 +161,7 @@
             "completed": true
           },
           {
-            "label": "Referred to Committee — 02/04/2026 Referred to EDUCATION [House]",
+            "label": "Referred to Committee — 02/04/2026 Referred to EDUCATION [House] 05/06/2026 Re-referred to APPROPRIATIONS [House]",
             "completed": true
           },
           {
@@ -1195,8 +1195,8 @@
         "issues": [
           "Online Safety"
         ],
-        "lastAction": "Re-committed to Appropriations, May 5, 2026",
-        "status": "In the House — Re-committed to Appropriations May 5, 2026",
+        "lastAction": "(Remarks see House Journal Page ), May 6, 2026",
+        "status": "In the House — (Remarks see House Journal Page ) May 6, 2026",
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -1209,12 +1209,12 @@
             "completed": true
           },
           {
-            "label": "Reported from Committee — 05/05/2025 Reported as amended from JUDICIARY [House]",
+            "label": "Reported from Committee — 05/05/2025 Reported as amended from JUDICIARY [House] 05/06/2026 Re-reported as committed from APPROPRIATIONS [House]",
             "completed": true
           },
           {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Bill Receives Third Consideration — 05/06/2026 Third consideration and final passage (201-0)",
+            "completed": true
           },
           {
             "label": "In the Senate — Bill has not yet reached this milestone",
@@ -1249,7 +1249,7 @@
           "phone": "(717) 787-1281",
           "offices": []
         },
-        "coSponsorCount": 8,
+        "coSponsorCount": 14,
         "coSponsors": [
           {
             "name": "Rep. Jessica Benham",
