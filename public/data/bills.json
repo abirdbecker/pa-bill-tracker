@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T13:45:29.195Z",
+  "generated": "2026-05-07T21:02:33.649Z",
   "sessionYear": "2025",
   "totalBills": 25,
   "issues": {
@@ -1195,10 +1195,10 @@
         "issues": [
           "Online Safety"
         ],
-        "lastAction": "(Remarks see House Journal Page ), May 6, 2026",
-        "status": "In the House — (Remarks see House Journal Page ) May 6, 2026",
-        "chamber": "House",
-        "committee": "",
+        "lastAction": "Referred to Judiciary, May 7, 2026",
+        "status": "In Senate Judiciary Committee — Referred May 7, 2026",
+        "chamber": "Senate",
+        "committee": "Judiciary",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -1217,12 +1217,12 @@
             "completed": true
           },
           {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "In the Senate —",
+            "completed": true
           },
           {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Referred to Committee — 05/07/2026 Referred to JUDICIARY [Senate]",
+            "completed": true
           },
           {
             "label": "Reported from Committee — Bill has not yet reached this milestone",
