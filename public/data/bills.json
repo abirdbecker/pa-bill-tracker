@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-08T13:13:03.959Z",
+  "generated": "2026-05-08T20:57:20.029Z",
   "sessionYear": "2025",
-  "totalBills": 25,
+  "totalBills": 26,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -1887,6 +1887,122 @@
       }
     ],
     "Social Media Age/Access": [
+      {
+        "id": "HB2497",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2497",
+        "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, providing for event outcome prediction wagering; imposing duties on the Pennsylvania Gaming Control Board and the Depart ment of Revenue; imposing an event outcome prediction wagering tax and local share assessment; establishing restricted receipt accounts within the State Gaming Fund and the Commonwealth Financing Authority; and imposing penalties.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Social Media Age/Access"
+        ],
+        "lastAction": "Referred to Gaming Oversight, May 8, 2026",
+        "status": "In House Gaming Oversight Committee — Referred May 8, 2026",
+        "chamber": "House",
+        "committee": "Gaming Oversight",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 05/08/2026 Referred to GAMING OVERSIGHT [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Danilo Burgos",
+          "party": "D",
+          "district": "197",
+          "memberId": "1863",
+          "bioPath": "/house/members/bio/1863/representative-danilo-burgos",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1863.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 772-2004",
+          "offices": []
+        },
+        "coSponsorCount": 11,
+        "coSponsors": [
+          {
+            "name": "Rep. Tarik Khan",
+            "party": "D",
+            "district": "194",
+            "memberId": "1983",
+            "bioPath": "/house/members/bio/1983/rep-tarik-khan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1983.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jeanne McNeill",
+            "party": "D",
+            "district": "133",
+            "memberId": "1793",
+            "bioPath": "/house/members/bio/1793/rep-jeanne-mcneill",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1793.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Arvind Venkat",
+            "party": "D",
+            "district": "30",
+            "memberId": "1944",
+            "bioPath": "/house/members/bio/1944/rep-arvind-venkat",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1944.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "age verification"
+        ]
+      },
       {
         "id": "HB2176",
         "url": "https://www.palegis.us/legislation/bills/2025/hb2176",
