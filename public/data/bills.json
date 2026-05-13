@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-13T14:10:47.570Z",
+  "generated": "2026-05-13T21:24:36.274Z",
   "sessionYear": "2025",
-  "totalBills": 26,
+  "totalBills": 27,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -1765,6 +1765,124 @@
         ],
         "matchedKeywords": [
           "free-play recess"
+        ]
+      }
+    ],
+    "Device Restrictions": [
+      {
+        "id": "HB2512",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2512",
+        "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in transportation network service, further providing for rates and forms of compensation.",
+        "nickname": null,
+        "description": null,
+        "note": null,
+        "issues": [
+          "Device Restrictions"
+        ],
+        "lastAction": "Referred to Consumer Protection, Technology & Utilities, May 13, 2026",
+        "status": "In House Consumer Protection, Technology & Utilities Committee — Referred May 13, 2026",
+        "chamber": "House",
+        "committee": "Consumer Protection, Technology & Utilities",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 05/13/2026 Referred to CONSUMER PROTECTION, TECHNOLOGY AND UTILITIES [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Andre Carroll",
+          "party": "D",
+          "district": "201",
+          "memberId": "2019",
+          "bioPath": "/house/members/bio/2019/representative-andre-carroll",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/2019.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-3181",
+          "offices": []
+        },
+        "coSponsorCount": 13,
+        "coSponsors": [
+          {
+            "name": "Rep. Ben Waxman",
+            "party": "D",
+            "district": "182",
+            "memberId": "1981",
+            "bioPath": "/house/members/bio/1981/rep-ben-waxman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1981.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Rick Krajewski",
+            "party": "D",
+            "district": "188",
+            "memberId": "1918",
+            "bioPath": "/house/members/bio/1918/rep-rick-krajewski",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1918.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Manuel Guzman",
+            "party": "D",
+            "district": "127",
+            "memberId": "1908",
+            "bioPath": "/house/members/bio/1908/rep-manuel-guzman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1908.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Christopher Rabb",
+            "party": "D",
+            "district": "200",
+            "memberId": "1760",
+            "bioPath": "/house/members/bio/1760/rep-christopher-rabb",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1760.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "smartphone AND age"
         ]
       }
     ],
