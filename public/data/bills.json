@@ -1,9 +1,129 @@
 {
-  "generated": "2026-06-01T17:21:32.755Z",
+  "generated": "2026-06-01T22:32:29.387Z",
   "sessionYear": "2025",
   "totalBills": 30,
   "issues": {
     "Phone-Free Schools": [
+      {
+        "id": "HB1814",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1814",
+        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell mobile device policy.",
+        "nickname": "Cell Phones in Schools",
+        "description": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
+        "note": null,
+        "issues": [
+          "Phone-Free Schools",
+          "Play & Childhood Independence"
+        ],
+        "lastAction": "(Remarks see House Journal Page ), June 1, 2026",
+        "status": "In the House — (Remarks see House Journal Page ) June 1, 2026",
+        "chamber": "House",
+        "committee": "",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 08/20/2025 Referred to EDUCATION [House] 05/06/2026 Re-committed to APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 04/28/2026 Reported as amended from EDUCATION [House] 06/01/2026 Re-reported as committed from APPROPRIATIONS [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — 06/01/2026 Third consideration and final passage (126-75)",
+            "completed": true
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Mandy Steele",
+          "party": "D",
+          "district": "33",
+          "memberId": "1945",
+          "bioPath": "/house/members/bio/1945/representative-mandy-steele",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1945.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 705-7141",
+          "offices": []
+        },
+        "coSponsorCount": 17,
+        "coSponsors": [
+          {
+            "name": "Rep. Jose Giral",
+            "party": "D",
+            "district": "180",
+            "memberId": "1980",
+            "bioPath": "/house/members/bio/1980/rep-jose-giral",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Craig Staats",
+            "party": "R",
+            "district": "145",
+            "memberId": "1707",
+            "bioPath": "/house/members/bio/1707/rep-craig-staats",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1707.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tim Brennan",
+            "party": "D",
+            "district": "29",
+            "memberId": "1943",
+            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jill Cooper",
+            "party": "R",
+            "district": "55",
+            "memberId": "1951",
+            "bioPath": "/house/members/bio/1951/rep-jill-cooper",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1951.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "cell phone AND school",
+          "bell-to-bell",
+          "device policy AND school",
+          "mobile device AND school"
+        ]
+      },
       {
         "id": "HB2551",
         "url": "https://www.palegis.us/legislation/bills/2025/hb2551",
@@ -117,126 +237,6 @@
           }
         ],
         "matchedKeywords": [
-          "mobile device AND school"
-        ]
-      },
-      {
-        "id": "HB1814",
-        "url": "https://www.palegis.us/legislation/bills/2025/hb1814",
-        "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for bell-to-bell mobile device policy.",
-        "nickname": "Cell Phones in Schools",
-        "description": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
-        "note": null,
-        "issues": [
-          "Phone-Free Schools",
-          "Play & Childhood Independence"
-        ],
-        "lastAction": "(Remarks see House Journal Page ), May 6, 2026",
-        "status": "In the House — (Remarks see House Journal Page ) May 6, 2026",
-        "chamber": "House",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 08/20/2025 Referred to EDUCATION [House] 05/06/2026 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 04/28/2026 Reported as amended from EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
-        "primeSponsor": {
-          "name": "Representative Mandy Steele",
-          "party": "D",
-          "district": "33",
-          "memberId": "1945",
-          "bioPath": "/house/members/bio/1945/representative-mandy-steele",
-          "photoUrl": "https://www.palegis.us/resources/images/members/300/1945.jpg",
-          "chamber": "House",
-          "email": null,
-          "phone": "(717) 705-7141",
-          "offices": []
-        },
-        "coSponsorCount": 18,
-        "coSponsors": [
-          {
-            "name": "Rep. Jose Giral",
-            "party": "D",
-            "district": "180",
-            "memberId": "1980",
-            "bioPath": "/house/members/bio/1980/rep-jose-giral",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Carol Hill-Evans",
-            "party": "D",
-            "district": "95",
-            "memberId": "1749",
-            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Craig Staats",
-            "party": "R",
-            "district": "145",
-            "memberId": "1707",
-            "bioPath": "/house/members/bio/1707/rep-craig-staats",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1707.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Tim Brennan",
-            "party": "D",
-            "district": "29",
-            "memberId": "1943",
-            "bioPath": "/house/members/bio/1943/rep-tim-brennan",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Jill Cooper",
-            "party": "R",
-            "district": "55",
-            "memberId": "1951",
-            "bioPath": "/house/members/bio/1951/rep-jill-cooper",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1951.jpg",
-            "chamber": "House"
-          }
-        ],
-        "matchedKeywords": [
-          "cell phone AND school",
-          "bell-to-bell",
-          "device policy AND school",
           "mobile device AND school"
         ]
       },
