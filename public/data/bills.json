@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T14:29:19.918Z",
+  "generated": "2026-06-05T21:23:33.430Z",
   "sessionYear": "2025",
   "totalBills": 32,
   "issues": {
@@ -15,10 +15,10 @@
           "Phone-Free Schools",
           "Play & Childhood Independence"
         ],
-        "lastAction": "(Remarks see House Journal Page ), June 1, 2026",
-        "status": "In the House — (Remarks see House Journal Page ) June 1, 2026",
-        "chamber": "House",
-        "committee": "",
+        "lastAction": "Referred to Education, June 5, 2026",
+        "status": "In Senate Education Committee — Referred June 5, 2026",
+        "chamber": "Senate",
+        "committee": "Education",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -37,12 +37,12 @@
             "completed": true
           },
           {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "In the Senate —",
+            "completed": true
           },
           {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Referred to Committee — 06/05/2026 Referred to EDUCATION [Senate]",
+            "completed": true
           },
           {
             "label": "Reported from Committee — Bill has not yet reached this milestone",
@@ -1553,7 +1553,7 @@
           "phone": "(412) 785-3070",
           "offices": []
         },
-        "coSponsorCount": 9,
+        "coSponsorCount": 10,
         "coSponsors": [
           {
             "name": "Sen. Camera Bartolotta",
