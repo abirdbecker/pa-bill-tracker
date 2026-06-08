@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-08T17:35:20.242Z",
+  "generated": "2026-06-08T21:48:25.943Z",
   "sessionYear": "2025",
   "totalBills": 27,
   "issues": {
@@ -598,6 +598,122 @@
     ],
     "Artificial Intelligence": [
       {
+        "id": "HB2252",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2252",
+        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of unlawful dissemination of intimate image.",
+        "nickname": "Nonconsensual Intimate Image Distribution",
+        "description": "Strengthens Pennsylvania's laws against nonconsensual distribution of intimate images by amending Title 18 (Crimes and Offenses). Builds on the state's existing deepfake laws (Act 125 of 2024 and Act 35 of 2025) to further protect victims of image-based sexual abuse. Sponsored by Rep. Emily Kinkead with co-sponsors including Reps. Lindsay Powell, MaryLouise Isaacson, and Carol Hill-Evans. Referred to Judiciary Committee.",
+        "note": null,
+        "issues": [
+          "Artificial Intelligence"
+        ],
+        "lastAction": "Removed from table, June 8, 2026",
+        "status": "In the House — Removed from table June 8, 2026",
+        "chamber": "House",
+        "committee": "",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 02/26/2026 Referred to JUDICIARY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — 05/04/2026 Reported as committed from JUDICIARY [House]",
+            "completed": true
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Emily Kinkead",
+          "party": "D",
+          "district": "20",
+          "memberId": "1896",
+          "bioPath": "/house/members/bio/1896/representative-emily-kinkead",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1896.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 787-5470",
+          "offices": []
+        },
+        "coSponsorCount": 22,
+        "coSponsors": [
+          {
+            "name": "Rep. Lindsay Powell",
+            "party": "D",
+            "district": "21",
+            "memberId": "2016",
+            "bioPath": "/house/members/bio/2016/rep-lindsay-powell",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/2016.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. MaryLouise Isaacson",
+            "party": "D",
+            "district": "175",
+            "memberId": "1857",
+            "bioPath": "/house/members/bio/1857/rep-marylouise-isaacson",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1857.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Carol Hill-Evans",
+            "party": "D",
+            "district": "95",
+            "memberId": "1749",
+            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Robert Freeman",
+            "party": "D",
+            "district": "136",
+            "memberId": "136",
+            "bioPath": "/house/members/bio/136/rep-robert-freeman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/136.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Johanny Cepeda-Freytiz",
+            "party": "D",
+            "district": "129",
+            "memberId": "1969",
+            "bioPath": "/house/members/bio/1969/rep-johanny-cepeda-freytiz",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1969.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
+          "artificial intelligence AND minor"
+        ]
+      },
+      {
         "id": "SB1349",
         "url": "https://www.palegis.us/legislation/bills/2025/sb1349",
         "title": "An Act providing for transparency in use of generative artificial intelligence; requiring disclosure of synthetic content; providing for establishment of content verification tools; imposing duties on the Bureau of Consumer Protection in the Office of Attorney General; and imposing penalties.",
@@ -713,122 +829,6 @@
         "matchedKeywords": [
           "artificial intelligence AND minor",
           "chatbot AND minor"
-        ]
-      },
-      {
-        "id": "HB2252",
-        "url": "https://www.palegis.us/legislation/bills/2025/hb2252",
-        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of unlawful dissemination of intimate image.",
-        "nickname": "Nonconsensual Intimate Image Distribution",
-        "description": "Strengthens Pennsylvania's laws against nonconsensual distribution of intimate images by amending Title 18 (Crimes and Offenses). Builds on the state's existing deepfake laws (Act 125 of 2024 and Act 35 of 2025) to further protect victims of image-based sexual abuse. Sponsored by Rep. Emily Kinkead with co-sponsors including Reps. Lindsay Powell, MaryLouise Isaacson, and Carol Hill-Evans. Referred to Judiciary Committee.",
-        "note": null,
-        "issues": [
-          "Artificial Intelligence"
-        ],
-        "lastAction": "Laid on the table, May 4, 2026",
-        "status": "In the House — Laid on the table May 4, 2026",
-        "chamber": "House",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/26/2026 Referred to JUDICIARY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 05/04/2026 Reported as committed from JUDICIARY [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
-        "primeSponsor": {
-          "name": "Representative Emily Kinkead",
-          "party": "D",
-          "district": "20",
-          "memberId": "1896",
-          "bioPath": "/house/members/bio/1896/representative-emily-kinkead",
-          "photoUrl": "https://www.palegis.us/resources/images/members/300/1896.jpg",
-          "chamber": "House",
-          "email": null,
-          "phone": "(717) 787-5470",
-          "offices": []
-        },
-        "coSponsorCount": 22,
-        "coSponsors": [
-          {
-            "name": "Rep. Lindsay Powell",
-            "party": "D",
-            "district": "21",
-            "memberId": "2016",
-            "bioPath": "/house/members/bio/2016/rep-lindsay-powell",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/2016.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. MaryLouise Isaacson",
-            "party": "D",
-            "district": "175",
-            "memberId": "1857",
-            "bioPath": "/house/members/bio/1857/rep-marylouise-isaacson",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1857.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Carol Hill-Evans",
-            "party": "D",
-            "district": "95",
-            "memberId": "1749",
-            "bioPath": "/house/members/bio/1749/rep-carol-hill-evans",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Robert Freeman",
-            "party": "D",
-            "district": "136",
-            "memberId": "136",
-            "bioPath": "/house/members/bio/136/rep-robert-freeman",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/136.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Johanny Cepeda-Freytiz",
-            "party": "D",
-            "district": "129",
-            "memberId": "1969",
-            "bioPath": "/house/members/bio/1969/rep-johanny-cepeda-freytiz",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1969.jpg",
-            "chamber": "House"
-          }
-        ],
-        "matchedKeywords": [
-          "artificial intelligence AND minor"
         ]
       },
       {
