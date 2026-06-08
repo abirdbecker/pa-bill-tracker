@@ -18,6 +18,14 @@ const ROOT = join(__dirname, '..');
 const issues = JSON.parse(readFileSync(join(ROOT, 'data/issues.json'), 'utf-8'));
 const knownBills = JSON.parse(readFileSync(join(ROOT, 'data/known-bills.json'), 'utf-8'));
 
+// A bill is "approved" for public display once it has a nickname or summary.
+// Matched-but-unapproved bills are routed to the review queue instead of the
+// public site, so full-text keyword false positives never appear publicly.
+const approvedIds = new Set([
+  ...Object.keys(knownBills.nicknames || {}),
+  ...Object.keys(knownBills.descriptions || {})
+]);
+
 // Member contact cache (7-day TTL)
 const CACHE_PATH = join(ROOT, '.member-cache.json');
 const CACHE_TTL = 7 * 24 * 60 * 60 * 1000;
@@ -229,13 +237,17 @@ async function main() {
     await delay(300);
   }
 
-  // Step 3: Group by primary issue
+  // Step 3: Split into approved (public) and unreviewed (review queue), then
+  // group approved bills by primary issue.
+  const approvedBills = fullBills.filter(b => approvedIds.has(b.id));
+  const reviewBills = fullBills.filter(b => !approvedIds.has(b.id));
+
   const grouped = {};
   for (const issue of issues.issues) {
     grouped[issue.name] = [];
   }
 
-  for (const bill of fullBills) {
+  for (const bill of approvedBills) {
     const primaryIssue = knownBills.categoryOverride?.[bill.id] || bill.issues[0];
     if (grouped[primaryIssue]) {
       grouped[primaryIssue].push(bill);
@@ -256,16 +268,51 @@ async function main() {
     if (grouped[key].length === 0) delete grouped[key];
   }
 
+  const generated = new Date().toISOString();
   const output = {
-    generated: new Date().toISOString(),
+    generated,
     sessionYear: issues.session_year,
-    totalBills: fullBills.length,
+    totalBills: approvedBills.length,
     issues: grouped
   };
 
   const outPath = join(ROOT, 'public/data/bills.json');
   writeFileSync(outPath, JSON.stringify(output, null, 2));
-  console.log(`\nWrote ${outPath} — ${fullBills.length} bills across ${Object.keys(grouped).length} issues`);
+  console.log(`\nWrote ${outPath} — ${approvedBills.length} bills across ${Object.keys(grouped).length} issues`);
+
+  // Review queue: matched bills awaiting curation. Preserve firstSeen dates
+  // across runs so the curator can tell new matches from lingering ones.
+  const queuePath = join(ROOT, 'data/review-queue.json');
+  const prevSeen = {};
+  if (existsSync(queuePath)) {
+    try {
+      for (const b of (JSON.parse(readFileSync(queuePath, 'utf-8')).bills || [])) {
+        prevSeen[b.id] = b.firstSeen;
+      }
+    } catch { /* ignore malformed queue */ }
+  }
+  const today = generated.slice(0, 10);
+  const queueBills = reviewBills
+    .map(b => ({
+      id: b.id,
+      title: b.title,
+      url: b.url,
+      issues: b.issues,
+      matchedKeywords: b.matchedKeywords,
+      status: b.status || b.lastAction || null,
+      primeSponsor: b.primeSponsor?.name || null,
+      firstSeen: prevSeen[b.id] || today
+    }))
+    .sort((a, b) => a.id.localeCompare(b.id));
+  writeFileSync(queuePath, JSON.stringify({ generated, count: queueBills.length, bills: queueBills }, null, 2));
+
+  if (queueBills.length) {
+    console.log(`\n⚠ ${queueBills.length} matched bill(s) awaiting review — hidden from the site until given a nickname/summary in known-bills.json:`);
+    for (const b of queueBills) {
+      console.log(`  ${b.id} [${b.issues.join(', ')}] — ${(b.title || '(no title)').slice(0, 70)}`);
+    }
+    console.log(`  See data/review-queue.json. Approve a bill by adding a nickname/summary, or add it to "hide".`);
+  }
 
   saveCache();
 }
