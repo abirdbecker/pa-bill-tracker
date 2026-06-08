@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-08T15:33:22.992Z",
+  "generated": "2026-06-08T17:12:47.441Z",
   "sessionYear": "2025",
-  "totalBills": 32,
+  "totalBills": 30,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -121,122 +121,6 @@
           "cell phone AND school",
           "bell-to-bell",
           "device policy AND school",
-          "mobile device AND school"
-        ]
-      },
-      {
-        "id": "HB2551",
-        "url": "https://www.palegis.us/legislation/bills/2025/hb2551",
-        "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in powers and duties in general, providing for certain text-based communications prohibited.",
-        "nickname": null,
-        "description": null,
-        "note": null,
-        "issues": [
-          "Phone-Free Schools"
-        ],
-        "lastAction": "Referred to Consumer Protection, Technology & Utilities, May 28, 2026",
-        "status": "In House Consumer Protection, Technology & Utilities Committee — Referred May 28, 2026",
-        "chamber": "House",
-        "committee": "Consumer Protection, Technology & Utilities",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/28/2026 Referred to CONSUMER PROTECTION, TECHNOLOGY AND UTILITIES [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
-        "primeSponsor": {
-          "name": "Representative MaryLouise Isaacson",
-          "party": "D",
-          "district": "175",
-          "memberId": "1857",
-          "bioPath": "/house/members/bio/1857/representative-marylouise-isaacson",
-          "photoUrl": "https://www.palegis.us/resources/images/members/300/1857.jpg",
-          "chamber": "House",
-          "email": null,
-          "phone": "(717) 783-8098",
-          "offices": []
-        },
-        "coSponsorCount": 21,
-        "coSponsors": [
-          {
-            "name": "Rep. Ed Neilson",
-            "party": "D",
-            "district": "174",
-            "memberId": "1615",
-            "bioPath": "/house/members/bio/1615/rep-ed-neilson",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1615.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Johanny Cepeda-Freytiz",
-            "party": "D",
-            "district": "129",
-            "memberId": "1969",
-            "bioPath": "/house/members/bio/1969/rep-johanny-cepeda-freytiz",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1969.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Gina Curry",
-            "party": "D",
-            "district": "164",
-            "memberId": "1932",
-            "bioPath": "/house/members/bio/1932/rep-gina-curry",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1932.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Kyle Donahue",
-            "party": "D",
-            "district": "113",
-            "memberId": "1963",
-            "bioPath": "/house/members/bio/1963/rep-kyle-donahue",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1963.jpg",
-            "chamber": "House"
-          },
-          {
-            "name": "Rep. Paul Friel",
-            "party": "D",
-            "district": "26",
-            "memberId": "1942",
-            "bioPath": "/house/members/bio/1942/rep-paul-friel",
-            "photoUrl": "https://www.palegis.us/resources/images/members/300/1942.jpg",
-            "chamber": "House"
-          }
-        ],
-        "matchedKeywords": [
           "mobile device AND school"
         ]
       },
@@ -717,8 +601,8 @@
         "id": "SB1349",
         "url": "https://www.palegis.us/legislation/bills/2025/sb1349",
         "title": "An Act providing for transparency in use of generative artificial intelligence; requiring disclosure of synthetic content; providing for establishment of content verification tools; imposing duties on the Bureau of Consumer Protection in the Office of Attorney General; and imposing penalties.",
-        "nickname": null,
-        "description": null,
+        "nickname": "Digital Provenance Act",
+        "description": "The Digital Provenance Act. Requires transparency around generative AI by mandating disclosure of synthetic (AI-generated) content and establishing content verification tools. Tasks the Bureau of Consumer Protection in the Office of Attorney General with enforcement and sets penalties for violations. Sponsored by Sen. Maria Collett.",
         "note": null,
         "issues": [
           "Artificial Intelligence",
@@ -829,76 +713,6 @@
         "matchedKeywords": [
           "artificial intelligence AND minor",
           "chatbot AND minor"
-        ]
-      },
-      {
-        "id": "SB1330",
-        "url": "https://www.palegis.us/legislation/bills/2025/sb1330",
-        "title": "An Act amending the act of December 16, 1986 (P.L.1646, No.188), known as the Chiropractic Practice Act, in preliminary provisions, providing for findings and declarations and for applicability and c onstruction and further providing for definitions; in State Board of Chiropractic, further providing for powers and duties and providing for certification to perform dry needling, for certification to practice animal chiropractic, for concussion management and for student athletes; in licensure and regulation, further providing for applications for license, repealing provisions relating to examination and to failure of examination, further providing for reciprocity, for limited license, for refusal, suspension or revocation of license, repealing provisions relating to continuing chiropractic education, providing for continuing chiropractic education requirements, for format and limits for continuing chiropractic education, for course content and approval, for calculation of continuing chiropractic education credits, for sponsor approval and program administration, for renewal certification, reporting and audits, for exemptions and carryover and for extensions, waivers and enforcement, further providing for professional liability insurance, for license required, for Doctor of Chiropractic and abbreviation and for relationship with other branches of the healing arts and providing for opinions and testimony; in penalty provisions, further providing for practice of chiropractic without license prohibited and for violation of other provisions; and, in miscellaneous provisions, further providing for fees.",
-        "nickname": null,
-        "description": null,
-        "note": null,
-        "issues": [
-          "Artificial Intelligence"
-        ],
-        "lastAction": "Referred to Consumer Protection & Professional Licensure, May 20, 2026",
-        "status": "In Senate Consumer Protection & Professional Licensure Committee — Referred May 20, 2026",
-        "chamber": "Senate",
-        "committee": "Consumer Protection & Professional Licensure",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/20/2026 Referred to CONSUMER PROTECTION AND PROFESSIONAL LICENSURE [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
-        "primeSponsor": {
-          "name": "Senator Dawn Keefer",
-          "party": "R",
-          "district": "31",
-          "memberId": "1748",
-          "bioPath": "/senate/members/bio/1748/senator-dawn-keefer",
-          "photoUrl": "https://www.palegis.us/resources/images/members/300/1748.jpg",
-          "chamber": "Senate",
-          "email": null,
-          "phone": "(717) 432-1730",
-          "offices": []
-        },
-        "coSponsorCount": 0,
-        "coSponsors": [],
-        "matchedKeywords": [
-          "artificial intelligence AND minor"
         ]
       },
       {

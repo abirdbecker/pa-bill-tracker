@@ -28,7 +28,8 @@
     "SB293": "AI in the Workforce",
     "HB2176": "Social Media Literacy Education",
     "HB2252": "Nonconsensual Intimate Image Distribution",
-    "HB2006": "AI Companionship App Safety"
+    "HB2006": "AI Companionship App Safety",
+    "SB1349": "Digital Provenance Act"
   },
   "hide": [
     "HB849", "SB361",
@@ -36,7 +37,7 @@
     "SB1079", "SB626", "HB2213", "HB1479",
     "HB416", "HB1188", "HB2153",
     "SB424", "HB660", "SB194", "SB113", "HB1611",
-    "HB1396", "SB1174"
+    "HB1396", "SB1174", "SB1330", "HB2551"
   ],
   "descriptions": {
     "SB1014": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
@@ -63,7 +64,8 @@
     "SB293": "Commissions a study on the impact of artificial intelligence on Pennsylvania's workforce and education system, including how AI tools are being used in schools and potential effects on student learning.",
     "HB2176": "Requires PA public schools to provide social media literacy education. Covers topics such as algorithmic manipulation, data privacy, identifying misinformation, and healthy digital habits. Sponsored by Rep. Jim Prokopiak with 14 co-sponsors.",
     "HB2252": "Strengthens Pennsylvania's laws against nonconsensual distribution of intimate images by amending Title 18 (Crimes and Offenses). Builds on the state's existing deepfake laws (Act 125 of 2024 and Act 35 of 2025) to further protect victims of image-based sexual abuse. Sponsored by Rep. Emily Kinkead with co-sponsors including Reps. Lindsay Powell, MaryLouise Isaacson, and Carol Hill-Evans. Referred to Judiciary Committee.",
-    "HB2006": "Establishes safety requirements for AI companionship applications (like Character.ai and Replika) with penalties for noncompliance. Targets the risks these apps pose to minors, including emotional manipulation and inappropriate content. Sponsored by Rep. Melissa Shusterman."
+    "HB2006": "Establishes safety requirements for AI companionship applications (like Character.ai and Replika) with penalties for noncompliance. Targets the risks these apps pose to minors, including emotional manipulation and inappropriate content. Sponsored by Rep. Melissa Shusterman.",
+    "SB1349": "The Digital Provenance Act. Requires transparency around generative AI by mandating disclosure of synthetic (AI-generated) content and establishing content verification tools. Tasks the Bureau of Consumer Protection in the Office of Attorney General with enforcement and sets penalties for violations. Sponsored by Sen. Maria Collett."
   },
   "notes": {}
 }
