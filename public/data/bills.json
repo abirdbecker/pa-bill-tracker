@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T14:31:04.494Z",
+  "generated": "2026-06-09T21:45:37.336Z",
   "sessionYear": "2025",
   "totalBills": 27,
   "issues": {
@@ -600,15 +600,15 @@
       {
         "id": "HB2252",
         "url": "https://www.palegis.us/legislation/bills/2025/hb2252",
-        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of unlawful dissemination of intimate image.",
+        "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of unlawful dissemination of intimate image; and, in min ors, further providing for the offense of sexual abuse of children.",
         "nickname": "Nonconsensual Intimate Image Distribution",
         "description": "Strengthens Pennsylvania's laws against nonconsensual distribution of intimate images by amending Title 18 (Crimes and Offenses). Builds on the state's existing deepfake laws (Act 125 of 2024 and Act 35 of 2025) to further protect victims of image-based sexual abuse. Sponsored by Rep. Emily Kinkead with co-sponsors including Reps. Lindsay Powell, MaryLouise Isaacson, and Carol Hill-Evans. Referred to Judiciary Committee.",
         "note": null,
         "issues": [
           "Artificial Intelligence"
         ],
-        "lastAction": "Removed from table, June 8, 2026",
-        "status": "In the House — Removed from table June 8, 2026",
+        "lastAction": "(Remarks see House Journal Page ), June 9, 2026",
+        "status": "In the House — (Remarks see House Journal Page ) June 9, 2026",
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -617,7 +617,7 @@
             "completed": true
           },
           {
-            "label": "Referred to Committee — 02/26/2026 Referred to JUDICIARY [House]",
+            "label": "Referred to Committee — 02/26/2026 Referred to JUDICIARY [House] 06/09/2026 Re-committed to APPROPRIATIONS [House]",
             "completed": true
           },
           {
@@ -661,7 +661,7 @@
           "phone": "(717) 787-5470",
           "offices": []
         },
-        "coSponsorCount": 22,
+        "coSponsorCount": 23,
         "coSponsors": [
           {
             "name": "Rep. Lindsay Powell",
@@ -1313,10 +1313,10 @@
         "issues": [
           "Online Safety"
         ],
-        "lastAction": "Referred to Judiciary, May 20, 2026",
-        "status": "In Senate Judiciary Committee — Referred May 20, 2026",
+        "lastAction": "First consideration, June 9, 2026",
+        "status": "In the Senate — First consideration June 9, 2026",
         "chamber": "Senate",
-        "committee": "Judiciary",
+        "committee": "",
         "timeline": [
           {
             "label": "Bill was introduced — In the Senate",
@@ -1327,8 +1327,8 @@
             "completed": true
           },
           {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Reported from Committee — 06/09/2026 Reported as committed from JUDICIARY [Senate]",
+            "completed": true
           },
           {
             "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
@@ -2533,7 +2533,7 @@
           "phone": "(717) 787-8939",
           "offices": []
         },
-        "coSponsorCount": 22,
+        "coSponsorCount": 23,
         "coSponsors": [
           {
             "name": "Rep. Johanny Cepeda-Freytiz",
