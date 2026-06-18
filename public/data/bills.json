@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-18T14:51:07.252Z",
+  "generated": "2026-06-18T22:04:40.425Z",
   "sessionYear": "2025",
   "totalBills": 27,
   "issues": {
@@ -607,10 +607,10 @@
         "issues": [
           "Artificial Intelligence"
         ],
-        "lastAction": "(Remarks see House Journal Page ), June 10, 2026",
-        "status": "In the House — (Remarks see House Journal Page ) June 10, 2026",
-        "chamber": "House",
-        "committee": "",
+        "lastAction": "Referred to Judiciary, June 18, 2026",
+        "status": "In Senate Judiciary Committee — Referred June 18, 2026",
+        "chamber": "Senate",
+        "committee": "Judiciary",
         "timeline": [
           {
             "label": "Bill was introduced — In the House",
@@ -629,12 +629,12 @@
             "completed": true
           },
           {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "In the Senate —",
+            "completed": true
           },
           {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
+            "label": "Referred to Committee — 06/18/2026 Referred to JUDICIARY [Senate]",
+            "completed": true
           },
           {
             "label": "Reported from Committee — Bill has not yet reached this milestone",
