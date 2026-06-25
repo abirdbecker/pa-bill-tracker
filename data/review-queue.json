@@ -1,5 +1,20 @@
 {
-  "generated": "2026-06-25T14:56:41.351Z",
-  "count": 0,
-  "bills": []
+  "generated": "2026-06-25T21:29:31.637Z",
+  "count": 1,
+  "bills": [
+    {
+      "id": "HB1667",
+      "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; in gross receipts tax, further providing for imposition of tax and for establishment of revenue-neutral reconciliation; providing for educational tax credits; in manufacturing and investment tax credit, further providing for business firms and for tax credit certificates; repealing provisions relating to Computer Data Center Equipment Incentive Program; in general provisions, providing for data centers; prohibiting the imposition of a tax on gross receipts received from the sale of electric energy; imposing a penalty; and making repeals.",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb1667",
+      "issues": [
+        "Play & Childhood Independence"
+      ],
+      "matchedKeywords": [
+        "recess AND lunch AND school"
+      ],
+      "status": "In the Senate — (Remarks see Senate Journal Page ....) June 25, 2026",
+      "primeSponsor": "Representative Paul Takac",
+      "firstSeen": "2026-06-25"
+    }
+  ]
 }
