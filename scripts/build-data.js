@@ -118,6 +118,12 @@ function parseActionDate(lastAction) {
   return isNaN(parsed) ? new Date(0) : parsed;
 }
 
+// Track keyword-search outcomes so we can abort if the whole scrape fails
+// (e.g. palegis.us is down or blocking the runner) instead of overwriting
+// the last-good bills.json with empty data and deploying it. See the guard
+// in main() below.
+const searchStats = { ok: 0, failed: 0 };
+
 async function scanIssue(issue) {
   const allBills = new Map();
 
@@ -126,6 +132,7 @@ async function scanIssue(issue) {
     try {
       const html = await fetchPage(url);
       const bills = parseSearchResults(html);
+      searchStats.ok++;
       for (const bill of bills) {
         if (!allBills.has(bill.billId)) {
           bill.matchedKeywords = [keyword];
@@ -135,6 +142,7 @@ async function scanIssue(issue) {
         }
       }
     } catch (err) {
+      searchStats.failed++;
       console.error(`  Warning: search for "${keyword}" failed: ${err.message}`);
     }
     await delay(300);
@@ -168,6 +176,18 @@ async function main() {
   }
 
   console.log(`\nTotal unique bills: ${allDiscovered.size}`);
+  console.log(`Keyword searches: ${searchStats.ok} ok, ${searchStats.failed} failed`);
+
+  // Guard: if every keyword search failed, the source is unreachable (down or
+  // blocking us) — not "there are no bills". Abort WITHOUT touching the
+  // committed bills.json so the workflow fails loudly and the last-good data
+  // stays live, instead of deploying an empty site.
+  if (searchStats.ok === 0) {
+    throw new Error(
+      `All ${searchStats.failed} keyword searches failed — palegis.us appears ` +
+      `unreachable. Aborting to preserve the existing bills.json.`
+    );
+  }
 
   // Step 2: Fetch full details for each bill
   const fullBills = [];
