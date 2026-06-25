@@ -8,6 +8,11 @@ export default function BillCard({ bill }) {
     <div className="bill-card">
       <div className="bill-card__header">
         <span className="bill-card__id">{displayId}</span>
+        {bill.amended && (
+          <span className="bill-card__badge bill-card__badge--amended" title="Reported as amended in committee">
+            Amended
+          </span>
+        )}
         <div className="bill-card__titles">
           {bill.nickname && (
             <div className="bill-card__nickname">{bill.nickname}</div>

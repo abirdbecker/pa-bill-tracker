@@ -208,6 +208,11 @@ async function main() {
       const lastAction = detail.lastAction || stub.lastAction;
       const status = buildStatus(detail, lastAction);
 
+      // A bill is "amended" once a committee reports it as amended — surfaced
+      // as a badge on the site so substantive rewrites (e.g. HB1814 aligning
+      // with SB1014) are visible at a glance. Substance lives in the note.
+      const amended = (detail.timeline || []).some(t => /\bas amended\b/i.test(t.label));
+
       const bill = {
         id: billId,
         url: stub.url,
@@ -218,6 +223,7 @@ async function main() {
         issues: issueNames,
         lastAction,
         status,
+        amended,
         chamber: detail.chamber,
         committee: detail.committee,
         timeline: detail.timeline,
@@ -245,6 +251,8 @@ async function main() {
         note: knownBills.notes[billId] || null,
         issues: issueNames,
         lastAction: stub.lastAction,
+        status: null,
+        amended: false,
         chamber: null,
         committee: null,
         timeline: [],

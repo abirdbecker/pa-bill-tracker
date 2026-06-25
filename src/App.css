@@ -150,6 +150,24 @@
   flex-shrink: 0;
 }
 
+.bill-card__badge {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 3px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.bill-card__badge--amended {
+  color: #8a531a;
+  background: #f4e3c8;
+  border: 1px solid #d9b67e;
+}
+
 .bill-card__titles {
   flex: 1;
   min-width: 0;

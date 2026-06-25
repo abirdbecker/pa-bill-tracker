@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T14:50:43.337Z",
+  "generated": "2026-06-25T14:56:41.351Z",
   "sessionYear": "2025",
   "totalBills": 28,
   "issues": {
@@ -17,6 +17,7 @@
         ],
         "lastAction": "Referred to Education, June 5, 2026",
         "status": "In Senate Education Committee — Referred June 5, 2026",
+        "amended": true,
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -137,6 +138,7 @@
         ],
         "lastAction": "(Remarks see House Journal Page ....), May 6, 2026",
         "status": "In the House — (Remarks see House Journal Page ....) May 6, 2026",
+        "amended": true,
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -257,6 +259,7 @@
         ],
         "lastAction": "Referred to Education, April 17, 2025",
         "status": "In House Education Committee — Referred April 17, 2025",
+        "amended": false,
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -373,6 +376,7 @@
         ],
         "lastAction": "Referred to Education, Feb. 3, 2025",
         "status": "In Senate Education Committee — Referred Feb. 3, 2025",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -491,6 +495,7 @@
         ],
         "lastAction": "Laid on the table (Pursuant to Senate Rule 9), June 3, 2026",
         "status": "In the Senate — Laid on the table (Pursuant to Senate Rule 9) June 3, 2026",
+        "amended": true,
         "chamber": "Senate",
         "committee": "",
         "timeline": [
@@ -609,6 +614,7 @@
         ],
         "lastAction": "Re-committed to Rules, June 23, 2026",
         "status": "In the House — Re-committed to Rules June 23, 2026",
+        "amended": true,
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -727,6 +733,7 @@
         ],
         "lastAction": "Referred to Judiciary, June 18, 2026",
         "status": "In Senate Judiciary Committee — Referred June 18, 2026",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Judiciary",
         "timeline": [
@@ -844,6 +851,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, June 15, 2026",
         "status": "In House Communications & Technology Committee — Referred June 15, 2026",
+        "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -961,6 +969,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, June 4, 2026",
         "status": "In Senate Communications & Technology Committee — Referred June 4, 2026",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1078,6 +1087,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, March 18, 2026",
         "status": "In House Communications & Technology Committee — Referred March 18, 2026",
+        "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1197,6 +1207,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, Feb. 11, 2026",
         "status": "In House Communications & Technology Committee — Referred Feb. 11, 2026",
+        "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1316,6 +1327,7 @@
         ],
         "lastAction": "Referred to Education, April 11, 2025",
         "status": "In Senate Education Committee — Referred April 11, 2025",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -1434,6 +1446,7 @@
         ],
         "lastAction": "Re-referred to Appropriations, June 10, 2026",
         "status": "In the Senate — Re-referred to Appropriations June 10, 2026",
+        "amended": false,
         "chamber": "Senate",
         "committee": "",
         "timeline": [
@@ -1550,6 +1563,7 @@
         ],
         "lastAction": "Referred to Judiciary, May 7, 2026",
         "status": "In Senate Judiciary Committee — Referred May 7, 2026",
+        "amended": true,
         "chamber": "Senate",
         "committee": "Judiciary",
         "timeline": [
@@ -1666,6 +1680,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, June 24, 2025",
         "status": "In Senate Communications & Technology Committee — Referred June 24, 2025",
+        "amended": true,
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -1784,6 +1799,7 @@
         ],
         "lastAction": "Referred to Education, Feb. 12, 2026",
         "status": "In House Education Committee — Referred Feb. 12, 2026",
+        "amended": false,
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -1900,6 +1916,7 @@
         ],
         "lastAction": "Laid on the table, Nov. 18, 2025",
         "status": "In the House — Laid on the table Nov. 18, 2025",
+        "amended": true,
         "chamber": "House",
         "committee": "",
         "timeline": [
@@ -2016,6 +2033,7 @@
         ],
         "lastAction": "Referred to Education, June 25, 2025",
         "status": "In House Education Committee — Referred June 25, 2025",
+        "amended": false,
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -2134,6 +2152,7 @@
         ],
         "lastAction": "Referred to Education, May 6, 2026",
         "status": "In House Education Committee — Referred May 6, 2026",
+        "amended": false,
         "chamber": "House",
         "committee": "Education",
         "timeline": [
@@ -2252,6 +2271,7 @@
         ],
         "lastAction": "First consideration, June 24, 2026",
         "status": "In the Senate — First consideration June 24, 2026",
+        "amended": true,
         "chamber": "Senate",
         "committee": "",
         "timeline": [
@@ -2368,6 +2388,7 @@
         ],
         "lastAction": "Referred to Education, May 1, 2026",
         "status": "In Senate Education Committee — Referred May 1, 2026",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Education",
         "timeline": [
@@ -2484,6 +2505,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, July 14, 2025",
         "status": "In House Communications & Technology Committee — Referred July 14, 2025",
+        "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -2600,6 +2622,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, May 29, 2025",
         "status": "In House Communications & Technology Committee — Referred May 29, 2025",
+        "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -2716,6 +2739,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, May 8, 2025",
         "status": "In House Communications & Technology Committee — Referred May 8, 2025",
+        "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
         "timeline": [
@@ -2833,6 +2857,7 @@
         ],
         "lastAction": "Referred to Judiciary, April 9, 2025",
         "status": "In Senate Judiciary Committee — Referred April 9, 2025",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Judiciary",
         "timeline": [
@@ -2940,6 +2965,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, March 21, 2025",
         "status": "In Senate Communications & Technology Committee — Referred March 21, 2025",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
@@ -3056,6 +3082,7 @@
         ],
         "lastAction": "Referred to Labor & Industry, March 17, 2025",
         "status": "In House Labor & Industry Committee — Referred March 17, 2025",
+        "amended": false,
         "chamber": "House",
         "committee": "Labor & Industry",
         "timeline": [
@@ -3173,6 +3200,7 @@
         ],
         "lastAction": "Referred to Communications & Technology, Jan. 24, 2025",
         "status": "In Senate Communications & Technology Committee — Referred Jan. 24, 2025",
+        "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
         "timeline": [
