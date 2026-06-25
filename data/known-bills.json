@@ -4,6 +4,7 @@
     "SB1090": "Artificial Intelligence"
   },
   "nicknames": {
+    "HB2637": "Ban on AI Chatbots in Children's Toys",
     "SB1014": "Phone-Free Schools Act",
     "HB1814": "Cell Phones in Schools",
     "HB1238": "Mobile Device Restrictions During Instruction",
@@ -40,9 +41,11 @@
     "HB416", "HB1188", "HB2153",
     "SB424", "HB660", "SB194", "SB113", "HB1611",
     "HB1396", "SB1174", "SB1330", "HB2551",
-    "HB2497", "HB2512", "HB2593"
+    "HB2497", "HB2512", "HB2593",
+    "HB2243"
   ],
   "descriptions": {
+    "HB2637": "Establishes a temporary prohibition on AI chatbots embedded in children's toys and imposes penalties for violations. Aimed at limiting unsupervised, open-ended AI conversation with young children through connected toys.",
     "SB1014": "Requires all PA public schools to adopt a bell-to-bell phone-free policy by 2027–28. Covers the entire school day including lunch and recess. Schools choose the method (pouches, lockers, etc.) but must restrict possession, not just use. Exceptions for medical needs, IEPs, and English language learners. Passed the Senate 46-1.",
     "HB1814": "Bans cell phone possession during the school day and requires physical storage — either a lockbox/secure location or a locking pouch carried by the student. More prescriptive than SB1014, which lets districts choose the restriction method. Only exceptions: volunteer firefighters/EMS members and students with an immediate family member's medical condition, both requiring administrator approval.",
     "HB1238": "Restricts student possession and use of mobile devices during instructional time in K-12 public schools. Sponsored by Rep. Barbara Gleim. Narrower in scope than SB1014 and HB1814, which cover the entire school day bell-to-bell — this bill focuses specifically on instruction time only.",

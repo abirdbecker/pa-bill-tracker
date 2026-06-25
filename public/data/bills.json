@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T14:04:42.151Z",
+  "generated": "2026-06-25T14:29:24.612Z",
   "sessionYear": "2025",
-  "totalBills": 27,
+  "totalBills": 28,
   "issues": {
     "Phone-Free Schools": [
       {
@@ -829,6 +829,122 @@
         ],
         "matchedKeywords": [
           "artificial intelligence AND minor",
+          "artificial intelligence AND child"
+        ]
+      },
+      {
+        "id": "HB2637",
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2637",
+        "title": "An Act providing for a temporary prohibition on artificial intelligence chatbots in children's toys; and imposing penalties.",
+        "nickname": "Ban on AI Chatbots in Children's Toys",
+        "description": "Establishes a temporary prohibition on AI chatbots embedded in children's toys and imposes penalties for violations. Aimed at limiting unsupervised, open-ended AI conversation with young children through connected toys.",
+        "note": null,
+        "issues": [
+          "Artificial Intelligence"
+        ],
+        "lastAction": "Referred to Communications & Technology, June 15, 2026",
+        "status": "In House Communications & Technology Committee — Referred June 15, 2026",
+        "chamber": "House",
+        "committee": "Communications & Technology",
+        "timeline": [
+          {
+            "label": "Bill was introduced — In the House",
+            "completed": true
+          },
+          {
+            "label": "Referred to Committee — 06/15/2026 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
+            "completed": true
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "In the Senate — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Referred to Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Reported from Committee — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
+            "completed": false
+          },
+          {
+            "label": "Executive Action — Bill has not yet reached this milestone",
+            "completed": false
+          }
+        ],
+        "primeSponsor": {
+          "name": "Representative Joe Ciresi",
+          "party": "D",
+          "district": "146",
+          "memberId": "1847",
+          "bioPath": "/house/members/bio/1847/representative-joe-ciresi",
+          "photoUrl": "https://www.palegis.us/resources/images/members/300/1847.jpg",
+          "chamber": "House",
+          "email": null,
+          "phone": "(717) 783-4086",
+          "offices": []
+        },
+        "coSponsorCount": 8,
+        "coSponsors": [
+          {
+            "name": "Rep. Ben Waxman",
+            "party": "D",
+            "district": "182",
+            "memberId": "1981",
+            "bioPath": "/house/members/bio/1981/rep-ben-waxman",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1981.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Jeanne McNeill",
+            "party": "D",
+            "district": "133",
+            "memberId": "1793",
+            "bioPath": "/house/members/bio/1793/rep-jeanne-mcneill",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1793.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Chris Pielli",
+            "party": "D",
+            "district": "156",
+            "memberId": "1975",
+            "bioPath": "/house/members/bio/1975/rep-chris-pielli",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1975.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Tarah Probst",
+            "party": "D",
+            "district": "189",
+            "memberId": "1982",
+            "bioPath": "/house/members/bio/1982/rep-tarah-probst",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1982.jpg",
+            "chamber": "House"
+          },
+          {
+            "name": "Rep. Benjamin Sanchez",
+            "party": "D",
+            "district": "153",
+            "memberId": "1849",
+            "bioPath": "/house/members/bio/1849/rep-benjamin-sanchez",
+            "photoUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg",
+            "chamber": "House"
+          }
+        ],
+        "matchedKeywords": [
           "artificial intelligence AND child"
         ]
       },
