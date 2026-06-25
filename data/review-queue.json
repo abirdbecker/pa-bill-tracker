@@ -1,5 +1,34 @@
 {
-  "generated": "2026-06-24T21:26:04.630Z",
-  "count": 0,
-  "bills": []
+  "generated": "2026-06-25T14:07:43.712Z",
+  "count": 2,
+  "bills": [
+    {
+      "id": "HB2243",
+      "title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for safe harbor for sexuall y exploited children; and, in juvenile matters, repealing provisions relating to dependency in lieu of delinquency.",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2243",
+      "issues": [
+        "Online Safety"
+      ],
+      "matchedKeywords": [
+        "child exploitation"
+      ],
+      "status": "In Senate Judiciary Committee — Referred June 22, 2026",
+      "primeSponsor": "Representative Joe Webster",
+      "firstSeen": "2026-06-25"
+    },
+    {
+      "id": "HB2637",
+      "title": "An Act providing for a temporary prohibition on artificial intelligence chatbots in children's toys; and imposing penalties.",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb2637",
+      "issues": [
+        "Artificial Intelligence"
+      ],
+      "matchedKeywords": [
+        "artificial intelligence AND child"
+      ],
+      "status": "In House Communications & Technology Committee — Referred June 15, 2026",
+      "primeSponsor": "Representative Joe Ciresi",
+      "firstSeen": "2026-06-25"
+    }
+  ]
 }
