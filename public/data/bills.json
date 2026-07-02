@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T21:25:17.915Z",
+  "generated": "2026-07-02T13:41:58.117Z",
   "sessionYear": "2025",
   "totalBills": 28,
   "issues": {
@@ -17,47 +17,10 @@
         ],
         "lastAction": "Referred to Education, June 5, 2026",
         "status": "In Senate Education Committee — Referred June 5, 2026",
-        "amended": true,
+        "amended": false,
         "chamber": "Senate",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 08/20/2025 Referred to EDUCATION [House] 05/06/2026 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 04/28/2026 Reported as amended from EDUCATION [House] 06/01/2026 Re-reported as committed from APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 06/01/2026 Third consideration and final passage (126-75)",
-            "completed": true
-          },
-          {
-            "label": "In the Senate —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 06/05/2026 Referred to EDUCATION [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Mandy Steele",
           "party": "D",
@@ -137,48 +100,11 @@
           "Play & Childhood Independence"
         ],
         "lastAction": "(Remarks see House Journal Page ....), May 6, 2026",
-        "status": "In the House — (Remarks see House Journal Page ....) May 6, 2026",
-        "amended": true,
+        "status": "In House Education Committee — (Remarks see House Journal Page ....) May 6, 2026",
+        "amended": false,
         "chamber": "House",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 10/10/2025 Referred to EDUCATION [Senate] 02/02/2026 Re-referred to APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 12/09/2025 Reported as amended from EDUCATION [Senate] 02/03/2026 Re-reported as committed from APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 02/03/2026 Third consideration and final passage (46-1)",
-            "completed": true
-          },
-          {
-            "label": "In the House —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/04/2026 Referred to EDUCATION [House] 05/06/2026 Re-referred to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 04/28/2026 Re-reported as amended from EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "committee": "Education",
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Devlin Robinson",
           "party": "R",
@@ -261,44 +187,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 04/17/2025 Referred to EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Barbara Gleim",
           "party": "R",
@@ -378,44 +267,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/03/2025 Referred to EDUCATION [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Doug Mastriano",
           "party": "R",
@@ -493,48 +345,11 @@
           "Education Technology"
         ],
         "lastAction": "Laid on the table (Pursuant to Senate Rule 9), June 3, 2026",
-        "status": "In the Senate — Laid on the table (Pursuant to Senate Rule 9) June 3, 2026",
-        "amended": true,
+        "status": "In Senate Education Committee — Laid on the table (Pursuant to Senate Rule 9) June 3, 2026",
+        "amended": false,
         "chamber": "Senate",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/26/2025 Referred to EDUCATION [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 03/23/2026 Reported as amended from EDUCATION [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "committee": "Education",
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Kristin Phillips-Hill",
           "party": "R",
@@ -613,48 +428,11 @@
           "Social Media Age/Access"
         ],
         "lastAction": "(Remarks see House Journal Page ), July 1, 2026",
-        "status": "In the House — (Remarks see House Journal Page ) July 1, 2026",
-        "amended": true,
+        "status": "In House Communications & Technology Committee — (Remarks see House Journal Page ) July 1, 2026",
+        "amended": false,
         "chamber": "House",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 11/06/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House] 06/23/2026 Re-committed to RULES [House] 07/01/2026 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 06/23/2026 Reported as amended from COMMUNICATIONS AND TECHNOLOGY [House] 07/01/2026 Re-reported as committed from RULES [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "committee": "Communications & Technology",
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Melissa Shusterman",
           "party": "D",
@@ -736,44 +514,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Judiciary",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/26/2026 Referred to JUDICIARY [House] 06/09/2026 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 05/04/2026 Reported as committed from JUDICIARY [House] 06/10/2026 Re-reported as committed from APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 06/10/2026 Third consideration and final passage (202-0)",
-            "completed": true
-          },
-          {
-            "label": "In the Senate —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 06/18/2026 Referred to JUDICIARY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Emily Kinkead",
           "party": "D",
@@ -854,44 +595,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 06/15/2026 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Joe Ciresi",
           "party": "D",
@@ -972,44 +676,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 06/04/2026 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Maria Collett",
           "party": "D",
@@ -1090,44 +757,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 11/14/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate] 02/04/2026 Re-referred to APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 11/18/2025 Reported as committed from COMMUNICATIONS AND TECHNOLOGY [Senate] 03/17/2026 Re-reported as committed from APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 03/17/2026 Third consideration and final passage (49-1)",
-            "completed": true
-          },
-          {
-            "label": "In the House —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 03/18/2026 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Tracy Pennycuick",
           "party": "R",
@@ -1210,44 +840,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/11/2026 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Jeanne McNeill",
           "party": "D",
@@ -1330,44 +923,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 04/11/2025 Referred to EDUCATION [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Wayne Langerholc",
           "party": "R",
@@ -1445,48 +1001,11 @@
           "Online Safety"
         ],
         "lastAction": "Re-referred to Appropriations, June 10, 2026",
-        "status": "In the Senate — Re-referred to Appropriations June 10, 2026",
+        "status": "In Senate Appropriations Committee — Re-referred June 10, 2026",
         "amended": false,
         "chamber": "Senate",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/20/2026 Referred to JUDICIARY [Senate] 06/10/2026 Re-referred to APPROPRIATIONS [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 06/09/2026 Reported as committed from JUDICIARY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "committee": "Appropriations",
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Devlin Robinson",
           "party": "R",
@@ -1563,47 +1082,10 @@
         ],
         "lastAction": "Referred to Judiciary, May 7, 2026",
         "status": "In Senate Judiciary Committee — Referred May 7, 2026",
-        "amended": true,
+        "amended": false,
         "chamber": "Senate",
         "committee": "Judiciary",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 04/01/2025 Referred to JUDICIARY [House] 05/05/2026 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 05/05/2025 Reported as amended from JUDICIARY [House] 05/06/2026 Re-reported as committed from APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 05/06/2026 Third consideration and final passage (201-0)",
-            "completed": true
-          },
-          {
-            "label": "In the Senate —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/07/2026 Referred to JUDICIARY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Jason Ortitay",
           "party": "R",
@@ -1680,47 +1162,10 @@
         ],
         "lastAction": "Referred to Communications & Technology, June 24, 2025",
         "status": "In Senate Communications & Technology Committee — Referred June 24, 2025",
-        "amended": true,
+        "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 03/05/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House] 06/03/2025 Re-committed to RULES [House] 06/17/2025 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 06/03/2025 Reported as amended from COMMUNICATIONS AND TECHNOLOGY [House] 06/17/2025 Re-reported as committed from RULES [House] 06/23/2025 Re-reported as committed from APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 06/23/2025 Third consideration and final passage (203-0)",
-            "completed": true
-          },
-          {
-            "label": "In the Senate —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 06/24/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Tarik Khan",
           "party": "D",
@@ -1802,44 +1247,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 02/12/2026 Referred to EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Danielle Friel Otten",
           "party": "D",
@@ -1915,48 +1323,11 @@
           "Play & Childhood Independence"
         ],
         "lastAction": "Laid on the table, Nov. 18, 2025",
-        "status": "In the House — Laid on the table Nov. 18, 2025",
-        "amended": true,
+        "status": "In House Children & Youth Committee — Laid on the table Nov. 18, 2025",
+        "amended": false,
         "chamber": "House",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 09/22/2025 Referred to CHILDREN AND YOUTH [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 11/18/2025 Reported as amended from CHILDREN AND YOUTH [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "committee": "Children & Youth",
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Jeanne McNeill",
           "party": "D",
@@ -2036,44 +1407,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 06/25/2025 Referred to EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Tim Briggs",
           "party": "D",
@@ -2155,44 +1489,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/06/2026 Referred to EDUCATION [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Napoleon J. Nelson",
           "party": "D",
@@ -2270,48 +1567,11 @@
           "Social Media Age/Access"
         ],
         "lastAction": "Second consideration, June 25, 2026",
-        "status": "In the Senate — Second consideration June 25, 2026",
-        "amended": true,
+        "status": "In Senate Commerce Committee — Second consideration June 25, 2026",
+        "amended": false,
         "chamber": "Senate",
-        "committee": "",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 01/14/2025 Referred to COMMERCE [House] 04/23/2025 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 03/18/2025 Reported as amended from COMMERCE [House] 10/01/2025 Re-reported as committed from APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 10/01/2025 Third consideration and final passage (127-76)",
-            "completed": true
-          },
-          {
-            "label": "In the Senate —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 10/03/2025 Referred to CONSUMER PROTECTION AND PROFESSIONAL LICENSURE [Senate] 02/04/2026 Re-referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 02/04/2026 Reported as committed from CONSUMER PROTECTION AND PROFESSIONAL LICENSURE [Senate] 06/24/2026 Re-reported as amended from COMMUNICATIONS AND TECHNOLOGY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "committee": "Commerce",
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Ed Neilson",
           "party": "D",
@@ -2391,44 +1651,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Education",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 01/30/2026 Referred to EDUCATION [House] 04/15/2026 Re-committed to APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — 02/04/2026 Reported as committed from EDUCATION [House] 04/27/2026 Re-reported as committed from APPROPRIATIONS [House]",
-            "completed": true
-          },
-          {
-            "label": "Bill Receives Third Consideration — 04/27/2026 Third consideration and final passage (115-85)",
-            "completed": true
-          },
-          {
-            "label": "In the Senate —",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/01/2026 Referred to EDUCATION [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Jim Prokopiak",
           "party": "D",
@@ -2508,44 +1731,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 07/14/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Manuel Guzman",
           "party": "D",
@@ -2625,44 +1811,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/29/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Jill Cooper",
           "party": "R",
@@ -2742,44 +1891,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 05/08/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Brian Munroe",
           "party": "D",
@@ -2860,44 +1972,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Judiciary",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 04/09/2025 Referred to JUDICIARY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Cris Dush",
           "party": "R",
@@ -2968,44 +2043,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 03/21/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Maria Collett",
           "party": "D",
@@ -3085,44 +2123,7 @@
         "amended": false,
         "chamber": "House",
         "committee": "Labor & Industry",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the House",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 03/17/2025 Referred to LABOR AND INDUSTRY [House]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the Senate — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Representative Liz Hanbidge",
           "party": "D",
@@ -3203,44 +2204,7 @@
         "amended": false,
         "chamber": "Senate",
         "committee": "Communications & Technology",
-        "timeline": [
-          {
-            "label": "Bill was introduced — In the Senate",
-            "completed": true
-          },
-          {
-            "label": "Referred to Committee — 01/24/2025 Referred to COMMUNICATIONS AND TECHNOLOGY [Senate]",
-            "completed": true
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "In the House — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Referred to Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Reported from Committee — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Bill Receives Third Consideration — Bill has not yet reached this milestone",
-            "completed": false
-          },
-          {
-            "label": "Executive Action — Bill has not yet reached this milestone",
-            "completed": false
-          }
-        ],
+        "timeline": [],
         "primeSponsor": {
           "name": "Senator Vincent Hughes",
           "party": "D",
