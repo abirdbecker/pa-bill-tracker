@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T20:56:11.606Z",
+  "generated": "2026-07-06T15:15:16.412Z",
   "sessionYear": "2025",
   "totalBills": 28,
   "issues": {
@@ -608,7 +608,7 @@
           "phone": "(717) 783-4086",
           "offices": []
         },
-        "coSponsorCount": 8,
+        "coSponsorCount": 9,
         "coSponsors": [
           {
             "name": "Rep. Ben Waxman",
